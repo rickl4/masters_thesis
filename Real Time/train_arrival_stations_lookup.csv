@@ -1,0 +1,149 @@
+﻿station_char,station_name,traindirection,stationid,lineid,sequence,INT_ID
+VMC1,Vaughan N,North,80,1,1,171
+VMC2,Vaughan S,South,80,1,1,171
+HWY1,Highway 407 N,North,79,1,2,170
+HWY2,Highway 407 N,South,79,1,2,170
+PVL1,Pioneer Village N,North,78,1,3,169
+PVL2,Pioneer Village S,South,78,1,3,169
+YUN1,York University N,North,77,1,4,168
+YUN2,York University S,South,77,1,4,168
+FIW1,Finch West N,North,76,1,5,167
+FIW2,Finch West S,South,76,1,5,167
+DNP1,Downsview Park N,North,75,1,6,166
+DNP2,Downsview Park S,South,75,1,6,166
+SHW1,Sheppard West N,North,1,1,7,165
+SHW2,Sheppard West S,South,1,1,7,165
+WIL1,Wilson N,North,2,1,8,164
+WIL2,Wilson S,South,2,1,8,164
+YKD1,Yorkdale N,North,3,1,9,163
+YKD2,Yorkdale S,South,3,1,9,163
+LWW1,Lawrence West N,North,4,1,10,162
+LWW2,Lawrence West S,South,4,1,10,162
+GCN1,Glencairn N,North,5,1,11,161
+GCN2,Glencairn S,South,5,1,11,161
+CVL1,Eglinton West N,North,6,1,12,160
+CVL2,Eglinton West S,South,6,1,12,160
+SCW1,St Clair West N,North,7,1,13,159
+SCW2,St Clair West S,South,7,1,13,159
+DUP1,Dupont N,North,8,1,14,158
+DUP2,Dupont S,South,8,1,14,158
+SPA1,Spadina N,North,9,1 and 2,15,157
+SPA2,Spadina S,South,9,1 and 2,15,157
+SGU1,St George N,North,10,1 and 2,16,156
+SGU2,St George S,South,10,1 and 2,16,156
+MUS1,Museum N,North,11,1,17,155
+MUS2,Museum S,South,11,1,17,155
+QPK1,Queen's Park N,North,12,1,18,154
+QPK2,Queen's Park S,South,12,1,18,154
+STP1,St Patrick N,North,13,1,19,153
+STP2,St Patrick S,South,13,1,19,153
+OSG1,Osgoode N,North,14,1,20,152
+OSG2,Osgoode S,South,14,1,20,152
+STA1,St Andrew N,North,15,1,21,151
+STA2,St Andrew S,South,15,1,21,151
+UNI1,Union N,North,16,1,22,100
+UNI2,Union S,South,16,1,22,100
+KNG1,King N,North,17,1,23,101
+KNG2,King S,South,17,1,23,101
+QUN1,Queen N,North,18,1,24,102
+QUN2,Queen S,South,18,1,24,102
+DUN1,Dundas N,North,19,1,25,103
+DUN2,Dundas S,South,19,1,25,103
+COL1,College N,North,20,1,26,104
+COL2,College S,South,20,1,26,104
+WEL1,Wellesley N,North,21,1,27,105
+WEL2,Wellesley S,South,21,1,27,105
+BLO1,Bloor-Yonge N,North,22 and 50,1 and 2,28,106
+BLO2,Bloor-Yonge S,South,22 and 50,1 and 2,28,106
+ROS1,Rosedale N,North,23,1,29,107
+ROS2,Rosedale S,South,23,1,29,107
+SUM1,Summerhill N,North,24,1,30,108
+SUM2,Summerhill S,South,24,1,30,108
+STC1,St Clair N,North,25,1,31,109
+STC2,St Clair S,South,25,1,31,109
+DAV1,Davisville N,North,26,1,32,110
+DAV2,Davisville S,South,26,1,32,110
+EGL1,Eglinton N,North,27,1,33,111
+EGL2,Eglinton S,South,27,1,33,111
+LAW1,Lawrence N,North,28,1,34,112
+LAW2,Lawrence S,South,28,1,34,112
+YKM1,York Mills N,North,29,1,35,113
+YKM2,York Mills S,South,29,1,35,113
+SHP1,Sheppard-Yonge N,North,30 and 64,1 and 4,36,114
+SHP2,Sheppard-Yonge S,South,30 and 64,1 and 4,36,114
+NYC1,North York Centre N,North,31,1,37,115
+NYC2,North York Centre S,South,31,1,37,115
+FIN1,Finch N,North,32,1,38,116
+FIN2,Finch S,South,32,1,38,116
+KIP1,Kipling E,East,33,2,39,200
+KIP2,Kipling W,West,33,2,39,200
+ISL1,Islington E,East,34,2,40,201
+ISL2,Islington W,West,34,2,40,201
+RYK1,Royal York E,East,35,2,41,202
+RYK2,Royal York W,West,35,2,41,202
+OML1,Old Mill E,East,36,2,42,204
+OML2,Old Mill W,West,36,2,42,204
+JNE1,Jane E,East,37,2,43,203
+JNE2,Jane W,West,37,2,43,203
+RUN1,Runnymede E,East,38,2,44,205
+RUN2,Runnymede W,West,38,2,44,205
+HPK1,High Park E,East,39,2,45,206
+HPK2,High Park W,West,39,2,45,206
+KEL1,Keele E,East,40,2,46,207
+KEL2,Keele W,West,40,2,46,207
+DNW1,Dundas West E,East,41,2,47,208
+DNW2,Dundas West W,West,41,2,47,208
+LAN1,Lansdowne E,East,42,2,48,209
+LAN2,Lansdowne W,West,42,2,48,209
+DUF1,Dufferin E,East,43,2,49,210
+DUF2,Dufferin W,West,43,2,49,210
+OSS1,Ossington E,East,44,2,50,211
+OSS2,Ossington W,West,44,2,50,211
+CHR1,Christie E,East,45,2,51,212
+CHR2,Christie W,West,45,2,51,212
+BAT1,Bathurst E,East,46,2,52,213
+BAT2,Bathurst W,West,46,2,52,213
+BSP1,Spadina E,East,9 and 47,1 and 2,53,214
+BSP2,Spadina W,West,9 and 47,1 and 2,53,214
+SGL1,St George E,East,10 and 48,1 and 2,54,156
+SGL2,St George W,West,10 and 48,1 and 2,54,156
+BAU1,Bay E,East,49,2,55,215
+BAU2,Bay W,West,49,2,55,215
+YNG1,Bloor-Yonge E,East,22 and 50,1 and 2,56,106
+YNG2,Bloor-Yonge W,West,22 and 50,1 and 2,56,106
+SHE1,Sherbourne E,East,51,2,57,216
+SHE2,Sherbourne W,West,51,2,57,216
+CFK1,Castle Frank E,East,52,2,58,217
+CFK2,Castle Frank W,West,52,2,58,217
+BRD1,Broadview E,East,53,2,59,218
+BRD2,Broadview W,West,53,2,59,218
+CHE1,Chester E,East,54,2,60,219
+CHE2,Chester W,West,54,2,60,219
+PAP1,Pape E,East,55,2,61,220
+PAP2,Pape W,West,55,2,61,220
+DON1,Donlands E,East,56,2,62,221
+DON2,Donlands W,West,56,2,62,221
+GWD1,Greenwood E,East,57,2,63,222
+GWD2,Greenwood W,West,57,2,63,222
+COX1,Coxwell E,East,58,2,64,223
+COX2,Coxwell W,West,58,2,64,223
+WDB1,Woodbine E,East,59,2,65,224
+WDB2,Woodbine W,West,59,2,65,224
+MST1,Main Street E,East,60,2,66,225
+MST2,Main Street W,West,60,2,66,225
+VPK1,Victoria Park E,East,61,2,67,226
+VPK2,Victoria Park W,West,61,2,67,226
+WAR1,Warden E,East,62,2,68,227
+WAR2,Warden W,West,62,2,68,227
+KEN1,Kennedy E,East,63,2,69,228
+KEN2,Kennedy W,West,63,2,69,228
+YIE1,Sheppard-Yonge E,East,30 and 64,1 and 4,70,114
+YIE2,Sheppard-Yonge W,West,30 and 64,1 and 4,70,114
+BYV1,Bayview E,East,65,4,71,401
+BYV2,Bayview W,West,65,4,71,401
+BSS1,Bessarion E,East,66,4,72,402
+BSS2,Bessarion W,West,66,4,72,402
+LES1,Leslie E,East,67,4,73,403
+LES2,Leslie W,West,67,4,73,403
+DML1,Don Mills E,East,68,4,74,404
+DML2,Don Mills W,West,68,4,74,404

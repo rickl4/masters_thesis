@@ -1,0 +1,3936 @@
+AREA_NAME,AREA_SHORT_CODE,INT_ID
+Toronto-St. Paul's,12,110
+Parkdale-High Park,4,205
+University-Rosedale,11,214
+Parkdale-High Park,4,208
+Willowdale,18,115
+Davenport,9,209
+Toronto-Danforth,14,222
+Toronto-St. Paul's,12,109
+University-Rosedale,11,103
+Toronto Centre,13,103
+Don Valley North,17,401
+Parkdale-High Park,4,207
+Don Valley West,15,113
+Eglinton-Lawrence,8,113
+Don Valley North,17,402
+Eglinton-Lawrence,8,162
+Scarborough Southwest,20,228
+University-Rosedale,11,158
+Etobicoke-Lakeshore,3,202
+York Centre,6,164
+Parkdale-High Park,4,206
+Willowdale,18,114
+University-Rosedale,11,108
+Scarborough Southwest,20,227
+Toronto Centre,13,105
+Eglinton-Lawrence,8,161
+University-Rosedale,11,215
+Etobicoke-Lakeshore,3,200
+Toronto-Danforth,14,221
+Don Valley West,15,112
+Eglinton-Lawrence,8,112
+University-Rosedale,11,213
+Davenport,9,210
+University-Rosedale,11,107
+Don Valley North,17,403
+University-Rosedale,11,157
+University-Rosedale,11,154
+University-Rosedale,11,106
+Don Valley North,17,404
+University-Rosedale,11,217
+Parkdale-High Park,4,203
+Scarborough Centre,21,304
+Toronto-Danforth,14,218
+Beaches-East York,19,223
+Beaches-East York,19,225
+Toronto-St. Paul's,12,159
+University-Rosedale,11,155
+York Centre,6,165
+University-Rosedale,11,212
+Etobicoke-Lakeshore,3,201
+Toronto-St. Paul's,12,111
+Toronto-St. Paul's,12,160
+Eglinton-Lawrence,8,160
+Scarborough Centre,21,302
+Willowdale,18,116
+Scarborough Centre,21,301
+University-Rosedale,11,211
+Davenport,9,211
+Scarborough Centre,21,303
+Toronto Centre,13,102
+University-Rosedale,11,156
+University-Rosedale,11,153
+Spadina-Fort York,10,153
+Spadina-Fort York,10,152
+University-Rosedale,11,104
+Toronto Centre,13,104
+Toronto Centre,13,101
+Spadina-Fort York,10,151
+Beaches-East York,19,224
+Toronto Centre,13,216
+Scarborough-Guildwood,24,305
+Toronto-Danforth,14,219
+Scarborough Southwest,20,226
+Etobicoke-Lakeshore,3,204
+Toronto-Danforth,14,220
+Eglinton-Lawrence,8,163
+Davenport,9,13465703
+York Centre,6,13454197
+Scarborough Southwest,20,13454827
+Scarborough-Rouge Park,25,14606950
+Scarborough-Rouge Park,25,13447211
+Scarborough-Guildwood,24,13447211
+York South-Weston,5,13462698
+Spadina-Fort York,10,13467923
+Etobicoke North,1,13454806
+Beaches-East York,19,14232506
+Scarborough-Rouge Park,25,13444973
+Beaches-East York,19,13459820
+Scarborough-Rouge Park,25,13444084
+Scarborough Southwest,20,13454337
+Scarborough-Rouge Park,25,13444687
+Scarborough Southwest,20,13454867
+Scarborough Southwest,20,13450997
+Scarborough-Guildwood,24,13450997
+Scarborough-Rouge Park,25,13444869
+Scarborough Southwest,20,13451513
+Scarborough Centre,21,13451513
+Scarborough Southwest,20,13455179
+Scarborough-Guildwood,24,13448868
+Scarborough Centre,21,13448868
+Scarborough Southwest,20,13452476
+Scarborough Centre,21,13452476
+Scarborough-Rouge Park,25,13442514
+Scarborough-Rouge Park,25,13442521
+Scarborough Southwest,20,13457893
+Scarborough Southwest,20,13452119
+Scarborough Centre,21,13452119
+Scarborough-Guildwood,24,13449204
+Scarborough Centre,21,13449204
+Scarborough-Guildwood,24,13446514
+Scarborough-Guildwood,24,13446212
+Scarborough-Guildwood,24,13445760
+Scarborough-Rouge Park,25,13442606
+Scarborough-Rouge Park,25,13443509
+Scarborough North,23,13443509
+University-Rosedale,11,13462168
+Scarborough Southwest,20,13459028
+Scarborough Southwest,20,13456762
+Scarborough Southwest,20,13452053
+Scarborough Centre,21,13452053
+Scarborough Centre,21,13449501
+Scarborough Southwest,20,13455585
+Scarborough Southwest,20,13460017
+Scarborough-Rouge Park,25,13441963
+Scarborough-Guildwood,24,13446827
+Scarborough Centre,21,13446827
+Scarborough-Guildwood,24,13445553
+Scarborough Centre,21,13449830
+Scarborough North,23,13444590
+Scarborough Southwest,20,13453221
+Scarborough Centre,21,13453221
+Scarborough North,23,13443955
+Scarborough North,23,13442839
+Etobicoke Centre,2,13462163
+Etobicoke North,1,13451185
+Scarborough Southwest,20,13455284
+Scarborough North,23,13445175
+Scarborough Centre,21,13450484
+Scarborough Southwest,20,13458963
+Scarborough Southwest,20,13458308
+Scarborough Southwest,20,13456330
+Scarborough-Rouge Park,25,13441850
+Beaches-East York,19,13461728
+Scarborough North,23,13443499
+Scarborough North,23,13444901
+Scarborough Southwest,20,14074105
+Scarborough Centre,21,14074105
+Scarborough North,23,13442174
+Scarborough Southwest,20,13453588
+Scarborough Centre,21,13453588
+Scarborough North,23,14249068
+Scarborough Centre,21,13447843
+Beaches-East York,19,13463494
+Scarborough North,23,13442631
+Scarborough Centre,21,13450818
+Beaches-East York,19,13457585
+Scarborough Centre,21,13447496
+Beaches-East York,19,13461342
+Scarborough Southwest,20,13461342
+Beaches-East York,19,13459236
+Scarborough Centre,21,13452791
+Beaches-East York,19,13463787
+Beaches-East York,19,13460223
+Scarborough Southwest,20,13460223
+Scarborough North,23,14038170
+Scarborough-Agincourt,22,14038170
+Beaches-East York,19,13459445
+Scarborough Southwest,20,13459445
+Beaches-East York,19,13462643
+Scarborough-Agincourt,22,13445476
+Scarborough North,23,13444619
+Scarborough Centre,21,13448199
+Scarborough North,23,20364357
+Scarborough Centre,21,13448838
+Scarborough Centre,21,13448519
+Scarborough Southwest,20,13454107
+Scarborough Centre,21,13454107
+Don Valley East,16,13454107
+Beaches-East York,19,13456719
+Scarborough Southwest,20,13453978
+Scarborough Centre,21,13453978
+Scarborough North,23,13443810
+Scarborough North,23,13445219
+Scarborough-Agincourt,22,13445219
+Toronto-Danforth,14,13459805
+Scarborough North,23,13441620
+Scarborough North,23,13442502
+Beaches-East York,19,13461602
+Scarborough North,23,13443575
+Scarborough Centre,21,13447673
+Don Valley East,16,13454202
+Scarborough Southwest,20,13454288
+Don Valley East,16,13454288
+Beaches-East York,19,13457092
+Beaches-East York,19,13459010
+Toronto-Danforth,14,13459010
+Toronto-Danforth,14,13463183
+Scarborough North,23,13441760
+Beaches-East York,19,13459689
+Toronto-Danforth,14,13459689
+Scarborough North,23,13441867
+Scarborough-Agincourt,22,13445746
+Scarborough Centre,21,13449013
+Don Valley East,16,13449013
+Don Valley East,16,13453431
+Scarborough North,23,13441926
+Scarborough Centre,21,13451212
+Scarborough North,23,13443617
+Scarborough North,23,13441801
+Scarborough-Agincourt,22,13445899
+Don Valley North,17,13445899
+Don Valley East,16,13448397
+Don Valley East,16,13447991
+Scarborough Centre,21,13451412
+Don Valley East,16,13451412
+Don Valley West,15,13455296
+Don Valley East,16,13455296
+Don Valley East,16,13448168
+Toronto-Danforth,14,13458943
+Don Valley West,15,13456228
+Don Valley East,16,13454752
+Toronto-Danforth,14,13463478
+Scarborough-Agincourt,22,13446075
+Scarborough North,23,13442866
+Don Valley West,15,13456414
+Don Valley East,16,13456414
+Don Valley East,16,13454893
+Scarborough-Agincourt,22,13446996
+Don Valley North,17,13446996
+Scarborough-Agincourt,22,13446551
+Don Valley North,17,13446551
+Toronto-Danforth,14,13464177
+Don Valley West,15,13455899
+Scarborough-Agincourt,22,13446373
+Don Valley East,16,13452372
+Don Valley West,15,13457237
+Don Valley East,16,13449541
+Scarborough North,23,13441995
+Toronto-Danforth,14,13465231
+Scarborough-Agincourt,22,13444601
+University-Rosedale,11,13464674
+Scarborough North,23,13442643
+Scarborough North,23,13441734
+Scarborough North,23,13441674
+Scarborough-Agincourt,22,13444019
+Toronto-Danforth,14,13459249
+Scarborough North,23,13441635
+Scarborough-Agincourt,22,13443562
+Toronto Centre,13,13465795
+Scarborough North,23,13443046
+Scarborough-Agincourt,22,13443046
+Toronto-Danforth,14,13459931
+Scarborough-Agincourt,22,13442651
+Parkdale-High Park,4,13465550
+Toronto Centre,13,13466312
+Don Valley North,17,13446581
+Toronto Centre,13,13466516
+Toronto Centre,13,13466241
+Don Valley East,16,13448536
+University-Rosedale,11,13462724
+Eglinton-Lawrence,8,13454398
+Toronto Centre,13,13464403
+Don Valley West,15,13448770
+Toronto-Danforth,14,13460600
+Don Valley West,15,13452717
+Don Valley East,16,13452717
+Toronto Centre,13,13466482
+Don Valley West,15,13452469
+Scarborough North,23,13441649
+Scarborough-Agincourt,22,13442867
+Eglinton-Lawrence,8,13456838
+Etobicoke Centre,2,13464425
+Toronto Centre,13,13464096
+Scarborough-Agincourt,22,13443837
+Toronto Centre,13,13466150
+Toronto Centre,13,13464912
+Davenport,9,13462285
+York Centre,6,13453281
+Scarborough-Agincourt,22,13442033
+Toronto Centre,13,13467011
+Spadina-Fort York,10,13467011
+Scarborough-Agincourt,22,13441903
+University-Rosedale,11,13463030
+University-Rosedale,11,13462162
+Don Valley West,15,13449822
+Don Valley East,16,13449822
+University-Rosedale,11,13459852
+University-Rosedale,11,13462552
+Scarborough North,23,13441919
+Scarborough-Agincourt,22,13441919
+Don Valley North,17,13444966
+Don Valley West,15,13457532
+Don Valley West,15,13456348
+Scarborough-Agincourt,22,13444158
+Scarborough-Agincourt,22,13444318
+Don Valley North,17,13444318
+Davenport,9,13463664
+Toronto-St. Paul's,12,13461271
+University-Rosedale,11,13463585
+Davenport,9,13463585
+Scarborough North,23,13441740
+Scarborough-Agincourt,22,13441740
+Don Valley West,15,13458625
+Davenport,9,13461950
+Spadina-Fort York,10,13467722
+Scarborough-Agincourt,22,13442003
+Don Valley West,15,13457650
+Etobicoke-Lakeshore,3,13468745
+Toronto-St. Paul's,12,13462648
+Don Valley West,15,13458404
+Toronto-St. Paul's,12,13458404
+Toronto-St. Paul's,12,13462422
+Toronto-St. Paul's,12,13460587
+Davenport,9,13460587
+Don Valley West,15,13450611
+Don Valley North,17,13442279
+Scarborough-Agincourt,22,13443090
+Don Valley North,17,13443090
+Davenport,9,13463350
+Parkdale-High Park,4,13468374
+Spadina-Fort York,10,13468374
+Etobicoke-Lakeshore,3,13470353
+Etobicoke-Lakeshore,3,13465689
+Etobicoke Centre,2,13465689
+Toronto Centre,13,13465784
+Scarborough-Agincourt,22,13442179
+Don Valley North,17,13442179
+Spadina-Fort York,10,13468053
+Don Valley North,17,13444423
+Don Valley North,17,13442528
+Toronto-St. Paul's,12,13457359
+Eglinton-Lawrence,8,13457359
+Davenport,9,13463516
+Etobicoke-Lakeshore,3,13470120
+York South-Weston,5,13463893
+Don Valley North,17,13444761
+Davenport,9,13462582
+Toronto-St. Paul's,12,13457449
+Eglinton-Lawrence,8,13457449
+Don Valley West,15,13457453
+Toronto-St. Paul's,12,13457453
+Don Valley West,15,13456819
+Toronto-St. Paul's,12,13456819
+Parkdale-High Park,4,13465319
+Scarborough North,23,14248958
+Davenport,9,13466425
+Spadina-Fort York,10,13467715
+Parkdale-High Park,4,13467983
+Davenport,9,13467983
+Spadina-Fort York,10,13467983
+Etobicoke Centre,2,13466818
+York South-Weston,5,13463871
+Toronto-St. Paul's,12,13460901
+Davenport,9,13460901
+Parkdale-High Park,4,13464451
+Davenport,9,13463080
+Davenport,9,13466826
+Etobicoke-Lakeshore,3,13469508
+Don Valley West,15,13458104
+Toronto-St. Paul's,12,13458104
+Toronto-St. Paul's,12,13456902
+Don Valley North,17,13442682
+York South-Weston,5,13461687
+Davenport,9,13464191
+Willowdale,18,13445452
+Don Valley North,17,13445452
+Parkdale-High Park,4,13468436
+York South-Weston,5,13463232
+Parkdale-High Park,4,13464510
+York South-Weston,5,13464510
+Toronto-St. Paul's,12,13460576
+Don Valley West,15,13451068
+Don Valley West,15,13449877
+Eglinton-Lawrence,8,13454662
+Toronto-St. Paul's,12,13457863
+Eglinton-Lawrence,8,13457863
+Parkdale-High Park,4,13464592
+Parkdale-High Park,4,13464406
+York South-Weston,5,13464406
+Toronto-St. Paul's,12,13459836
+Parkdale-High Park,4,13468605
+Davenport,9,13464092
+Eglinton-Lawrence,8,13452678
+Don Valley West,15,13448880
+Parkdale-High Park,4,13464461
+Davenport,9,13461384
+Etobicoke Centre,2,13464483
+Eglinton-Lawrence,8,13451789
+Parkdale-High Park,4,13464438
+Willowdale,18,13445882
+Humber River-Black Creek,7,13450799
+York South-Weston,5,13464218
+Eglinton-Lawrence,8,13453533
+Parkdale-High Park,4,13464439
+Etobicoke-Lakeshore,3,13469783
+Toronto-St. Paul's,12,13458084
+Eglinton-Lawrence,8,13458084
+Toronto-St. Paul's,12,13459036
+Eglinton-Lawrence,8,13459036
+Davenport,9,13459036
+Willowdale,18,13443870
+Eglinton-Lawrence,8,13457667
+Willowdale,18,13443242
+Don Valley North,17,13443242
+York South-Weston,5,13461228
+University-Rosedale,11,13466116
+Davenport,9,13466116
+Davenport,9,13461619
+York South-Weston,5,13461619
+Eglinton-Lawrence,8,13452017
+Eglinton-Lawrence,8,13456031
+Eglinton-Lawrence,8,13455135
+Eglinton-Lawrence,8,13457350
+Parkdale-High Park,4,13468486
+Parkdale-High Park,4,13465772
+Willowdale,18,13445047
+Toronto-St. Paul's,12,13457799
+Eglinton-Lawrence,8,13457799
+Don Valley North,17,13442747
+Eglinton-Lawrence,8,13457395
+York South-Weston,5,13462567
+Eglinton-Lawrence,8,13455028
+Willowdale,18,13446584
+York South-Weston,5,13461587
+York Centre,6,13452437
+Etobicoke-Lakeshore,3,13466915
+Etobicoke Centre,2,13466915
+York South-Weston,5,13461263
+Etobicoke-Lakeshore,3,13470130
+York South-Weston,5,13459347
+Eglinton-Lawrence,8,13456244
+Etobicoke-Lakeshore,3,13469914
+Willowdale,18,13445250
+Toronto-St. Paul's,12,13458706
+Eglinton-Lawrence,8,13458706
+Etobicoke Centre,2,13461007
+Eglinton-Lawrence,8,13456468
+York South-Weston,5,13460216
+Eglinton-Lawrence,8,13454491
+Etobicoke-Lakeshore,3,13469211
+York South-Weston,5,13457330
+York Centre,6,13449607
+York South-Weston,5,13460119
+York South-Weston,5,13460757
+York Centre,6,13446031
+Willowdale,18,13446031
+Etobicoke Centre,2,13461680
+York South-Weston,5,13458238
+Eglinton-Lawrence,8,13454748
+Etobicoke-Lakeshore,3,13469800
+Eglinton-Lawrence,8,13455455
+York South-Weston,5,13456692
+York Centre,6,13444801
+Willowdale,18,13444801
+Etobicoke-Lakeshore,3,13470261
+York South-Weston,5,13459968
+York Centre,6,13444609
+Willowdale,18,13444609
+York South-Weston,5,13456952
+Etobicoke-Lakeshore,3,13470006
+Etobicoke-Lakeshore,3,13469998
+Etobicoke-Lakeshore,3,13470147
+York South-Weston,5,13458367
+York Centre,6,13453983
+Humber River-Black Creek,7,13455040
+York Centre,6,13455040
+York South-Weston,5,13457965
+Etobicoke Centre,2,13460207
+York South-Weston,5,13457985
+Scarborough-Guildwood,24,13449936
+York Centre,6,13450069
+Etobicoke-Lakeshore,3,13470350
+York Centre,6,13446970
+Willowdale,18,13446970
+Etobicoke-Lakeshore,3,13470610
+York Centre,6,13445306
+Etobicoke North,1,13459022
+Etobicoke Centre,2,13459022
+Etobicoke-Lakeshore,3,13469743
+Etobicoke-Lakeshore,3,13468751
+Etobicoke Centre,2,13468751
+York Centre,6,13454050
+Etobicoke-Lakeshore,3,13470438
+York Centre,6,13447779
+York Centre,6,13453125
+Etobicoke Centre,2,13465491
+Etobicoke North,1,13458327
+Etobicoke Centre,2,13458327
+Don Valley West,15,13458913
+Etobicoke Centre,2,13459156
+York South-Weston,5,13457027
+Etobicoke North,1,13458463
+Etobicoke Centre,2,13458463
+Etobicoke Centre,2,13461140
+Etobicoke-Lakeshore,3,13470082
+Etobicoke-Lakeshore,3,13469458
+Etobicoke Centre,2,13469458
+Etobicoke Centre,2,13467918
+Etobicoke Centre,2,13462349
+Scarborough Southwest,20,13454488
+Humber River-Black Creek,7,13455580
+Humber River-Black Creek,7,13446042
+York Centre,6,13446042
+York Centre,6,13446837
+York Centre,6,13451388
+Humber River-Black Creek,7,13449857
+York Centre,6,13449857
+Humber River-Black Creek,7,13449373
+York Centre,6,14646572
+Etobicoke North,1,13457759
+Humber River-Black Creek,7,13448814
+Etobicoke Centre,2,13464505
+Humber River-Black Creek,7,13449500
+Humber River-Black Creek,7,13453198
+Humber River-Black Creek,7,13452283
+York Centre,6,13452283
+Spadina-Fort York,10,13467204
+Humber River-Black Creek,7,13452693
+Humber River-Black Creek,7,13449708
+Etobicoke North,1,13459576
+Etobicoke Centre,2,13459576
+Etobicoke Centre,2,13469240
+Humber River-Black Creek,7,13451305
+Etobicoke North,1,13451305
+Humber River-Black Creek,7,13448840
+Humber River-Black Creek,7,13453059
+Humber River-Black Creek,7,13447218
+Etobicoke North,1,13454154
+Humber River-Black Creek,7,13447070
+Etobicoke North,1,13456668
+Humber River-Black Creek,7,13446896
+Humber River-Black Creek,7,13450142
+Humber River-Black Creek,7,13447223
+Humber River-Black Creek,7,13450342
+Etobicoke North,1,13461594
+Etobicoke Centre,2,13461594
+Humber River-Black Creek,7,13449359
+Etobicoke North,1,13456327
+Etobicoke Centre,2,13465185
+Humber River-Black Creek,7,13447719
+Etobicoke North,1,13460801
+Etobicoke North,1,13451819
+Humber River-Black Creek,7,13447608
+Etobicoke North,1,13461025
+Etobicoke North,1,13452977
+Etobicoke North,1,13458741
+Etobicoke North,1,13452853
+Etobicoke North,1,13453882
+Etobicoke North,1,13452362
+Etobicoke North,1,13458987
+Etobicoke North,1,13452733
+Etobicoke North,1,13452171
+Etobicoke North,1,13452047
+Etobicoke North,1,13454453
+Etobicoke-Lakeshore,3,13466992
+Humber River-Black Creek,7,13448601
+Etobicoke North,1,13453590
+Etobicoke North,1,13449294
+Etobicoke-Lakeshore,3,13469987
+York South-Weston,5,13457037
+Etobicoke North,1,13450421
+Scarborough North,23,13442563
+Scarborough-Rouge Park,25,13444174
+Etobicoke North,1,13451252
+Don Valley West,15,13453535
+Etobicoke North,1,13457971
+Humber River-Black Creek,7,13447351
+Willowdale,18,13448501
+Don Valley North,17,13443581
+Etobicoke-Lakeshore,3,13469464
+Etobicoke North,1,13454339
+Eglinton-Lawrence,8,13457821
+Etobicoke North,1,13458841
+Etobicoke Centre,2,13458841
+Parkdale-High Park,4,13467143
+Scarborough North,23,13443040
+Etobicoke-Lakeshore,3,13469870
+Scarborough North,23,13444405
+Scarborough-Guildwood,24,13446997
+York South-Weston,5,13460444
+Scarborough-Guildwood,24,13446940
+York Centre,6,13454362
+Don Valley West,15,13457871
+Beaches-East York,19,13456140
+Scarborough Southwest,20,13455280
+Etobicoke North,1,13452256
+Toronto-St. Paul's,12,13460726
+Humber River-Black Creek,7,13449486
+Don Valley East,16,13450150
+Humber River-Black Creek,7,13454642
+Humber River-Black Creek,7,13448828
+Etobicoke Centre,2,13465650
+Scarborough Southwest,20,13452647
+Etobicoke Centre,2,13469015
+University-Rosedale,11,13462445
+York South-Weston,5,13463578
+Willowdale,18,13445380
+Scarborough-Rouge Park,25,13444896
+York South-Weston,5,13461812
+Scarborough-Rouge Park,25,14249637
+Don Valley East,16,13449504
+Beaches-East York,19,13458348
+Don Valley West,15,13456216
+Scarborough North,23,13442611
+Scarborough-Rouge Park,25,13446613
+Etobicoke Centre,2,20089355
+York Centre,6,13448651
+Scarborough North,23,13443127
+Beaches-East York,19,13456270
+Etobicoke-Lakeshore,3,13470159
+York South-Weston,5,13458880
+Toronto Centre,13,13463124
+Toronto-Danforth,14,13461456
+Willowdale,18,30104484
+York Centre,6,13454780
+Beaches-East York,19,13457716
+Scarborough Southwest,20,13457716
+Scarborough-Rouge Park,25,13442254
+Beaches-East York,19,13461408
+Scarborough-Agincourt,22,13442363
+Etobicoke-Lakeshore,3,13468683
+Etobicoke North,1,13454046
+York Centre,6,13448492
+Toronto-Danforth,14,13466520
+Humber River-Black Creek,7,13450946
+Etobicoke Centre,2,13465631
+Toronto-Danforth,14,13462887
+Scarborough-Guildwood,24,13448888
+Scarborough-Guildwood,24,20105765
+Beaches-East York,19,13455637
+Etobicoke Centre,2,13464798
+Beaches-East York,19,13457210
+Toronto Centre,13,13463868
+Toronto-Danforth,14,13466690
+Don Valley North,17,13443349
+Beaches-East York,19,13463058
+Beaches-East York,19,13459424
+Toronto-Danforth,14,13459424
+Scarborough Southwest,20,13454133
+Etobicoke North,1,13452729
+Scarborough Southwest,20,13454439
+Etobicoke-Lakeshore,3,13468811
+Scarborough Southwest,20,13457129
+Scarborough-Agincourt,22,13442052
+Toronto-Danforth,14,13459268
+Humber River-Black Creek,7,13451446
+Scarborough-Rouge Park,25,13446558
+Beaches-East York,19,13463293
+Scarborough North,23,13442555
+Scarborough-Agincourt,22,13442555
+Beaches-East York,19,13456343
+Scarborough Southwest,20,13455709
+Scarborough North,23,13444135
+Scarborough Southwest,20,13455525
+Etobicoke North,1,13458771
+Scarborough-Rouge Park,25,13442803
+Scarborough Southwest,20,13453057
+Scarborough Centre,21,13451001
+Etobicoke-Lakeshore,3,13469683
+Toronto-Danforth,14,13463743
+Scarborough Southwest,20,13453501
+Beaches-East York,19,13462329
+Scarborough Southwest,20,13456233
+Etobicoke-Lakeshore,3,13469669
+Scarborough Southwest,20,13458057
+Etobicoke Centre,2,13466153
+Don Valley East,16,13452422
+Willowdale,18,13447772
+Scarborough North,23,13443713
+Scarborough-Rouge Park,25,30022876
+Toronto-Danforth,14,13459803
+Scarborough Southwest,20,13454823
+Scarborough-Rouge Park,25,13442070
+Beaches-East York,19,13458442
+Scarborough Southwest,20,13458442
+Etobicoke-Lakeshore,3,13469793
+York South-Weston,5,13461926
+Toronto Centre,13,13465975
+Etobicoke-Lakeshore,3,13469555
+Etobicoke-Lakeshore,3,13470303
+Etobicoke-Lakeshore,3,13470022
+York Centre,6,13451804
+Willowdale,18,13446992
+York Centre,6,13450103
+Don Valley East,16,13455900
+Eglinton-Lawrence,8,14046422
+York Centre,6,13453454
+Scarborough Centre,21,13447184
+Etobicoke Centre,2,13459503
+Etobicoke-Lakeshore,3,13470172
+Etobicoke-Lakeshore,3,13466745
+Willowdale,18,13446163
+Toronto-Danforth,14,13461716
+Scarborough-Rouge Park,25,13444364
+Scarborough Centre,21,13449827
+Beaches-East York,19,13458464
+Etobicoke Centre,2,13464929
+Don Valley East,16,13453655
+Etobicoke-Lakeshore,3,13470396
+Spadina-Fort York,10,13467197
+Etobicoke Centre,2,13467434
+Scarborough Southwest,20,13457566
+Humber River-Black Creek,7,13451938
+Willowdale,18,13446622
+Don Valley West,15,13454006
+Scarborough-Rouge Park,25,13444589
+Scarborough Southwest,20,13453065
+Etobicoke Centre,2,13468845
+Willowdale,18,13444789
+University-Rosedale,11,13463075
+Spadina-Fort York,10,13467485
+Scarborough Southwest,20,13456203
+Parkdale-High Park,4,13464977
+Scarborough-Guildwood,24,13447347
+York South-Weston,5,13461381
+Scarborough-Guildwood,24,13447832
+Scarborough Centre,21,13448712
+Don Valley East,16,13448712
+Scarborough Southwest,20,13456092
+Toronto Centre,13,13463693
+Scarborough Centre,21,13449481
+Toronto-St. Paul's,12,13460447
+Scarborough Southwest,20,13456383
+Scarborough Centre,21,13448268
+York Centre,6,13445937
+Humber River-Black Creek,7,13447836
+Scarborough Southwest,20,13453279
+Scarborough-Guildwood,24,13449721
+Scarborough Centre,21,13449721
+Spadina-Fort York,10,30109241
+Eglinton-Lawrence,8,13454632
+Etobicoke Centre,2,13463038
+Humber River-Black Creek,7,13450308
+York Centre,6,13450308
+Parkdale-High Park,4,13465288
+Humber River-Black Creek,7,13451567
+University-Rosedale,11,13461553
+Eglinton-Lawrence,8,13454073
+Etobicoke-Lakeshore,3,13470070
+Eglinton-Lawrence,8,13459219
+Etobicoke Centre,2,13460071
+Eglinton-Lawrence,8,13456161
+Don Valley West,15,13449989
+Eglinton-Lawrence,8,13455397
+Willowdale,18,13448857
+Etobicoke North,1,13453619
+York Centre,6,13448129
+Humber River-Black Creek,7,13448693
+Davenport,9,13461740
+Humber River-Black Creek,7,13451124
+Scarborough Southwest,20,13453253
+Beaches-East York,19,13455374
+Scarborough-Agincourt,22,13445649
+Scarborough Centre,21,13450460
+Davenport,9,13462431
+Scarborough-Guildwood,24,13447596
+York Centre,6,13448597
+Scarborough-Guildwood,24,13449176
+Scarborough Centre,21,13449176
+Don Valley North,17,13443890
+Don Valley North,17,13442850
+Etobicoke-Lakeshore,3,13469945
+Humber River-Black Creek,7,20015401
+Etobicoke-Lakeshore,3,13469029
+Scarborough North,23,13444733
+Scarborough-Agincourt,22,13444733
+Eglinton-Lawrence,8,13452101
+Eglinton-Lawrence,8,13455942
+Scarborough Southwest,20,13975289
+Beaches-East York,19,13463317
+Toronto-Danforth,14,13463317
+Scarborough North,23,13444522
+Scarborough-Rouge Park,25,13448171
+Scarborough-Guildwood,24,13448171
+Etobicoke Centre,2,13462889
+Scarborough Southwest,20,13458644
+Etobicoke-Lakeshore,3,13468457
+Etobicoke Centre,2,13468457
+Etobicoke-Lakeshore,3,13468841
+Don Valley North,17,13443611
+Scarborough North,23,13442290
+Willowdale,18,13448115
+Humber River-Black Creek,7,20164824
+Scarborough Southwest,20,13457615
+Etobicoke Centre,2,13467838
+Don Valley West,15,13454004
+Parkdale-High Park,4,13468159
+Scarborough Southwest,20,13457695
+Scarborough-Rouge Park,25,13443108
+Scarborough North,23,13443108
+Scarborough-Guildwood,24,13449390
+Scarborough Centre,21,13449390
+Toronto-St. Paul's,12,13460848
+York South-Weston,5,13462178
+Scarborough Southwest,20,13457616
+Scarborough North,23,13442336
+Scarborough Centre,21,13448727
+Toronto-St. Paul's,12,13460575
+Davenport,9,13460575
+Etobicoke-Lakeshore,3,13469764
+Beaches-East York,19,13463187
+Etobicoke North,1,13455529
+York South-Weston,5,13457352
+Scarborough Southwest,20,13457926
+York South-Weston,5,13458400
+Davenport,9,13462333
+Scarborough-Guildwood,24,13450508
+Scarborough Centre,21,13450508
+York Centre,6,13451959
+Don Valley West,15,13457987
+Eglinton-Lawrence,8,13456247
+Toronto Centre,13,13463777
+Scarborough-Guildwood,24,13448608
+Toronto Centre,13,13464719
+Beaches-East York,19,13461380
+Toronto-Danforth,14,13461380
+Etobicoke North,1,13452527
+Scarborough-Agincourt,22,13442499
+Eglinton-Lawrence,8,13456552
+Spadina-Fort York,10,13468912
+Etobicoke-Lakeshore,3,13468844
+Toronto-St. Paul's,12,30072982
+Davenport,9,30072982
+Scarborough Southwest,20,13461226
+York South-Weston,5,13463416
+Etobicoke Centre,2,13463615
+Don Valley West,15,13456999
+Etobicoke Centre,2,13464902
+Don Valley North,17,13445034
+Scarborough Centre,21,13450857
+Don Valley East,16,13450857
+Scarborough Centre,21,13452253
+Etobicoke Centre,2,13459782
+Toronto-St. Paul's,12,13459465
+Humber River-Black Creek,7,13449758
+Etobicoke Centre,2,13462634
+Scarborough Southwest,20,13456004
+Scarborough Southwest,20,13459341
+Etobicoke North,1,13457805
+Beaches-East York,19,13463152
+Parkdale-High Park,4,13466640
+Eglinton-Lawrence,8,13455194
+York Centre,6,13451209
+Scarborough Centre,21,13450756
+Willowdale,18,13445655
+Etobicoke-Lakeshore,3,13470586
+Scarborough-Rouge Park,25,13442496
+Beaches-East York,19,13455247
+Scarborough Southwest,20,13455247
+Beaches-East York,19,13462263
+Willowdale,18,13447143
+Scarborough-Rouge Park,25,14248133
+Scarborough Centre,21,13449405
+Willowdale,18,13445267
+University-Rosedale,11,13463865
+Scarborough-Agincourt,22,13444980
+Parkdale-High Park,4,13468080
+Beaches-East York,19,13461623
+Toronto-Danforth,14,13461623
+Beaches-East York,19,13459651
+Scarborough Southwest,20,13459651
+York Centre,6,13449369
+York Centre,6,13446703
+Scarborough Centre,21,13452245
+Don Valley East,16,13452245
+Scarborough North,23,13444964
+Scarborough-Agincourt,22,13444964
+Beaches-East York,19,13460937
+Don Valley West,15,13454113
+Don Valley West,15,13449082
+Parkdale-High Park,4,13465050
+Scarborough Centre,21,13450349
+Don Valley West,15,13450273
+Scarborough-Guildwood,24,13447928
+Don Valley North,17,13443773
+Etobicoke-Lakeshore,3,13469592
+Scarborough-Guildwood,24,13448088
+Scarborough-Rouge Park,25,13446432
+Beaches-East York,19,13462824
+Don Valley West,15,13451853
+Scarborough-Agincourt,22,13445430
+Don Valley North,17,13445430
+Don Valley West,15,13453881
+York South-Weston,5,13461967
+Humber River-Black Creek,7,13449110
+Etobicoke Centre,2,13464097
+Scarborough Southwest,20,13460704
+Don Valley East,16,13452485
+Toronto-Danforth,14,13463166
+Toronto-Danforth,14,13463573
+Etobicoke North,1,13457727
+Etobicoke-Lakeshore,3,13469442
+Willowdale,18,13444596
+Scarborough Southwest,20,13455590
+Etobicoke North,1,13454299
+Etobicoke Centre,2,13465103
+Etobicoke Centre,2,20110447
+Etobicoke-Lakeshore,3,13468572
+Don Valley East,16,13451476
+Willowdale,18,13445078
+Don Valley North,17,13445078
+Scarborough Southwest,20,13454396
+Toronto Centre,13,13464042
+Etobicoke Centre,2,13466259
+Etobicoke North,1,30032676
+Don Valley East,16,13456157
+Humber River-Black Creek,7,13450486
+Willowdale,18,13446380
+Parkdale-High Park,4,13468518
+University-Rosedale,11,13465254
+Davenport,9,13465254
+Etobicoke Centre,2,13458547
+York Centre,6,13446259
+Etobicoke North,1,13455516
+Scarborough-Agincourt,22,13445883
+University-Rosedale,11,13465361
+Don Valley West,15,13448649
+Etobicoke North,1,13456080
+Scarborough North,23,13445947
+Scarborough-Agincourt,22,13445947
+Etobicoke Centre,2,13460834
+Etobicoke North,1,13453941
+Don Valley West,15,13450773
+Toronto-Danforth,14,13459914
+University-Rosedale,11,13464157
+Scarborough Southwest,20,13459016
+York South-Weston,5,13460422
+Scarborough Southwest,20,13451125
+Scarborough-Guildwood,24,13451125
+Willowdale,18,13445027
+Scarborough-Agincourt,22,13446213
+York South-Weston,5,13463344
+Scarborough-Agincourt,22,13444800
+Scarborough Southwest,20,13457277
+University-Rosedale,11,13463568
+York Centre,6,13447927
+Scarborough-Rouge Park,25,13441904
+Toronto-St. Paul's,12,20028249
+Davenport,9,20028249
+Etobicoke North,1,13453439
+Etobicoke-Lakeshore,3,13469379
+Eglinton-Lawrence,8,13452263
+Scarborough North,23,13503897
+Don Valley West,15,13458054
+York Centre,6,13452530
+Scarborough-Guildwood,24,13450255
+Don Valley West,15,13451275
+Etobicoke North,1,13451900
+Don Valley East,16,13452414
+Scarborough Centre,21,13448310
+Don Valley East,16,13448310
+Scarborough Centre,21,13452167
+York Centre,6,13447281
+York Centre,6,13446464
+Parkdale-High Park,4,13465858
+Toronto-St. Paul's,12,13461005
+Willowdale,18,13444683
+University-Rosedale,11,13461129
+York South-Weston,5,13455910
+Don Valley West,15,13454957
+Don Valley East,16,13454074
+Etobicoke North,1,13459809
+Scarborough-Rouge Park,25,30090087
+University-Rosedale,11,13464728
+Toronto Centre,13,13464728
+Beaches-East York,19,13459193
+Parkdale-High Park,4,13466722
+York South-Weston,5,13460334
+Scarborough-Agincourt,22,13444192
+University-Rosedale,11,13462785
+Toronto-St. Paul's,12,13458172
+Scarborough-Guildwood,24,13448439
+Scarborough Centre,21,13448439
+Scarborough Southwest,20,13457171
+Etobicoke Centre,2,13461037
+Scarborough Southwest,20,13454523
+Don Valley West,15,13450910
+Etobicoke-Lakeshore,3,13468822
+Eglinton-Lawrence,8,13454343
+Don Valley West,15,13455882
+Humber River-Black Creek,7,13449156
+York Centre,6,13449156
+Scarborough Southwest,20,13453581
+Scarborough-Guildwood,24,13448960
+Scarborough Centre,21,13448960
+University-Rosedale,11,13463813
+Toronto Centre,13,13463813
+Toronto-Danforth,14,13460818
+Etobicoke Centre,2,13465275
+York Centre,6,13452200
+Eglinton-Lawrence,8,13455354
+Don Valley West,15,13456008
+Beaches-East York,19,13455948
+Spadina-Fort York,10,13466977
+Eglinton-Lawrence,8,13456342
+Beaches-East York,19,13454909
+Don Valley East,16,13454909
+Scarborough Southwest,20,13455638
+Toronto-Danforth,14,13463801
+York Centre,6,13450594
+Beaches-East York,19,13457986
+Toronto-Danforth,14,13464720
+Parkdale-High Park,4,13467935
+Eglinton-Lawrence,8,13456556
+Beaches-East York,19,13457248
+Toronto-St. Paul's,12,13456722
+Spadina-Fort York,10,13467854
+Scarborough Centre,21,13453395
+Don Valley East,16,13453395
+Don Valley East,16,13453274
+Scarborough North,23,13442432
+Scarborough-Agincourt,22,13446226
+Don Valley North,17,13446226
+Humber River-Black Creek,7,13447776
+Willowdale,18,13445177
+Scarborough North,23,13445692
+Don Valley West,15,13456733
+Spadina-Fort York,10,13467859
+Scarborough Centre,21,13449279
+Toronto-St. Paul's,12,13460776
+Toronto-Danforth,14,13465017
+Scarborough Centre,21,13449196
+University-Rosedale,11,13465966
+York South-Weston,5,13456597
+Etobicoke-Lakeshore,3,13469789
+Etobicoke-Lakeshore,3,13466985
+Don Valley East,16,13450238
+University-Rosedale,11,13466940
+Davenport,9,13466940
+Spadina-Fort York,10,13466940
+Toronto-Danforth,14,13459492
+Scarborough-Rouge Park,25,13444466
+Parkdale-High Park,4,13466171
+York South-Weston,5,13457869
+Scarborough-Agincourt,22,13444370
+Scarborough Southwest,20,13453093
+Scarborough Centre,21,13453093
+Humber River-Black Creek,7,13448137
+York South-Weston,5,13457629
+Toronto-Danforth,14,13459590
+Eglinton-Lawrence,8,13456989
+Beaches-East York,19,13456438
+Scarborough Southwest,20,13456438
+Scarborough Centre,21,13449009
+Eglinton-Lawrence,8,13454002
+Don Valley East,16,13453783
+Scarborough-Agincourt,22,13445256
+Don Valley North,17,13445256
+Eglinton-Lawrence,8,13454301
+Toronto Centre,13,13465894
+Scarborough-Guildwood,24,13447158
+Toronto-Danforth,14,13463995
+University-Rosedale,11,13465581
+Etobicoke-Lakeshore,3,14204003
+Eglinton-Lawrence,8,13452219
+Scarborough Southwest,20,13454814
+Toronto Centre,13,13466960
+Spadina-Fort York,10,13466960
+Scarborough Southwest,20,13453613
+Eglinton-Lawrence,8,13456533
+Etobicoke Centre,2,13469001
+Scarborough Centre,21,13448474
+Scarborough-Rouge Park,25,13449375
+Scarborough-Guildwood,24,13449375
+Parkdale-High Park,4,13465635
+Etobicoke Centre,2,13463932
+Don Valley North,17,13443573
+Toronto Centre,13,13466801
+Spadina-Fort York,10,13466801
+York South-Weston,5,14172279
+Etobicoke-Lakeshore,3,13468469
+Davenport,9,13466235
+Willowdale,18,13446795
+Don Valley North,17,13446795
+Don Valley West,15,13452847
+Eglinton-Lawrence,8,13452847
+Etobicoke Centre,2,13468412
+Parkdale-High Park,4,13464616
+Etobicoke North,1,13460075
+Etobicoke Centre,2,13460075
+Humber River-Black Creek,7,13449201
+Scarborough Centre,21,13451351
+Scarborough Centre,21,13451069
+Toronto-St. Paul's,12,13459357
+Toronto-St. Paul's,12,13459913
+Toronto-Danforth,14,13461105
+York South-Weston,5,13457191
+Beaches-East York,19,13456185
+Scarborough Southwest,20,13456185
+Don Valley West,15,13456452
+Toronto-St. Paul's,12,13456452
+Etobicoke-Lakeshore,3,13468587
+Etobicoke North,1,13454188
+Scarborough-Rouge Park,25,13442671
+Don Valley West,15,13449377
+Etobicoke Centre,2,13459942
+Scarborough Centre,21,13449786
+Beaches-East York,19,13460535
+Toronto-Danforth,14,13460535
+Davenport,9,13465061
+University-Rosedale,11,13462937
+Etobicoke North,1,13462101
+Scarborough North,23,13441922
+Toronto-St. Paul's,12,13459185
+Eglinton-Lawrence,8,13453964
+Scarborough-Guildwood,24,13449684
+Humber River-Black Creek,7,20145217
+Etobicoke Centre,2,13460559
+Etobicoke Centre,2,13461060
+Etobicoke-Lakeshore,3,13467331
+Don Valley West,15,13456739
+Willowdale,18,13445370
+Scarborough Southwest,20,13457682
+Etobicoke Centre,2,13462244
+University-Rosedale,11,13465112
+Toronto-St. Paul's,12,13458124
+Etobicoke North,1,13452207
+Scarborough Southwest,20,13456984
+Davenport,9,13466923
+Spadina-Fort York,10,13466923
+Scarborough Centre,21,13451714
+Etobicoke Centre,2,13467170
+Beaches-East York,19,13454924
+Scarborough Southwest,20,13454924
+Beaches-East York,19,13457066
+Etobicoke-Lakeshore,3,13469405
+Scarborough-Guildwood,24,13446271
+Scarborough Centre,21,13446271
+Scarborough-Guildwood,24,13449625
+Scarborough North,23,13442403
+York South-Weston,5,13460945
+Don Valley West,15,13452683
+Etobicoke Centre,2,13460270
+Scarborough Southwest,20,13459344
+Humber River-Black Creek,7,13449866
+Etobicoke-Lakeshore,3,13470590
+Eglinton-Lawrence,8,13456127
+Willowdale,18,13446100
+Don Valley North,17,13446100
+Toronto-Danforth,14,13464374
+Eglinton-Lawrence,8,13458939
+Scarborough North,23,13443825
+Don Valley East,16,13450540
+Willowdale,18,13447573
+Don Valley North,17,13447573
+Etobicoke North,1,13455506
+York Centre,6,13454300
+Humber River-Black Creek,7,13451142
+Scarborough Centre,21,13452605
+Etobicoke-Lakeshore,3,13470081
+Humber River-Black Creek,7,13447353
+York Centre,6,13447353
+Scarborough-Guildwood,24,13449802
+Willowdale,18,13443354
+Toronto-St. Paul's,12,13460975
+Don Valley West,15,13450684
+Scarborough-Guildwood,24,13448232
+Humber River-Black Creek,7,13454374
+Etobicoke-Lakeshore,3,13470410
+Beaches-East York,19,13457068
+Scarborough Southwest,20,13457068
+Toronto-St. Paul's,12,13462935
+Beaches-East York,19,13461912
+Willowdale,18,13446359
+Humber River-Black Creek,7,13448831
+Humber River-Black Creek,7,13455435
+Toronto-Danforth,14,13465276
+Etobicoke-Lakeshore,3,13469954
+Don Valley West,15,30077719
+Scarborough Centre,21,13453008
+Don Valley East,16,13453008
+Etobicoke North,1,13451785
+Eglinton-Lawrence,8,13453370
+Etobicoke-Lakeshore,3,13470566
+Scarborough-Rouge Park,25,13447663
+York Centre,6,13451454
+Eglinton-Lawrence,8,13458026
+Toronto-Danforth,14,13464286
+Humber River-Black Creek,7,13448152
+Eglinton-Lawrence,8,13454457
+Davenport,9,13463123
+Spadina-Fort York,10,13467311
+Eglinton-Lawrence,8,13454664
+Etobicoke North,1,13453194
+Toronto Centre,13,13465366
+Scarborough-Guildwood,24,13450964
+Scarborough Centre,21,13450964
+Don Valley West,15,13449173
+Scarborough Southwest,20,13452878
+Scarborough-Rouge Park,25,13444054
+Parkdale-High Park,4,13466778
+Parkdale-High Park,4,13467129
+Beaches-East York,19,13463288
+Humber River-Black Creek,7,13453536
+Etobicoke-Lakeshore,3,13470354
+Scarborough-Agincourt,22,13444748
+Scarborough-Rouge Park,25,13444502
+Toronto-Danforth,14,30036276
+Scarborough Centre,21,13446952
+Beaches-East York,19,13461421
+York South-Weston,5,13460601
+Scarborough Southwest,20,13460832
+Don Valley West,15,13454307
+Toronto-St. Paul's,12,13461334
+Beaches-East York,19,13455487
+Scarborough Southwest,20,13455487
+York Centre,6,13449419
+Scarborough-Agincourt,22,13443314
+Beaches-East York,19,13458424
+Scarborough Centre,21,13448600
+Scarborough Southwest,20,13456826
+University-Rosedale,11,13464417
+York Centre,6,13449046
+Scarborough-Agincourt,22,13444507
+Etobicoke-Lakeshore,3,13470214
+Humber River-Black Creek,7,13449995
+Scarborough-Guildwood,24,13450073
+Scarborough Centre,21,13450073
+York Centre,6,13452160
+Don Valley West,15,13456135
+Eglinton-Lawrence,8,13457929
+Willowdale,18,13447478
+York Centre,6,13446410
+Willowdale,18,13446410
+Toronto-Danforth,14,13460374
+Etobicoke Centre,2,13468280
+Spadina-Fort York,10,13467909
+Scarborough Centre,21,13453073
+Scarborough Southwest,20,13456405
+Toronto-Danforth,14,13461356
+Spadina-Fort York,10,13467337
+Scarborough-Guildwood,24,13447195
+Etobicoke-Lakeshore,3,13468974
+Scarborough-Rouge Park,25,13445621
+Willowdale,18,13445687
+Don Valley North,17,13445687
+Etobicoke Centre,2,13467244
+Toronto-St. Paul's,12,13457557
+Eglinton-Lawrence,8,13457557
+Don Valley West,15,13453753
+York Centre,6,13448440
+Toronto Centre,13,13466117
+Etobicoke Centre,2,13465214
+Scarborough North,23,13443826
+Scarborough-Agincourt,22,13443826
+Eglinton-Lawrence,8,13455864
+Etobicoke-Lakeshore,3,13469263
+Scarborough North,23,13442414
+Scarborough Southwest,20,13454283
+Scarborough-Guildwood,24,13450374
+Etobicoke Centre,2,13460428
+Etobicoke North,1,14651711
+University-Rosedale,11,13463127
+York Centre,6,13451137
+Scarborough Southwest,20,13459498
+Scarborough Southwest,20,13453001
+Scarborough Centre,21,13453001
+Davenport,9,13464651
+Toronto Centre,13,14036494
+Etobicoke North,1,13458507
+Don Valley West,15,13450581
+Scarborough North,23,13443491
+Scarborough Centre,21,13450554
+Etobicoke-Lakeshore,3,13469915
+Etobicoke Centre,2,13465218
+Scarborough North,23,13445987
+Scarborough-Agincourt,22,13445987
+Parkdale-High Park,4,13465039
+Spadina-Fort York,10,13467856
+Etobicoke Centre,2,13468898
+Scarborough-Agincourt,22,13442145
+York South-Weston,5,13459825
+Scarborough-Guildwood,24,13449130
+York Centre,6,13445659
+Willowdale,18,13445659
+Willowdale,18,13445813
+Don Valley North,17,13445813
+Davenport,9,13465705
+Scarborough-Rouge Park,25,13446348
+Scarborough-Guildwood,24,13446348
+University-Rosedale,11,13462712
+York Centre,6,13451751
+Davenport,9,13466910
+University-Rosedale,11,13464231
+Toronto Centre,13,13464231
+Scarborough Southwest,20,13456583
+Humber River-Black Creek,7,13455140
+Etobicoke-Lakeshore,3,13469614
+Davenport,9,13462870
+Toronto-Danforth,14,13461657
+Etobicoke Centre,2,13460740
+Parkdale-High Park,4,13468687
+Eglinton-Lawrence,8,13456419
+Scarborough Southwest,20,13457448
+Scarborough North,23,13443710
+York South-Weston,5,13458803
+Don Valley West,15,13454390
+Toronto-St. Paul's,12,13458486
+Scarborough Centre,21,13451671
+Humber River-Black Creek,7,13453888
+York Centre,6,13453888
+Etobicoke Centre,2,13467689
+Scarborough Southwest,20,13460471
+Scarborough North,23,13503859
+Humber River-Black Creek,7,13448751
+Etobicoke North,1,13451519
+Humber River-Black Creek,7,13448921
+Parkdale-High Park,4,13465287
+York South-Weston,5,13457809
+Parkdale-High Park,4,13464832
+Scarborough Southwest,20,13452417
+University-Rosedale,11,13459371
+Eglinton-Lawrence,8,13452369
+York Centre,6,13452371
+Scarborough-Rouge Park,25,13441944
+Etobicoke North,1,13453094
+Etobicoke North,1,13463137
+Etobicoke Centre,2,13463137
+University-Rosedale,11,13459279
+University-Rosedale,11,13464281
+Davenport,9,13464281
+Etobicoke-Lakeshore,3,13469523
+Parkdale-High Park,4,13464742
+Willowdale,18,13446154
+Etobicoke-Lakeshore,3,13467630
+Toronto Centre,13,13466668
+Spadina-Fort York,10,13466668
+Don Valley West,15,13456650
+Toronto-St. Paul's,12,13456650
+Eglinton-Lawrence,8,13456650
+Don Valley West,15,13456432
+Etobicoke North,1,13452064
+Scarborough-Rouge Park,25,13444737
+Beaches-East York,19,13460350
+Scarborough Centre,21,13446880
+Etobicoke-Lakeshore,3,13469148
+York South-Weston,5,13457880
+York Centre,6,13453864
+Don Valley West,15,13449593
+Beaches-East York,19,13458851
+Beaches-East York,19,13457739
+Etobicoke-Lakeshore,3,13470639
+Etobicoke North,1,13453152
+Scarborough North,23,14634930
+Scarborough-Guildwood,24,13449817
+Eglinton-Lawrence,8,13452494
+University-Rosedale,11,13465217
+University-Rosedale,11,13465901
+Spadina-Fort York,10,13465901
+Etobicoke-Lakeshore,3,13470434
+York South-Weston,5,13461829
+Etobicoke Centre,2,13465305
+Toronto-St. Paul's,12,13459822
+Eglinton-Lawrence,8,13455295
+Willowdale,18,13445981
+Beaches-East York,19,13459032
+Humber River-Black Creek,7,13450693
+Willowdale,18,13444929
+Etobicoke Centre,2,13462409
+University-Rosedale,11,13465447
+Davenport,9,13465447
+Etobicoke-Lakeshore,3,13470302
+Parkdale-High Park,4,13468465
+York South-Weston,5,13458101
+York South-Weston,5,13459781
+Willowdale,18,13446860
+Scarborough Southwest,20,13456446
+Don Valley East,16,13454528
+Humber River-Black Creek,7,13450093
+York Centre,6,13450093
+Don Valley West,15,13452118
+Don Valley East,16,13452118
+Scarborough Southwest,20,13456025
+York Centre,6,13448360
+Etobicoke-Lakeshore,3,13470329
+Davenport,9,13460717
+Beaches-East York,19,13456890
+Scarborough Southwest,20,13456890
+York South-Weston,5,13456680
+Don Valley West,15,13453668
+Eglinton-Lawrence,8,13453668
+Etobicoke-Lakeshore,3,13468685
+University-Rosedale,11,13460415
+Scarborough-Agincourt,22,14038257
+Scarborough-Rouge Park,25,13443929
+Eglinton-Lawrence,8,13456252
+Scarborough North,23,14248930
+Toronto Centre,13,13465959
+Don Valley North,17,13443062
+Etobicoke Centre,2,13464880
+Toronto-St. Paul's,12,13459593
+York Centre,6,14673411
+University-Rosedale,11,13465836
+York Centre,6,13452030
+York Centre,6,14203394
+Spadina-Fort York,10,13468120
+Don Valley West,15,14236458
+University-Rosedale,11,13462019
+York Centre,6,13453732
+Don Valley West,15,13455720
+York South-Weston,5,13457738
+Willowdale,18,13446562
+Don Valley North,17,13446562
+Beaches-East York,19,13460568
+Etobicoke-Lakeshore,3,13469443
+Scarborough North,23,14642975
+Don Valley West,15,13451543
+York Centre,6,13449084
+Scarborough-Rouge Park,25,13442136
+University-Rosedale,11,13461921
+University-Rosedale,11,13466217
+Spadina-Fort York,10,13466217
+Etobicoke North,1,13452614
+Don Valley East,16,13450030
+Parkdale-High Park,4,13467459
+Etobicoke North,1,13453201
+Beaches-East York,19,13458820
+York South-Weston,5,13459548
+York South-Weston,5,13456554
+Beaches-East York,19,13456553
+Parkdale-High Park,4,13467486
+Scarborough Centre,21,13448271
+Beaches-East York,19,13460543
+Scarborough Southwest,20,13460543
+Beaches-East York,19,13456734
+Beaches-East York,19,13456996
+Willowdale,18,13443911
+Willowdale,18,13445005
+Parkdale-High Park,4,20058327
+Scarborough Southwest,20,13454678
+Don Valley North,17,13445290
+Davenport,9,13462962
+Toronto Centre,13,13466300
+Scarborough-Agincourt,22,13445371
+Beaches-East York,19,13459326
+Scarborough Southwest,20,13454486
+Scarborough-Agincourt,22,14173872
+Scarborough Centre,21,13452055
+Humber River-Black Creek,7,13451426
+Don Valley West,15,13448306
+University-Rosedale,11,13460752
+Etobicoke Centre,2,13461478
+Don Valley West,15,13455032
+Eglinton-Lawrence,8,13455032
+Etobicoke-Lakeshore,3,13470241
+Scarborough-Agincourt,22,13445956
+Etobicoke Centre,2,20236614
+Scarborough Centre,21,13450358
+Don Valley West,15,13452140
+Don Valley North,17,13446105
+Don Valley West,15,13449654
+Etobicoke-Lakeshore,3,20031732
+Beaches-East York,19,13460244
+Toronto-Danforth,14,13460244
+Toronto-St. Paul's,12,13458248
+Eglinton-Lawrence,8,13458248
+Spadina-Fort York,10,14063912
+Toronto-St. Paul's,12,13459295
+Etobicoke-Lakeshore,3,13467571
+Etobicoke Centre,2,13467571
+Toronto-St. Paul's,12,13460171
+Scarborough Centre,21,13449678
+Humber River-Black Creek,7,13455715
+Etobicoke North,1,13454784
+Toronto Centre,13,13464649
+Humber River-Black Creek,7,13448292
+York South-Weston,5,13455046
+Humber River-Black Creek,7,13452645
+Spadina-Fort York,10,13466982
+Parkdale-High Park,4,13468786
+Toronto-St. Paul's,12,13458356
+Toronto-Danforth,14,13463522
+Scarborough-Rouge Park,25,14249609
+Don Valley North,17,13443021
+York Centre,6,13449687
+Scarborough Centre,21,13449953
+Etobicoke North,1,13452484
+Toronto-Danforth,14,13464771
+Etobicoke-Lakeshore,3,13469355
+Etobicoke North,1,13462745
+Etobicoke Centre,2,13462745
+Toronto Centre,13,13466488
+Don Valley West,15,13453552
+Toronto-Danforth,14,13464398
+Toronto-St. Paul's,12,13460582
+Etobicoke North,1,13449457
+York South-Weston,5,13456891
+Don Valley North,17,13443957
+Humber River-Black Creek,7,13453992
+Eglinton-Lawrence,8,13452638
+Etobicoke-Lakeshore,3,13469672
+University-Rosedale,11,13465489
+Toronto-St. Paul's,12,13460815
+Davenport,9,13460815
+Beaches-East York,19,13458768
+Toronto-Danforth,14,13464254
+Etobicoke North,1,13462021
+Etobicoke Centre,2,13462021
+Toronto Centre,13,13466341
+University-Rosedale,11,13464820
+Scarborough Southwest,20,13453302
+Scarborough Centre,21,13453302
+Scarborough Southwest,20,13452869
+Scarborough Centre,21,13452869
+York Centre,6,13453476
+Davenport,9,13460899
+Beaches-East York,19,13462284
+Scarborough Southwest,20,13456922
+Etobicoke-Lakeshore,3,13467928
+Davenport,9,13464361
+York Centre,6,13451676
+Toronto-Danforth,14,13460103
+Toronto Centre,13,13465269
+Scarborough Centre,21,13450728
+Don Valley West,15,13451259
+Etobicoke Centre,2,13464705
+University-Rosedale,11,13463468
+Willowdale,18,13444532
+Don Valley North,17,13444532
+York Centre,6,13450564
+Etobicoke North,1,13459712
+Scarborough-Rouge Park,25,13444651
+Willowdale,18,13446272
+Etobicoke-Lakeshore,3,13470116
+Etobicoke-Lakeshore,3,13470516
+Eglinton-Lawrence,8,13454853
+Humber River-Black Creek,7,13449981
+Don Valley West,15,13458810
+Davenport,9,13463377
+Scarborough Centre,21,13447139
+Don Valley West,15,13448952
+Scarborough North,23,13441703
+University-Rosedale,11,13463938
+Davenport,9,13463938
+Willowdale,18,13448166
+Scarborough-Rouge Park,25,13445421
+Etobicoke Centre,2,13465055
+Don Valley East,16,13449881
+Spadina-Fort York,10,13466618
+Davenport,9,13461488
+Scarborough-Guildwood,24,13448822
+Scarborough Southwest,20,13458388
+Etobicoke Centre,2,13465562
+University-Rosedale,11,13466288
+Spadina-Fort York,10,13466288
+Davenport,9,13463464
+Toronto-Danforth,14,13463796
+Davenport,9,13467370
+Scarborough-Agincourt,22,13445386
+Davenport,9,13460292
+Humber River-Black Creek,7,13454821
+York Centre,6,13454821
+York Centre,6,13453250
+Humber River-Black Creek,7,13447954
+Don Valley West,15,13450372
+Parkdale-High Park,4,13464436
+Etobicoke North,1,13458506
+Etobicoke Centre,2,13466366
+Willowdale,18,13447057
+Don Valley North,17,13447057
+University-Rosedale,11,13464427
+Toronto Centre,13,13464427
+Etobicoke North,1,13455273
+Don Valley West,15,13453049
+Don Valley West,15,13457151
+Toronto-St. Paul's,12,13457151
+Etobicoke-Lakeshore,3,13470151
+Toronto-Danforth,14,13464498
+Toronto Centre,13,13464154
+Don Valley East,16,13454346
+Etobicoke North,1,13457178
+Toronto-St. Paul's,12,13461862
+Don Valley West,15,13455496
+Eglinton-Lawrence,8,13455496
+Etobicoke Centre,2,13469170
+Scarborough Southwest,20,13454270
+York South-Weston,5,13457627
+Beaches-East York,19,13462931
+Scarborough Centre,21,13449821
+Etobicoke North,1,13453013
+Humber River-Black Creek,7,13454466
+York Centre,6,13454466
+Spadina-Fort York,10,13468316
+Toronto-Danforth,14,13464606
+Beaches-East York,19,13462646
+Parkdale-High Park,4,13468520
+York Centre,6,13447250
+Willowdale,18,13447250
+Don Valley West,15,13456522
+York South-Weston,5,13463695
+Humber River-Black Creek,7,13451700
+Willowdale,18,13444543
+Scarborough-Agincourt,22,13445622
+York Centre,6,13452870
+Willowdale,18,13443696
+Don Valley North,17,13443696
+Willowdale,18,13446725
+Etobicoke-Lakeshore,3,13469439
+Etobicoke-Lakeshore,3,13468805
+Toronto-St. Paul's,12,13458332
+Willowdale,18,13446302
+Don Valley North,17,13446302
+University-Rosedale,11,13466493
+Davenport,9,13466493
+Davenport,9,13461451
+York South-Weston,5,13461451
+Parkdale-High Park,4,13468571
+Eglinton-Lawrence,8,13456310
+Eglinton-Lawrence,8,13456655
+Etobicoke-Lakeshore,3,13470520
+Don Valley West,15,13448991
+Don Valley East,16,13448991
+Beaches-East York,19,13458949
+Toronto-St. Paul's,12,13458928
+Eglinton-Lawrence,8,13458928
+Beaches-East York,19,13458721
+Etobicoke North,1,13459432
+University-Rosedale,11,13466064
+Spadina-Fort York,10,13466064
+University-Rosedale,11,13465212
+Spadina-Fort York,10,13467252
+Don Valley West,15,13454680
+Eglinton-Lawrence,8,13454680
+Scarborough North,23,13442218
+Willowdale,18,13443782
+York South-Weston,5,13456865
+Humber River-Black Creek,7,13448262
+University-Rosedale,11,13463491
+York South-Weston,5,13462239
+Humber River-Black Creek,7,13451999
+York Centre,6,13451999
+Scarborough Southwest,20,13453920
+Etobicoke Centre,2,13458742
+Scarborough North,23,13441616
+Etobicoke-Lakeshore,3,13469120
+Toronto-Danforth,14,13463705
+Etobicoke-Lakeshore,3,13469375
+York Centre,6,13453646
+Humber River-Black Creek,7,13448413
+University-Rosedale,11,13465822
+Toronto Centre,13,13465822
+Spadina-Fort York,10,13465822
+Don Valley West,15,13455990
+Scarborough-Agincourt,22,13445160
+Scarborough Centre,21,13449395
+Toronto-Danforth,14,13463111
+Parkdale-High Park,4,13466476
+Eglinton-Lawrence,8,13453915
+Toronto-Danforth,14,13466878
+Don Valley West,15,13450081
+Don Valley East,16,13453963
+Beaches-East York,19,13457887
+Etobicoke-Lakeshore,3,13469085
+Parkdale-High Park,4,13465238
+Parkdale-High Park,4,13464769
+Etobicoke North,1,20232392
+Willowdale,18,13444298
+Don Valley North,17,13444298
+Etobicoke North,1,13453022
+York Centre,6,13453602
+York South-Weston,5,13456651
+Toronto Centre,13,13465571
+Parkdale-High Park,4,13468186
+Spadina-Fort York,10,13468186
+Humber River-Black Creek,7,13450219
+Don Valley East,16,13452939
+York Centre,6,13453555
+Willowdale,18,13444082
+Humber River-Black Creek,7,20145216
+Scarborough Centre,21,13450472
+Don Valley East,16,13450472
+Humber River-Black Creek,7,13449253
+Scarborough-Rouge Park,25,13447598
+University-Rosedale,11,13463880
+Beaches-East York,19,13458498
+Scarborough Centre,21,13452130
+Eglinton-Lawrence,8,13457669
+Spadina-Fort York,10,13467795
+Etobicoke North,1,13458710
+Etobicoke Centre,2,13458710
+University-Rosedale,11,13463723
+Toronto Centre,13,13463723
+Don Valley West,15,13456085
+Willowdale,18,13447323
+Don Valley North,17,13447323
+University-Rosedale,11,13466136
+Spadina-Fort York,10,13466136
+University-Rosedale,11,13464371
+Don Valley West,15,13456361
+Toronto-St. Paul's,12,13456361
+Etobicoke North,1,13462783
+Davenport,9,13466246
+Etobicoke-Lakeshore,3,13470599
+Don Valley West,15,13457793
+Scarborough Southwest,20,13459524
+Parkdale-High Park,4,13464724
+Beaches-East York,19,13456896
+York South-Weston,5,13464031
+Eglinton-Lawrence,8,13451886
+Etobicoke Centre,2,13468183
+Davenport,9,13459983
+Etobicoke-Lakeshore,3,20112512
+York South-Weston,5,13456454
+Don Valley West,15,13454763
+Scarborough Southwest,20,13456610
+Etobicoke North,1,13454271
+Davenport,9,13466357
+Etobicoke North,1,13458230
+Etobicoke Centre,2,13458230
+Etobicoke North,1,13453185
+Scarborough North,23,14630494
+Scarborough-Guildwood,24,13448102
+Scarborough Centre,21,13448102
+Davenport,9,13462685
+Scarborough-Guildwood,24,13446304
+Eglinton-Lawrence,8,13453312
+Beaches-East York,19,13458274
+Etobicoke Centre,2,13464013
+Scarborough Centre,21,13449710
+Don Valley East,16,13449710
+Don Valley West,15,13457422
+Scarborough-Rouge Park,25,13444537
+Etobicoke-Lakeshore,3,13470505
+Humber River-Black Creek,7,13448912
+York Centre,6,13449671
+Beaches-East York,19,13458881
+Scarborough Centre,21,13446658
+Don Valley East,16,13448286
+Scarborough North,23,30038667
+Scarborough Centre,21,13448094
+Eglinton-Lawrence,8,13457713
+Toronto-St. Paul's,12,13459587
+Toronto Centre,13,13466199
+Humber River-Black Creek,7,13453033
+York Centre,6,13453033
+Etobicoke Centre,2,13461355
+Scarborough North,23,13444493
+Scarborough-Agincourt,22,13444493
+Parkdale-High Park,4,13465033
+Etobicoke North,1,13456371
+Humber River-Black Creek,7,13450383
+Humber River-Black Creek,7,13451058
+Davenport,9,13463882
+Don Valley East,16,13451098
+Etobicoke-Lakeshore,3,13468227
+Etobicoke North,1,13457412
+Humber River-Black Creek,7,13451923
+York Centre,6,13451923
+Scarborough-Agincourt,22,13446030
+Etobicoke-Lakeshore,3,13468185
+Spadina-Fort York,10,13467654
+Don Valley West,15,13457764
+Toronto-St. Paul's,12,13457764
+Toronto Centre,13,13466630
+Spadina-Fort York,10,13468134
+Don Valley East,16,13449777
+Humber River-Black Creek,7,13450723
+Etobicoke-Lakeshore,3,13468117
+Eglinton-Lawrence,8,13454098
+Davenport,9,13466100
+Eglinton-Lawrence,8,13454394
+York South-Weston,5,13461391
+Eglinton-Lawrence,8,13454555
+Don Valley West,15,13453954
+Scarborough North,23,13443223
+University-Rosedale,11,13464943
+Eglinton-Lawrence,8,13456543
+Beaches-East York,19,13459558
+Scarborough-Rouge Park,25,13446091
+Humber River-Black Creek,7,13449519
+Scarborough Southwest,20,13457851
+Scarborough Centre,21,13452336
+Parkdale-High Park,4,13467084
+Eglinton-Lawrence,8,13456936
+Beaches-East York,19,13460922
+York Centre,6,13452617
+Beaches-East York,19,13457363
+Scarborough Southwest,20,13457363
+Etobicoke Centre,2,13463462
+Scarborough-Rouge Park,25,13442915
+Scarborough North,23,13442915
+Scarborough North,23,13442061
+Eglinton-Lawrence,8,13453262
+Davenport,9,13461876
+Scarborough-Agincourt,22,13445830
+Etobicoke-Lakeshore,3,13469594
+Toronto-St. Paul's,12,13457785
+Scarborough Southwest,20,13453320
+Spadina-Fort York,10,13467321
+Davenport,9,13461215
+Davenport,9,13466862
+Scarborough-Rouge Park,25,13443860
+Scarborough North,23,13443860
+Scarborough-Agincourt,22,13446434
+Beaches-East York,19,13461057
+Willowdale,18,13444653
+Davenport,9,13464011
+Don Valley East,16,13451566
+Etobicoke Centre,2,13458462
+Humber River-Black Creek,7,13447313
+York South-Weston,5,13461883
+Scarborough Centre,21,13451430
+York Centre,6,13450847
+Scarborough Southwest,20,13454594
+Scarborough Southwest,20,13461056
+Etobicoke-Lakeshore,3,13469836
+Etobicoke Centre,2,13465956
+Don Valley West,15,13453280
+Etobicoke North,1,13459796
+University-Rosedale,11,13466443
+Spadina-Fort York,10,13466443
+Scarborough North,23,13444715
+Etobicoke North,1,13451705
+Scarborough Centre,21,13449378
+Scarborough-Agincourt,22,13446265
+Humber River-Black Creek,7,14064208
+Scarborough-Rouge Park,25,13444943
+Toronto Centre,13,13464607
+Toronto Centre,13,13465567
+Etobicoke-Lakeshore,3,13465085
+Etobicoke Centre,2,13465085
+Scarborough Centre,21,13449737
+Toronto-St. Paul's,12,13460098
+University-Rosedale,11,13465315
+Don Valley North,17,13445162
+Toronto-St. Paul's,12,13461554
+Etobicoke-Lakeshore,3,13470414
+Etobicoke North,1,13451132
+Parkdale-High Park,4,13465036
+Davenport,9,13461160
+Eglinton-Lawrence,8,13453045
+Beaches-East York,19,13457254
+Davenport,9,13464073
+Eglinton-Lawrence,8,13455007
+Toronto Centre,13,13465979
+Scarborough Centre,21,13449121
+Humber River-Black Creek,7,13451292
+Toronto-St. Paul's,12,13458815
+Eglinton-Lawrence,8,13458815
+Scarborough-Rouge Park,25,13447183
+Willowdale,18,13446513
+Toronto-St. Paul's,12,13458873
+Scarborough Southwest,20,13455403
+Don Valley East,16,13448399
+Beaches-East York,19,13460822
+Scarborough North,23,13441751
+Etobicoke North,1,13452496
+Parkdale-High Park,4,13465250
+Etobicoke Centre,2,13465734
+Toronto-Danforth,14,13462774
+York South-Weston,5,13456548
+Scarborough Southwest,20,13457762
+York South-Weston,5,13457536
+Willowdale,18,13445569
+Beaches-East York,19,13459980
+Toronto-Danforth,14,13459980
+Toronto-St. Paul's,12,13460231
+Don Valley West,15,13455968
+Eglinton-Lawrence,8,13455968
+Eglinton-Lawrence,8,13457697
+University-Rosedale,11,13460221
+Etobicoke-Lakeshore,3,13469132
+York South-Weston,5,13458344
+Etobicoke-Lakeshore,3,13468676
+Etobicoke North,1,13455052
+Scarborough North,23,13445414
+Eglinton-Lawrence,8,13456841
+Toronto-Danforth,14,13463279
+York Centre,6,13444910
+Etobicoke-Lakeshore,3,30070005
+Etobicoke-Lakeshore,3,13468421
+Don Valley West,15,13450874
+Don Valley East,16,13450874
+Scarborough North,23,13441677
+Etobicoke Centre,2,13467965
+Humber River-Black Creek,7,13449259
+Don Valley North,17,13444264
+Eglinton-Lawrence,8,13456849
+Humber River-Black Creek,7,13450638
+York Centre,6,13450638
+York Centre,6,13450743
+Humber River-Black Creek,7,13446538
+York Centre,6,13446538
+Don Valley East,16,13448496
+Beaches-East York,19,13460812
+Scarborough Southwest,20,13460812
+Etobicoke-Lakeshore,3,13470098
+Eglinton-Lawrence,8,13458553
+Don Valley East,16,13452266
+Parkdale-High Park,4,13465233
+York South-Weston,5,13455973
+York Centre,6,13450506
+Toronto Centre,13,13465058
+Scarborough Southwest,20,13452790
+Etobicoke North,1,13454181
+Don Valley West,15,13456729
+Scarborough-Rouge Park,25,13443728
+York South-Weston,5,13463440
+Etobicoke-Lakeshore,3,13470026
+Etobicoke North,1,13453780
+Beaches-East York,19,13456666
+Eglinton-Lawrence,8,13456320
+Etobicoke-Lakeshore,3,13465297
+Etobicoke Centre,2,13465297
+Davenport,9,13461551
+Don Valley West,15,13451725
+Don Valley East,16,13451725
+Willowdale,18,13448037
+York Centre,6,13450753
+York Centre,6,13448217
+Willowdale,18,13448217
+Scarborough Southwest,20,13454887
+Scarborough Centre,21,13447325
+Don Valley West,15,13453893
+Eglinton-Lawrence,8,13453893
+Willowdale,18,13445721
+Scarborough-Rouge Park,25,13442276
+Scarborough North,23,13442276
+Eglinton-Lawrence,8,13457416
+Willowdale,18,13447728
+Toronto Centre,13,13466633
+Etobicoke North,1,13459757
+Etobicoke Centre,2,13459757
+Toronto Centre,13,13464586
+Eglinton-Lawrence,8,13457100
+Toronto-Danforth,14,13460275
+Beaches-East York,19,13457131
+York South-Weston,5,13457384
+University-Rosedale,11,13459514
+Beaches-East York,19,13458334
+Toronto-Danforth,14,13458334
+Parkdale-High Park,4,13467698
+Don Valley East,16,13452479
+Humber River-Black Creek,7,13448343
+Beaches-East York,19,13461235
+University-Rosedale,11,13462223
+Eglinton-Lawrence,8,13458198
+Humber River-Black Creek,7,13453443
+York Centre,6,13453443
+Toronto-St. Paul's,12,13458146
+Eglinton-Lawrence,8,13458146
+University-Rosedale,11,13465702
+Davenport,9,13465702
+Scarborough Southwest,20,13455345
+Scarborough-Rouge Park,25,13442271
+Parkdale-High Park,4,13464852
+Willowdale,18,13445797
+Toronto-St. Paul's,12,13459714
+Davenport,9,13459714
+Beaches-East York,19,13458898
+Etobicoke Centre,2,13459024
+Willowdale,18,13446625
+Etobicoke-Lakeshore,3,13469847
+Scarborough Centre,21,13502718
+York South-Weston,5,13463604
+Etobicoke Centre,2,13459538
+Beaches-East York,19,13462856
+Beaches-East York,19,13462369
+Humber River-Black Creek,7,13448859
+Etobicoke-Lakeshore,3,13470100
+Scarborough North,23,13442967
+York South-Weston,5,13457121
+Davenport,9,13461051
+Scarborough North,23,13441965
+York Centre,6,13454208
+University-Rosedale,11,13462748
+Willowdale,18,13448117
+Scarborough-Guildwood,24,13447337
+Scarborough Centre,21,13447337
+Scarborough North,23,13443083
+Toronto Centre,13,13464879
+Beaches-East York,19,13458204
+Toronto Centre,13,13464490
+Scarborough Centre,21,13448642
+Scarborough Southwest,20,13453636
+Don Valley North,17,13443256
+York South-Weston,5,13457834
+Scarborough Southwest,20,13454516
+York South-Weston,5,13458304
+Toronto-Danforth,14,13462117
+Davenport,9,13462886
+Toronto-St. Paul's,12,13461868
+Davenport,9,13466894
+Toronto-St. Paul's,12,13461832
+Etobicoke-Lakeshore,3,13469823
+Scarborough Southwest,20,13458602
+Beaches-East York,19,13461733
+Don Valley West,15,13453919
+Humber River-Black Creek,7,13450370
+Parkdale-High Park,4,13468779
+Spadina-Fort York,10,13468779
+Don Valley West,15,13457889
+York South-Weston,5,13463785
+Etobicoke North,1,13454617
+Willowdale,18,13444072
+Don Valley North,17,13444072
+Beaches-East York,19,13458660
+Toronto-Danforth,14,13458660
+Parkdale-High Park,4,13467604
+York Centre,6,13449543
+Davenport,9,13462073
+York South-Weston,5,13457106
+Scarborough North,23,13443620
+Davenport,9,13462566
+University-Rosedale,11,13466540
+Spadina-Fort York,10,13466540
+Etobicoke-Lakeshore,3,13469497
+Don Valley North,17,13447423
+Don Valley North,17,13443719
+Willowdale,18,13446040
+Beaches-East York,19,13462844
+Toronto-Danforth,14,13462844
+Etobicoke-Lakeshore,3,13469267
+Etobicoke North,1,13455971
+Scarborough North,23,13444197
+Toronto-St. Paul's,12,13457640
+Eglinton-Lawrence,8,13457640
+Etobicoke North,1,13453918
+Humber River-Black Creek,7,13447902
+Toronto-Danforth,14,13459158
+Toronto-Danforth,14,13459808
+York Centre,6,13446475
+University-Rosedale,11,13466798
+Spadina-Fort York,10,13466798
+Etobicoke Centre,2,13463434
+Etobicoke North,1,13457990
+Toronto-Danforth,14,13461975
+Scarborough-Guildwood,24,13446642
+Etobicoke North,1,13450733
+Davenport,9,13462867
+Davenport,9,13462755
+Scarborough Southwest,20,13452797
+Eglinton-Lawrence,8,13455170
+Etobicoke-Lakeshore,3,13469250
+Toronto-Danforth,14,13460786
+Scarborough Centre,21,13453414
+Scarborough-Rouge Park,25,14624109
+Scarborough-Guildwood,24,14624109
+York South-Weston,5,13463679
+Beaches-East York,19,13459399
+Humber River-Black Creek,7,13450457
+Don Valley West,15,13453356
+Eglinton-Lawrence,8,13453356
+Don Valley East,16,13453034
+Don Valley West,15,13456266
+Eglinton-Lawrence,8,13456266
+Willowdale,18,13444464
+Scarborough Southwest,20,13455269
+Don Valley North,17,13446349
+Beaches-East York,19,13458460
+Don Valley West,15,13455421
+Eglinton-Lawrence,8,13457938
+Scarborough Centre,21,13451335
+Eglinton-Lawrence,8,13454911
+Beaches-East York,19,13462196
+Scarborough Centre,21,13451595
+Don Valley West,15,13451157
+Etobicoke Centre,2,13464632
+Scarborough North,23,13441762
+Don Valley East,16,13454313
+Scarborough Southwest,20,13454195
+Willowdale,18,13443721
+Toronto-St. Paul's,12,13459040
+Etobicoke North,1,13457328
+York South-Weston,5,13463642
+Parkdale-High Park,4,13468568
+Spadina-Fort York,10,13468568
+Scarborough-Rouge Park,25,13444398
+Don Valley East,16,13453958
+Humber River-Black Creek,7,13447893
+York Centre,6,13444656
+Toronto-St. Paul's,12,13460862
+Toronto Centre,13,13464785
+Parkdale-High Park,4,13467938
+Toronto-Danforth,14,13464067
+Toronto Centre,13,13466110
+Toronto Centre,13,13465179
+Beaches-East York,19,13455228
+Don Valley East,16,13455228
+Scarborough-Agincourt,22,13446623
+Toronto-Danforth,14,13460235
+Toronto-St. Paul's,12,13458543
+Etobicoke-Lakeshore,3,30070002
+Eglinton-Lawrence,8,13457302
+Humber River-Black Creek,7,13447884
+Etobicoke North,1,13454278
+Scarborough North,23,13443760
+Don Valley West,15,13454606
+Toronto-Danforth,14,13461264
+York South-Weston,5,13457705
+Scarborough Southwest,20,13452901
+Etobicoke Centre,2,13466029
+Parkdale-High Park,4,13466258
+York Centre,6,13449422
+York Centre,6,13449921
+Willowdale,18,13445427
+Eglinton-Lawrence,8,13455941
+Toronto-St. Paul's,12,13461822
+Davenport,9,13461822
+Eglinton-Lawrence,8,13457044
+Etobicoke-Lakeshore,3,13470128
+Etobicoke-Lakeshore,3,13470205
+Scarborough Centre,21,13447419
+Eglinton-Lawrence,8,13454239
+Toronto Centre,13,13465671
+Etobicoke North,1,13458127
+Eglinton-Lawrence,8,13452342
+Humber River-Black Creek,7,13448509
+Eglinton-Lawrence,8,13457385
+Toronto Centre,13,13464212
+Parkdale-High Park,4,13468619
+Scarborough-Rouge Park,25,13446300
+Spadina-Fort York,10,13467412
+York South-Weston,5,13457321
+Etobicoke Centre,2,13468530
+Don Valley North,17,13444193
+Toronto Centre,13,13465569
+Etobicoke North,1,13458423
+York South-Weston,5,13457446
+Eglinton-Lawrence,8,13457194
+York Centre,6,13447550
+Scarborough North,23,14630490
+Etobicoke Centre,2,13465143
+Etobicoke North,1,13452061
+Scarborough North,23,13443002
+Spadina-Fort York,10,13467969
+Beaches-East York,19,13462722
+Davenport,9,13467817
+Spadina-Fort York,10,13467817
+Scarborough-Guildwood,24,13445401
+Etobicoke North,1,13460160
+Toronto-St. Paul's,12,13459909
+Davenport,9,13459909
+Toronto-St. Paul's,12,13458567
+Eglinton-Lawrence,8,13458567
+Etobicoke-Lakeshore,3,13469473
+Etobicoke North,1,13459188
+Spadina-Fort York,10,13468652
+Toronto-Danforth,14,13461234
+Toronto Centre,13,13465673
+Toronto Centre,13,13466729
+Spadina-Fort York,10,14255097
+Scarborough Southwest,20,13459133
+Beaches-East York,19,13463652
+York Centre,6,13450331
+Scarborough-Agincourt,22,13443239
+York Centre,6,13449167
+Humber River-Black Creek,7,13452238
+York Centre,6,13452238
+Etobicoke North,1,13458599
+Etobicoke Centre,2,13458599
+Don Valley West,15,13450017
+Eglinton-Lawrence,8,13450017
+Scarborough Southwest,20,13459819
+York Centre,6,13449848
+University-Rosedale,11,13466022
+Parkdale-High Park,4,13467914
+Spadina-Fort York,10,14255084
+York Centre,6,13446223
+Scarborough North,23,13442014
+Scarborough Southwest,20,13452173
+Willowdale,18,13446724
+York South-Weston,5,13455463
+University-Rosedale,11,13465545
+Toronto-St. Paul's,12,13461675
+Eglinton-Lawrence,8,13455655
+York South-Weston,5,13461074
+Toronto Centre,13,13465478
+Spadina-Fort York,10,13467067
+University-Rosedale,11,13464590
+Etobicoke North,1,13453247
+Scarborough Centre,21,13451218
+Willowdale,18,13444463
+Toronto Centre,13,13466321
+University-Rosedale,11,13462302
+Scarborough-Agincourt,22,13444221
+Toronto-Danforth,14,13462518
+Humber River-Black Creek,7,13450487
+York Centre,6,13450487
+Scarborough-Rouge Park,25,13446675
+Willowdale,18,13448636
+Don Valley North,17,13445759
+Humber River-Black Creek,7,13449077
+York Centre,6,13449077
+York South-Weston,5,13460565
+Scarborough-Agincourt,22,13444341
+Scarborough North,23,14249113
+Etobicoke North,1,13450584
+York South-Weston,5,13459865
+Etobicoke Centre,2,13467359
+Willowdale,18,13447507
+Beaches-East York,19,13457540
+Parkdale-High Park,4,13464462
+Scarborough North,23,13441810
+Scarborough North,23,13443565
+Etobicoke North,1,13454716
+Don Valley West,15,13455731
+Etobicoke Centre,2,13461916
+Don Valley West,15,13456854
+York South-Weston,5,13462316
+Toronto-St. Paul's,12,13462801
+Davenport,9,13462801
+Don Valley West,15,13454100
+Scarborough North,23,13442037
+University-Rosedale,11,13463015
+York South-Weston,5,13456926
+Toronto-Danforth,14,13462504
+Scarborough Centre,21,13450394
+Etobicoke North,1,13453828
+Willowdale,18,13445799
+Scarborough Centre,21,13451550
+Scarborough Southwest,20,13452308
+Scarborough Centre,21,13452308
+Scarborough Southwest,20,13453803
+Don Valley North,17,13445522
+Etobicoke-Lakeshore,3,13469300
+Don Valley East,16,13448975
+Toronto-St. Paul's,12,13459150
+Scarborough Centre,21,13447984
+Etobicoke North,1,13454224
+Humber River-Black Creek,7,13446357
+Etobicoke-Lakeshore,3,13469943
+Toronto-Danforth,14,13459771
+Scarborough-Rouge Park,25,13447752
+Scarborough-Guildwood,24,13447752
+Etobicoke-Lakeshore,3,13470270
+Etobicoke Centre,2,13460953
+University-Rosedale,11,13464402
+York South-Weston,5,13461548
+Scarborough North,23,13442126
+Etobicoke Centre,2,13461321
+Etobicoke-Lakeshore,3,13469271
+Scarborough-Guildwood,24,13450683
+Etobicoke-Lakeshore,3,13468601
+Scarborough-Agincourt,22,13445784
+Toronto Centre,13,13466844
+Spadina-Fort York,10,13466844
+Davenport,9,13464778
+Davenport,9,13464556
+York South-Weston,5,13463074
+Toronto-Danforth,14,13460878
+Scarborough-Guildwood,24,13450162
+Scarborough Centre,21,13450206
+York South-Weston,5,13458722
+York Centre,6,13451553
+Willowdale,18,13443490
+Don Valley West,15,13448196
+Scarborough-Guildwood,24,13448378
+York Centre,6,13452784
+Beaches-East York,19,13462602
+York South-Weston,5,13456742
+Humber River-Black Creek,7,13448957
+Scarborough Centre,21,13451427
+Scarborough-Rouge Park,25,13442623
+Willowdale,18,13445959
+Don Valley North,17,13445549
+Don Valley North,17,13443340
+Etobicoke North,1,13460502
+Willowdale,18,13446806
+Don Valley West,15,13457552
+Don Valley West,15,13449313
+Don Valley East,16,13449313
+Toronto Centre,13,13464965
+Scarborough Southwest,20,13454430
+Etobicoke Centre,2,13466841
+Scarborough North,23,13442192
+Scarborough-Agincourt,22,13443978
+Don Valley North,17,13443978
+Scarborough-Agincourt,22,13441950
+Toronto-St. Paul's,12,13459690
+Davenport,9,13461089
+Toronto-Danforth,14,13460561
+York Centre,6,13447120
+York South-Weston,5,13463827
+Etobicoke Centre,2,13464710
+Davenport,9,13462262
+Scarborough-Guildwood,24,13448559
+Scarborough Centre,21,13448559
+Etobicoke Centre,2,13466693
+Don Valley West,15,13448155
+Don Valley North,17,13445232
+Scarborough Centre,21,13453844
+Don Valley East,16,13453844
+Scarborough-Guildwood,24,13448471
+Scarborough Centre,21,13449511
+Don Valley East,16,13449511
+Toronto-St. Paul's,12,13461035
+Humber River-Black Creek,7,13449132
+Toronto-Danforth,14,13464004
+University-Rosedale,11,13459721
+Scarborough Southwest,20,13457811
+Scarborough North,23,13441934
+Beaches-East York,19,13463032
+Scarborough-Guildwood,24,13448787
+Scarborough Centre,21,13448787
+Don Valley West,15,13450365
+Don Valley East,16,13450365
+Toronto-Danforth,14,13460029
+Etobicoke-Lakeshore,3,13470112
+Etobicoke Centre,2,13458691
+Scarborough-Agincourt,22,13445277
+Parkdale-High Park,4,13466049
+Davenport,9,13463602
+Scarborough North,23,13443404
+Scarborough-Agincourt,22,13443404
+Humber River-Black Creek,7,13449584
+Parkdale-High Park,4,13464433
+Don Valley North,17,13444657
+Davenport,9,13465326
+Toronto-St. Paul's,12,13457078
+Eglinton-Lawrence,8,13457078
+Toronto-Danforth,14,13463892
+Eglinton-Lawrence,8,13458615
+Scarborough-Rouge Park,25,13442384
+York Centre,6,13445431
+Willowdale,18,13445431
+Humber River-Black Creek,7,13455311
+Humber River-Black Creek,7,13450665
+University-Rosedale,11,13465757
+Scarborough North,23,13444674
+Davenport,9,13462184
+York South-Weston,5,13457522
+Beaches-East York,19,13460465
+York Centre,6,13445906
+Scarborough Centre,21,13449947
+Don Valley East,16,13449947
+Toronto-Danforth,14,13458562
+Toronto-Danforth,14,13458439
+Humber River-Black Creek,7,13450943
+Etobicoke Centre,2,13466647
+Beaches-East York,19,13458538
+Scarborough-Guildwood,24,13445715
+Davenport,9,13462446
+Etobicoke North,1,13450184
+York South-Weston,5,13458133
+Scarborough North,23,13442903
+York Centre,6,13446092
+Scarborough Southwest,20,13455976
+Davenport,9,13468224
+Spadina-Fort York,10,13468224
+Eglinton-Lawrence,8,13454446
+Don Valley West,15,13456681
+Etobicoke North,1,13449352
+Beaches-East York,19,13461875
+Humber River-Black Creek,7,13454738
+Humber River-Black Creek,7,13451044
+Etobicoke North,1,13458080
+Davenport,9,13467682
+York South-Weston,5,13462619
+Toronto-St. Paul's,12,13460197
+Scarborough-Rouge Park,25,13444818
+Toronto-Danforth,14,13460586
+Don Valley East,16,13452668
+York Centre,6,13453005
+Etobicoke-Lakeshore,3,13468018
+Scarborough-Rouge Park,25,13502957
+Scarborough-Guildwood,24,13502957
+Etobicoke Centre,2,13464280
+Etobicoke-Lakeshore,3,13467234
+Etobicoke Centre,2,13467234
+Toronto-Danforth,14,13464003
+Eglinton-Lawrence,8,13453081
+Etobicoke North,1,13454463
+Toronto-Danforth,14,13465194
+York Centre,6,13453761
+Eglinton-Lawrence,8,13454354
+Don Valley North,17,13447082
+Scarborough-Agincourt,22,13445511
+York Centre,6,13449248
+Willowdale,18,13447240
+Parkdale-High Park,4,13468431
+Beaches-East York,19,13459405
+Etobicoke-Lakeshore,3,13469717
+University-Rosedale,11,13466689
+Spadina-Fort York,10,13466689
+Toronto-Danforth,14,13464658
+Toronto Centre,13,13466475
+Eglinton-Lawrence,8,13455685
+York South-Weston,5,13456793
+Etobicoke-Lakeshore,3,13470452
+Don Valley East,16,13447917
+Etobicoke Centre,2,13463020
+Don Valley North,17,13445334
+Beaches-East York,19,13459659
+Scarborough-Agincourt,22,13443377
+Willowdale,18,13447109
+Scarborough-Rouge Park,25,13448428
+Scarborough-Guildwood,24,13448428
+Don Valley East,16,13448645
+Etobicoke-Lakeshore,3,13466445
+Etobicoke North,1,13458256
+Etobicoke-Lakeshore,3,13470367
+Etobicoke North,1,13453238
+Parkdale-High Park,4,13466754
+Davenport,9,13466754
+Beaches-East York,19,13457488
+Willowdale,18,13444488
+Don Valley North,17,13443592
+Davenport,9,13466699
+Etobicoke Centre,2,13466510
+Etobicoke North,1,13449574
+Scarborough-Guildwood,24,13445115
+Scarborough Southwest,20,13458214
+York Centre,6,13451358
+Humber River-Black Creek,7,13448583
+Etobicoke Centre,2,13461563
+Don Valley North,17,13446985
+Scarborough Southwest,20,13454685
+Toronto-Danforth,14,13459601
+Spadina-Fort York,10,13468727
+Scarborough-Agincourt,22,13445197
+York South-Weston,5,13459646
+Toronto Centre,13,13466560
+Spadina-Fort York,10,13466560
+Scarborough-Guildwood,24,13450859
+York Centre,6,13452934
+Scarborough Southwest,20,13456197
+Don Valley North,17,13447758
+Willowdale,18,13447372
+Beaches-East York,19,13462427
+Toronto-Danforth,14,13462427
+Don Valley East,16,13450790
+Scarborough Centre,21,13447916
+University-Rosedale,11,13466407
+Spadina-Fort York,10,13466407
+Humber River-Black Creek,7,13451997
+Scarborough Southwest,20,13453025
+Scarborough-Rouge Park,25,13443453
+Etobicoke Centre,2,13461359
+Scarborough-Agincourt,22,13442549
+Scarborough Southwest,20,13455320
+Willowdale,18,13448338
+University-Rosedale,11,13464960
+Scarborough-Rouge Park,25,14244366
+Etobicoke Centre,2,13458973
+Humber River-Black Creek,7,13452943
+Parkdale-High Park,4,13464808
+Davenport,9,13464808
+York Centre,6,13446838
+Beaches-East York,19,13459488
+Eglinton-Lawrence,8,13459303
+Davenport,9,13459303
+Eglinton-Lawrence,8,13454825
+Parkdale-High Park,4,13465564
+Davenport,9,13464495
+Don Valley North,17,13443979
+Davenport,9,13463844
+York Centre,6,13452459
+Etobicoke North,1,13457060
+Don Valley East,16,13451688
+Don Valley West,15,13449073
+University-Rosedale,11,13463747
+Scarborough Southwest,20,13459596
+Etobicoke Centre,2,13460052
+Scarborough Southwest,20,13453966
+Scarborough-Agincourt,22,13443033
+York Centre,6,13449931
+Eglinton-Lawrence,8,13457454
+Scarborough Centre,21,13449608
+Don Valley North,17,13444705
+Etobicoke North,1,13460793
+Etobicoke Centre,2,13460793
+Scarborough-Rouge Park,25,13447406
+York Centre,6,13449693
+Scarborough-Agincourt,22,13443298
+Scarborough Centre,21,13447015
+Etobicoke North,1,13461695
+York Centre,6,13450083
+Davenport,9,13462260
+Etobicoke Centre,2,13459962
+Toronto-Danforth,14,13466194
+Toronto Centre,13,13463953
+Scarborough North,23,13441709
+Scarborough-Rouge Park,25,13443668
+York Centre,6,13450779
+Scarborough-Agincourt,22,13442938
+Scarborough-Agincourt,22,13445288
+Etobicoke Centre,2,13464419
+Parkdale-High Park,4,13464684
+York Centre,6,13450489
+Etobicoke-Lakeshore,3,13469239
+Toronto Centre,13,20235156
+Scarborough-Agincourt,22,13442801
+Don Valley East,16,13451515
+Scarborough-Agincourt,22,13442802
+Davenport,9,13465043
+Etobicoke-Lakeshore,3,13467813
+Etobicoke Centre,2,13467813
+Humber River-Black Creek,7,13450852
+York Centre,6,13450329
+Scarborough-Rouge Park,25,13442021
+Don Valley West,15,13453271
+Willowdale,18,13446868
+Don Valley East,16,13449743
+Davenport,9,13462565
+Willowdale,18,13444658
+Scarborough Centre,21,13451755
+York Centre,6,13449155
+Scarborough Southwest,20,13457190
+Toronto-Danforth,14,13464948
+Willowdale,18,13445619
+Scarborough Centre,21,13448907
+Scarborough-Agincourt,22,13443543
+Scarborough Southwest,20,13453503
+Eglinton-Lawrence,8,13456564
+Beaches-East York,19,13455708
+Scarborough Southwest,20,13455708
+Scarborough-Guildwood,24,13447571
+Etobicoke Centre,2,13461842
+Scarborough-Rouge Park,25,20054828
+Eglinton-Lawrence,8,13456958
+Humber River-Black Creek,7,13452124
+York Centre,6,13452124
+Etobicoke-Lakeshore,3,13470365
+York Centre,6,13453838
+Beaches-East York,19,13458804
+Etobicoke North,1,13452721
+Davenport,9,13460993
+Humber River-Black Creek,7,13448098
+Etobicoke Centre,2,13466311
+Humber River-Black Creek,7,13452213
+Toronto Centre,13,14243510
+Scarborough Southwest,20,13453193
+Toronto-Danforth,14,13462891
+Spadina-Fort York,10,13467763
+Scarborough-Guildwood,24,13446878
+Scarborough-Rouge Park,25,13443237
+York South-Weston,5,13456682
+Scarborough Centre,21,13451881
+Willowdale,18,13444319
+York South-Weston,5,13459367
+Don Valley North,17,13442811
+University-Rosedale,11,13466105
+York South-Weston,5,13459618
+York South-Weston,5,13463685
+Beaches-East York,19,13458647
+Toronto Centre,13,13466240
+Don Valley West,15,13449536
+Don Valley East,16,13449536
+University-Rosedale,11,13463277
+Don Valley North,17,13446230
+Toronto Centre,13,13466440
+Toronto-St. Paul's,12,13460678
+York Centre,6,13447497
+Willowdale,18,13447497
+Scarborough North,23,13444024
+Scarborough-Agincourt,22,13444024
+Davenport,9,13461323
+Scarborough Southwest,20,13457721
+Humber River-Black Creek,7,13450908
+Eglinton-Lawrence,8,13454875
+Scarborough North,23,13441651
+Scarborough-Rouge Park,25,13442935
+Eglinton-Lawrence,8,13451833
+Scarborough Centre,21,13447415
+Toronto-St. Paul's,12,13459944
+Toronto-Danforth,14,13464758
+Don Valley West,15,13449911
+Don Valley West,15,13456424
+Scarborough Centre,21,13449474
+Toronto-Danforth,14,13464855
+Willowdale,18,13445686
+Don Valley North,17,13443031
+Etobicoke North,1,13451309
+Humber River-Black Creek,7,13449416
+York Centre,6,13449416
+Don Valley West,15,13449101
+Etobicoke-Lakeshore,3,13468994
+Scarborough-Guildwood,24,13450507
+Scarborough Southwest,20,13455083
+Etobicoke Centre,2,13463235
+Scarborough Centre,21,13448148
+Etobicoke North,1,13460990
+Etobicoke Centre,2,13460990
+Scarborough-Agincourt,22,13444492
+Eglinton-Lawrence,8,13453553
+Toronto-Danforth,14,13463372
+Etobicoke-Lakeshore,3,13470077
+Etobicoke Centre,2,13467579
+Scarborough-Guildwood,24,13448254
+Etobicoke North,1,13461283
+York Centre,6,13453245
+York South-Weston,5,13464143
+Toronto-Danforth,14,13463420
+Don Valley West,15,13458205
+Scarborough Southwest,20,13455771
+York Centre,6,13453300
+Scarborough Centre,21,13449240
+Humber River-Black Creek,7,13452395
+Humber River-Black Creek,7,13448484
+Toronto-St. Paul's,12,13460715
+Davenport,9,13460715
+Etobicoke-Lakeshore,3,13468274
+Humber River-Black Creek,7,13449596
+York Centre,6,13449850
+Humber River-Black Creek,7,13454960
+Scarborough Southwest,20,13455210
+Etobicoke North,1,13462365
+Don Valley North,17,13444508
+Don Valley West,15,13457776
+Scarborough North,23,13441654
+Scarborough-Rouge Park,25,13444584
+Etobicoke-Lakeshore,3,13470554
+York South-Weston,5,13461625
+Toronto-Danforth,14,13462704
+Willowdale,18,13445363
+Eglinton-Lawrence,8,13457150
+Toronto Centre,13,13464667
+Scarborough-Guildwood,24,13447932
+Don Valley West,15,13454505
+Scarborough-Rouge Park,25,13442597
+Etobicoke-Lakeshore,3,13470076
+Etobicoke-Lakeshore,3,13470504
+Don Valley West,15,13457982
+Scarborough Southwest,20,13453473
+Scarborough Centre,21,13453473
+Scarborough-Rouge Park,25,13442019
+Toronto-St. Paul's,12,13460459
+Etobicoke North,1,13462944
+Eglinton-Lawrence,8,13457265
+Eglinton-Lawrence,8,13455343
+Etobicoke-Lakeshore,3,13470312
+Scarborough-Rouge Park,25,13447495
+Scarborough-Guildwood,24,13447495
+York Centre,6,30038161
+Scarborough-Agincourt,22,13442123
+Don Valley North,17,13443156
+Humber River-Black Creek,7,13447518
+Scarborough-Rouge Park,25,13446051
+Beaches-East York,19,13463118
+Willowdale,18,13448605
+York South-Weston,5,13457584
+Humber River-Black Creek,7,13455730
+Scarborough-Rouge Park,25,13447093
+Etobicoke North,1,13462312
+Etobicoke Centre,2,13462312
+Don Valley West,15,13455755
+Eglinton-Lawrence,8,13455755
+Don Valley West,15,13448590
+Toronto-St. Paul's,12,13462760
+Scarborough-Agincourt,22,13443775
+Don Valley North,17,13447055
+Etobicoke-Lakeshore,3,13469548
+Don Valley East,16,13450781
+Eglinton-Lawrence,8,13455428
+Don Valley North,17,13444546
+Don Valley West,15,13453765
+Etobicoke Centre,2,13464491
+Don Valley East,16,13451065
+Etobicoke North,1,13456192
+Humber River-Black Creek,7,13455060
+Etobicoke North,1,13451893
+Don Valley East,16,13448813
+Humber River-Black Creek,7,13447680
+York South-Weston,5,13457336
+Eglinton-Lawrence,8,13454644
+York Centre,6,13453470
+Scarborough North,23,13442041
+Scarborough-Agincourt,22,13442041
+Scarborough-Guildwood,24,13446726
+Willowdale,18,13446864
+Etobicoke-Lakeshore,3,13470456
+Don Valley West,15,13450012
+Etobicoke Centre,2,13460454
+Etobicoke Centre,2,13469097
+York South-Weston,5,13462045
+Etobicoke North,1,13451869
+Scarborough-Rouge Park,25,13442807
+Etobicoke North,1,13452603
+Etobicoke Centre,2,13463854
+Etobicoke North,1,13454996
+Toronto Centre,13,13466427
+Scarborough Centre,21,13449319
+Don Valley East,16,13449319
+Scarborough-Guildwood,24,13447437
+Beaches-East York,19,13463933
+Scarborough Centre,21,13450586
+Toronto Centre,13,13464520
+Don Valley West,15,13457222
+Parkdale-High Park,4,13464716
+Beaches-East York,19,13459542
+Willowdale,18,13444119
+Scarborough Centre,21,13451925
+Don Valley East,16,13451925
+Etobicoke-Lakeshore,3,13469627
+Scarborough-Rouge Park,25,13444265
+Toronto-Danforth,14,13459366
+Toronto-Danforth,14,13462953
+York Centre,6,13454472
+York South-Weston,5,13456797
+Etobicoke North,1,13449853
+Etobicoke Centre,2,13463605
+Etobicoke Centre,2,13465976
+Scarborough Southwest,20,13454273
+Etobicoke North,1,13459070
+Scarborough-Agincourt,22,13444479
+Don Valley North,17,13444479
+Eglinton-Lawrence,8,13453505
+Scarborough Southwest,20,13458733
+Willowdale,18,13445652
+Etobicoke North,1,13451672
+Don Valley East,16,13449731
+Spadina-Fort York,10,13467505
+Scarborough-Guildwood,24,13450294
+Etobicoke-Lakeshore,3,13469941
+Etobicoke North,1,13460340
+Scarborough-Agincourt,22,13441856
+Eglinton-Lawrence,8,13455979
+Scarborough-Guildwood,24,13447579
+York Centre,6,13452745
+University-Rosedale,11,13460540
+Beaches-East York,19,13458996
+Scarborough North,23,13441833
+Beaches-East York,19,13459233
+York South-Weston,5,13461575
+Scarborough-Guildwood,24,13447170
+Don Valley East,16,13450514
+Scarborough-Guildwood,24,13447827
+Scarborough Centre,21,13447827
+Scarborough-Agincourt,22,13443302
+Don Valley West,15,13448296
+Don Valley East,16,13448296
+Scarborough Centre,21,13451120
+Humber River-Black Creek,7,13455219
+Beaches-East York,19,13461863
+Parkdale-High Park,4,30054189
+Humber River-Black Creek,7,13451262
+York Centre,6,13447770
+Willowdale,18,13447770
+Scarborough-Rouge Park,25,13443365
+Don Valley East,16,13449192
+Humber River-Black Creek,7,13450242
+York Centre,6,13450242
+Scarborough Centre,21,13449824
+Scarborough-Rouge Park,25,13442074
+Scarborough North,23,13442074
+Scarborough-Agincourt,22,13443753
+Etobicoke North,1,13451253
+Don Valley West,15,13456928
+University-Rosedale,11,13465052
+Scarborough Southwest,20,13452352
+Scarborough Southwest,20,13455635
+Don Valley West,15,13457369
+Toronto Centre,13,13466250
+Spadina-Fort York,10,13466250
+Scarborough North,23,13442364
+Don Valley West,15,13449216
+Scarborough-Agincourt,22,13442540
+Don Valley North,17,13442540
+Scarborough North,23,13443247
+Scarborough North,23,13442140
+Etobicoke North,1,13452467
+Scarborough-Guildwood,24,13448487
+Scarborough Centre,21,13450676
+Etobicoke-Lakeshore,3,13467131
+Parkdale-High Park,4,13465042
+Davenport,9,13465042
+Scarborough North,23,13442632
+Don Valley North,17,13447653
+Spadina-Fort York,10,13467695
+Eglinton-Lawrence,8,13456273
+Willowdale,18,13444838
+Toronto-St. Paul's,12,13461870
+Scarborough Southwest,20,13456292
+Scarborough-Guildwood,24,13445657
+Etobicoke-Lakeshore,3,13468500
+Willowdale,18,13448022
+Humber River-Black Creek,7,13449213
+Scarborough Southwest,20,13458805
+Eglinton-Lawrence,8,13459413
+Davenport,9,13459413
+Davenport,9,13463535
+Spadina-Fort York,10,13466991
+Etobicoke-Lakeshore,3,13470179
+Etobicoke North,1,13462601
+Scarborough-Agincourt,22,13443022
+Toronto-Danforth,14,13463245
+Scarborough-Guildwood,24,13445757
+Beaches-East York,19,13461124
+Scarborough-Agincourt,22,13446472
+Etobicoke North,1,13449225
+Eglinton-Lawrence,8,13454874
+York South-Weston,5,13460210
+York Centre,6,13444817
+Scarborough-Rouge Park,25,13442843
+Scarborough-Rouge Park,25,13442679
+Scarborough Southwest,20,13456125
+Scarborough North,23,13444194
+Scarborough-Agincourt,22,13444194
+Davenport,9,13464313
+University-Rosedale,11,13462628
+Humber River-Black Creek,7,13451820
+Spadina-Fort York,10,13467971
+Beaches-East York,19,13463942
+Toronto-Danforth,14,13463942
+University-Rosedale,11,13464585
+Scarborough Southwest,20,13458925
+Willowdale,18,13444504
+Scarborough Centre,21,13452801
+Humber River-Black Creek,7,13448285
+Humber River-Black Creek,7,13446884
+York Centre,6,13446884
+Parkdale-High Park,4,13468837
+Humber River-Black Creek,7,20015388
+Scarborough-Rouge Park,25,13446607
+Scarborough-Guildwood,24,13446607
+Humber River-Black Creek,7,13455405
+Scarborough-Rouge Park,25,13443902
+Don Valley North,17,13442848
+University-Rosedale,11,13465356
+Don Valley East,16,13455363
+Eglinton-Lawrence,8,13455778
+Eglinton-Lawrence,8,13457583
+Don Valley West,15,13456773
+York Centre,6,13452594
+Scarborough-Rouge Park,25,13442113
+Don Valley North,17,13443403
+Scarborough-Agincourt,22,13445713
+Scarborough Centre,21,13451128
+Etobicoke-Lakeshore,3,13469579
+Scarborough-Agincourt,22,13443916
+Beaches-East York,19,13458087
+Don Valley East,16,13452002
+Etobicoke-Lakeshore,3,13469002
+Etobicoke-Lakeshore,3,13470148
+Toronto-Danforth,14,13463771
+Scarborough Centre,21,13451799
+Etobicoke-Lakeshore,3,13469774
+Scarborough Centre,21,13449140
+Willowdale,18,13444306
+Humber River-Black Creek,7,13450145
+Don Valley West,15,13456160
+Etobicoke Centre,2,13460084
+Etobicoke Centre,2,13460656
+Don Valley West,15,13455270
+Scarborough-Rouge Park,25,13445458
+Don Valley East,16,20234111
+Scarborough-Agincourt,22,13442443
+Scarborough Southwest,20,13458621
+Etobicoke Centre,2,13465087
+Scarborough Centre,21,13450601
+Toronto-Danforth,14,13460437
+Humber River-Black Creek,7,13448414
+Toronto-Danforth,14,13459071
+Scarborough-Agincourt,22,13445317
+Scarborough-Agincourt,22,13443440
+Don Valley North,17,13443440
+Scarborough North,23,13443900
+Scarborough Centre,21,13451389
+York Centre,6,13449785
+Willowdale,18,13444138
+Etobicoke-Lakeshore,3,13470013
+York South-Weston,5,13458175
+Scarborough Southwest,20,13454035
+Don Valley East,16,13453020
+Eglinton-Lawrence,8,13455613
+Etobicoke Centre,2,13461184
+Scarborough Southwest,20,13459977
+Scarborough-Rouge Park,25,13442586
+Etobicoke Centre,2,13459501
+Willowdale,18,13448067
+Don Valley North,17,13444718
+Scarborough Centre,21,13452416
+Scarborough Centre,21,13447880
+Etobicoke North,1,13456555
+Etobicoke-Lakeshore,3,13469939
+Scarborough-Guildwood,24,13448109
+Beaches-East York,19,13458210
+Scarborough-Rouge Park,25,13442992
+Willowdale,18,13444823
+Etobicoke Centre,2,13466317
+Don Valley North,17,13447128
+Toronto-Danforth,14,13460336
+Don Valley West,15,13455212
+Eglinton-Lawrence,8,13455212
+York South-Weston,5,13456201
+Scarborough Centre,21,13451299
+Davenport,9,13464479
+Scarborough North,23,13443353
+Scarborough Centre,21,13452586
+Don Valley East,16,13452586
+York South-Weston,5,13458683
+Scarborough Southwest,20,13451422
+Scarborough-Guildwood,24,13451422
+Don Valley North,17,13445056
+Willowdale,18,13444630
+Humber River-Black Creek,7,13447821
+Scarborough-Agincourt,22,13443052
+York Centre,6,13450055
+Scarborough Centre,21,13449811
+Toronto-St. Paul's,12,13462794
+Eglinton-Lawrence,8,13455999
+Etobicoke Centre,2,13465781
+Etobicoke-Lakeshore,3,13467231
+Scarborough Centre,21,13451090
+Don Valley East,16,13449368
+Eglinton-Lawrence,8,13453204
+Scarborough-Rouge Park,25,13442005
+Don Valley North,17,13442557
+Don Valley East,16,13448702
+Don Valley North,17,13445359
+York South-Weston,5,13463700
+York Centre,6,13451600
+Scarborough Centre,21,13453748
+Don Valley North,17,13447810
+University-Rosedale,11,13462968
+Willowdale,18,13447144
+Willowdale,18,13446218
+Beaches-East York,19,13459115
+Scarborough North,23,13442762
+Scarborough-Agincourt,22,13442762
+Etobicoke Centre,2,13461514
+Etobicoke North,1,13458633
+Scarborough-Rouge Park,25,13445264
+Toronto-Danforth,14,13464269
+Scarborough Centre,21,13451008
+Scarborough Southwest,20,13458358
+Don Valley North,17,13443228
+York Centre,6,13452908
+Eglinton-Lawrence,8,14043938
+Scarborough Centre,21,13448311
+Davenport,9,13463794
+York Centre,6,14673438
+Willowdale,18,13445145
+Spadina-Fort York,10,13467593
+University-Rosedale,11,13463425
+York South-Weston,5,13457109
+Don Valley West,15,13454880
+Humber River-Black Creek,7,13452551
+Beaches-East York,19,13458249
+Scarborough Southwest,20,13454029
+York South-Weston,5,13460277
+Etobicoke-Lakeshore,3,13467917
+Toronto-St. Paul's,12,13458456
+Toronto Centre,13,30029405
+Spadina-Fort York,10,30029405
+Willowdale,18,13444061
+Scarborough-Rouge Park,25,13442447
+York South-Weston,5,13456695
+Scarborough Southwest,20,13452703
+Scarborough-Rouge Park,25,13445054
+Toronto-St. Paul's,12,13457942
+Don Valley East,16,13452186
+Etobicoke North,1,13455524
+York Centre,6,13449330
+Scarborough Southwest,20,13453382
+Scarborough-Guildwood,24,13446592
+Toronto-St. Paul's,12,13458181
+Don Valley West,15,13456558
+Etobicoke North,1,13449783
+Beaches-East York,19,13457428
+Scarborough North,23,13442901
+Davenport,9,13466880
+Scarborough Centre,21,13449471
+Don Valley East,16,13454817
+Don Valley East,16,13455493
+York South-Weston,5,13461911
+Toronto-Danforth,14,13459436
+Toronto Centre,13,13465715
+Toronto-Danforth,14,13460996
+York Centre,6,13449668
+Etobicoke-Lakeshore,3,13469530
+Don Valley West,15,13448765
+Don Valley West,15,13456193
+Don Valley West,15,13457594
+York South-Weston,5,13458530
+Don Valley West,15,13453890
+Etobicoke North,1,13453659
+York South-Weston,5,13464263
+Scarborough-Guildwood,24,13445821
+Don Valley North,17,13442457
+York South-Weston,5,13460140
+Eglinton-Lawrence,8,13454883
+Willowdale,18,13446504
+York Centre,6,13449464
+Don Valley West,15,13450770
+Eglinton-Lawrence,8,13450770
+Davenport,9,13463208
+Scarborough Centre,21,13447577
+Etobicoke North,1,13454518
+Don Valley West,15,13449402
+Parkdale-High Park,4,13464434
+Toronto-St. Paul's,12,13459974
+Parkdale-High Park,4,13465145
+Etobicoke-Lakeshore,3,13470475
+University-Rosedale,11,13460816
+Etobicoke North,1,13452090
+York Centre,6,13445817
+Scarborough-Rouge Park,25,13445921
+Spadina-Fort York,10,20111568
+Scarborough Centre,21,13447807
+Willowdale,18,13444337
+Scarborough North,23,13441662
+Humber River-Black Creek,7,13452573
+York South-Weston,5,13458879
+Don Valley West,15,13448142
+Scarborough Southwest,20,13453023
+Scarborough-Guildwood,24,13447083
+Scarborough-Agincourt,22,13442616
+Etobicoke North,1,13450164
+Eglinton-Lawrence,8,13455263
+Willowdale,18,13448418
+Eglinton-Lawrence,8,13453267
+York South-Weston,5,13458842
+Scarborough Southwest,20,13453971
+Don Valley West,15,13450215
+Scarborough-Rouge Park,25,13449162
+Scarborough-Guildwood,24,13449162
+Etobicoke-Lakeshore,3,13470429
+Scarborough Southwest,20,13453339
+Etobicoke Centre,2,13469193
+Scarborough-Agincourt,22,13446799
+Eglinton-Lawrence,8,13452036
+Parkdale-High Park,4,13464963
+Don Valley North,17,13445327
+University-Rosedale,11,13465263
+Toronto Centre,13,13465263
+Scarborough-Guildwood,24,13447492
+Scarborough-Rouge Park,25,13445303
+Scarborough-Rouge Park,25,13974900
+York Centre,6,13452710
+York South-Weston,5,13456916
+Toronto Centre,13,13467160
+Spadina-Fort York,10,13467160
+Scarborough Southwest,20,13451762
+Scarborough Centre,21,13451762
+Don Valley West,15,13453140
+Parkdale-High Park,4,13468148
+Don Valley East,16,13451645
+Scarborough-Agincourt,22,13442607
+Willowdale,18,13444497
+Etobicoke-Lakeshore,3,13470418
+Scarborough-Agincourt,22,20195197
+Toronto-Danforth,14,13460855
+Scarborough Southwest,20,13456881
+Scarborough Southwest,20,13454001
+Etobicoke-Lakeshore,3,13469402
+Etobicoke-Lakeshore,3,13467015
+Eglinton-Lawrence,8,13455466
+Scarborough Southwest,20,13458705
+Etobicoke North,1,13454866
+Don Valley North,17,13444342
+Scarborough North,23,13443944
+York South-Weston,5,13458435
+Toronto-Danforth,14,13464179
+Scarborough North,23,13443525
+Scarborough-Guildwood,24,13445922
+Scarborough-Agincourt,22,13442139
+Toronto-Danforth,14,13458715
+Humber River-Black Creek,7,13455332
+York Centre,6,13455332
+Toronto-St. Paul's,12,13462390
+Willowdale,18,13447625
+Scarborough Southwest,20,13451873
+Scarborough Centre,21,13451873
+Don Valley North,17,13447350
+York South-Weston,5,13462180
+Etobicoke North,1,13455866
+Beaches-East York,19,13461467
+Beaches-East York,19,13457157
+Don Valley North,17,13446677
+Humber River-Black Creek,7,13447414
+Scarborough Centre,21,13449086
+University-Rosedale,11,13464999
+Toronto Centre,13,13464999
+Scarborough North,23,13441891
+Toronto-Danforth,14,13462283
+Scarborough Centre,21,13448059
+York South-Weston,5,13464022
+York Centre,6,13446969
+York Centre,6,13453068
+Etobicoke-Lakeshore,3,13470476
+York Centre,6,13452576
+Scarborough-Rouge Park,25,13446621
+Etobicoke-Lakeshore,3,13469883
+Davenport,9,13466900
+Scarborough Southwest,20,13451718
+Scarborough-Guildwood,24,13451718
+Parkdale-High Park,4,13468464
+Etobicoke North,1,13454315
+Scarborough-Guildwood,24,13447703
+York Centre,6,13449165
+Scarborough-Rouge Park,25,13444738
+Toronto-Danforth,14,13467269
+Willowdale,18,13446936
+Etobicoke Centre,2,13465221
+Beaches-East York,19,13463537
+Toronto-Danforth,14,13463537
+Toronto-St. Paul's,12,13462293
+Scarborough-Guildwood,24,13444339
+Scarborough-Agincourt,22,13443726
+Don Valley North,17,13443726
+Eglinton-Lawrence,8,13458159
+Scarborough-Guildwood,24,13447453
+Etobicoke North,1,13454152
+Toronto Centre,13,13466048
+Spadina-Fort York,10,13466048
+Don Valley North,17,13443215
+Humber River-Black Creek,7,13448760
+Scarborough Southwest,20,13457512
+Toronto Centre,13,13464664
+Parkdale-High Park,4,13468559
+Scarborough-Agincourt,22,13444794
+Don Valley North,17,13444794
+Humber River-Black Creek,7,13449727
+Spadina-Fort York,10,13467665
+Etobicoke North,1,13453318
+Scarborough-Agincourt,22,13445257
+Humber River-Black Creek,7,13448648
+Scarborough North,23,13441658
+Don Valley North,17,13446814
+Don Valley West,15,13450226
+Scarborough-Agincourt,22,13444409
+Etobicoke-Lakeshore,3,13470536
+Don Valley East,16,13453604
+Scarborough-Agincourt,22,13442693
+Don Valley North,17,13442693
+Willowdale,18,13444756
+Scarborough Centre,21,13449592
+Scarborough North,23,13442036
+Scarborough-Agincourt,22,13443081
+Scarborough Centre,21,13447299
+Scarborough Southwest,20,13459232
+Don Valley West,15,13450870
+Scarborough-Rouge Park,25,13445405
+Etobicoke Centre,2,13466209
+Scarborough-Rouge Park,25,13444922
+Davenport,9,13463482
+Scarborough North,23,13443751
+Scarborough-Agincourt,22,13443751
+Scarborough Southwest,20,13454978
+Etobicoke Centre,2,13464546
+Scarborough-Rouge Park,25,13447774
+Etobicoke North,1,13453545
+Scarborough-Agincourt,22,13443113
+Willowdale,18,13445540
+Humber River-Black Creek,7,13448570
+York Centre,6,13448570
+Scarborough-Agincourt,22,13446777
+Don Valley North,17,13446777
+Scarborough Centre,21,13450686
+Spadina-Fort York,10,13467437
+Toronto-St. Paul's,12,13460312
+Etobicoke North,1,13459282
+Etobicoke Centre,2,13459282
+Scarborough North,23,13443229
+Willowdale,18,13443657
+Scarborough North,23,13442207
+Etobicoke North,1,13455765
+Spadina-Fort York,10,13468313
+Toronto-St. Paul's,12,13459363
+Scarborough North,23,13442002
+Scarborough-Agincourt,22,13445461
+Scarborough Southwest,20,13454767
+York South-Weston,5,13459578
+Scarborough-Rouge Park,25,13444613
+Scarborough Centre,21,13452623
+Scarborough-Rouge Park,25,13441955
+Humber River-Black Creek,7,13448065
+York Centre,6,13448065
+Scarborough-Rouge Park,25,14252582
+Don Valley East,16,13448704
+Toronto-St. Paul's,12,13457678
+University-Rosedale,11,13463463
+Toronto Centre,13,13463463
+York South-Weston,5,13457445
+Don Valley East,16,13453263
+Toronto-Danforth,14,13466351
+York South-Weston,5,13458802
+Scarborough North,23,13441723
+Don Valley East,16,13455359
+Etobicoke-Lakeshore,3,13468888
+Spadina-Fort York,10,13468309
+York Centre,6,13445891
+Scarborough Southwest,20,13453681
+Scarborough Southwest,20,13456960
+University-Rosedale,11,13462718
+Toronto Centre,13,13467239
+Spadina-Fort York,10,13467239
+Don Valley North,17,13445096
+Scarborough North,23,13444313
+Scarborough-Rouge Park,25,13446901
+Scarborough-Guildwood,24,13446901
+Etobicoke-Lakeshore,3,13468614
+Etobicoke Centre,2,13468614
+Scarborough North,23,13442730
+Scarborough Centre,21,13974857
+Scarborough-Agincourt,22,13442882
+Don Valley North,17,13442882
+Scarborough North,23,13445134
+York South-Weston,5,13462466
+Etobicoke Centre,2,13468073
+Scarborough North,23,13444958
+Don Valley West,15,13455987
+Etobicoke-Lakeshore,3,13470480
+Scarborough Centre,21,13453141
+Scarborough Southwest,20,13455334
+Humber River-Black Creek,7,13449888
+York Centre,6,13445128
+Spadina-Fort York,10,13466500
+Scarborough Southwest,20,13451634
+Scarborough Centre,21,13451634
+Etobicoke-Lakeshore,3,13468871
+Etobicoke North,1,13450148
+Scarborough North,23,13444959
+Scarborough-Rouge Park,25,13444486
+Spadina-Fort York,10,13468440
+Don Valley North,17,13445192
+Don Valley West,15,13453863
+Don Valley North,17,13444899
+Scarborough Centre,21,13448318
+Etobicoke North,1,13455043
+Etobicoke North,1,13454852
+Don Valley West,15,13455420
+Toronto-Danforth,14,13459903
+Scarborough North,23,13444498
+Don Valley East,16,13448069
+Scarborough Centre,21,13450111
+Scarborough-Guildwood,24,13445680
+York Centre,6,13453372
+Etobicoke North,1,13458112
+Etobicoke-Lakeshore,3,13470305
+Scarborough-Agincourt,22,13442440
+Toronto-St. Paul's,12,13461343
+Toronto-Danforth,14,13462203
+York Centre,6,13453187
+Etobicoke North,1,13454935
+Scarborough-Rouge Park,25,13445220
+Don Valley East,16,13454407
+Eglinton-Lawrence,8,13457301
+Parkdale-High Park,4,13467726
+University-Rosedale,11,13462831
+Toronto-St. Paul's,12,13462831
+Don Valley North,17,13443039
+Beaches-East York,19,13462564
+Scarborough-Rouge Park,25,14184392
+Toronto-Danforth,14,13463447
+Scarborough Centre,21,13448718
+York Centre,6,13444956
+Don Valley East,16,13449122
+Davenport,9,13464573
+York South-Weston,5,13462686
+Toronto Centre,13,13467163
+Spadina-Fort York,10,13467163
+Toronto-St. Paul's,12,13457915
+Willowdale,18,13449067
+Spadina-Fort York,10,13467650
+Humber River-Black Creek,7,20058480
+Scarborough Centre,21,13448481
+Etobicoke North,1,13453576
+Don Valley North,17,13444278
+York Centre,6,13454987
+Scarborough-Agincourt,22,13443752
+Etobicoke Centre,2,13460821
+Don Valley North,17,13444861
+Scarborough-Rouge Park,25,13446928
+Toronto Centre,13,13463389
+Scarborough North,23,13444903
+Toronto-Danforth,14,13465109
+Scarborough-Agincourt,22,13443970
+Etobicoke-Lakeshore,3,13468797
+Toronto Centre,13,13466636
+Spadina-Fort York,10,13466636
+Scarborough Southwest,20,13454124
+Scarborough-Rouge Park,25,13445320
+University-Rosedale,11,13466833
+Spadina-Fort York,10,13466833
+York South-Weston,5,13459957
+University-Rosedale,11,13464647
+York Centre,6,13449744
+Etobicoke Centre,2,13460679
+Humber River-Black Creek,7,13450866
+Scarborough North,23,13441692
+Scarborough-Guildwood,24,13444720
+Parkdale-High Park,4,13468182
+Scarborough-Agincourt,22,13443374
+Etobicoke Centre,2,13466944
+Don Valley North,17,13444260
+Scarborough-Guildwood,24,13448187
+York Centre,6,13445620
+Toronto-St. Paul's,12,13462183
+Toronto-Danforth,14,13460701
+Don Valley North,17,30113231
+Don Valley East,16,13448996
+Etobicoke-Lakeshore,3,13470192
+Toronto-Danforth,14,13463084
+Humber River-Black Creek,7,13447205
+Scarborough Centre,21,13446436
+Don Valley West,15,13458728
+Don Valley East,16,13455144
+Scarborough-Rouge Park,25,13443095
+Toronto-Danforth,14,13465121
+Etobicoke Centre,2,13465333
+Toronto-St. Paul's,12,13460246
+Scarborough North,23,13442796
+Etobicoke-Lakeshore,3,13470377
+Don Valley West,15,13457802
+York South-Weston,5,13458203
+Parkdale-High Park,4,13468303
+York Centre,6,13452613
+Etobicoke Centre,2,13467238
+Don Valley East,16,13456290
+Toronto-Danforth,14,13460964
+Etobicoke North,1,13458634
+York Centre,6,13450231
+Etobicoke Centre,2,13461907
+University-Rosedale,11,13465273
+York South-Weston,5,13461238
+Davenport,9,13464892
+Don Valley North,17,13444996
+Etobicoke-Lakeshore,3,13468857
+York South-Weston,5,13459487
+Etobicoke Centre,2,13459195
+Willowdale,18,13448247
+Scarborough-Agincourt,22,13443806
+Don Valley East,16,13449683
+Scarborough Southwest,20,13454971
+Scarborough-Rouge Park,25,13444181
+York South-Weston,5,13459076
+Etobicoke-Lakeshore,3,13469875
+Scarborough North,23,13442417
+York Centre,6,13445966
+Scarborough North,23,13441683
+Scarborough North,23,13444211
+Etobicoke North,1,13454771
+Etobicoke North,1,13461753
+Scarborough North,23,13442204
+Don Valley North,17,13445637
+Etobicoke North,1,13463579
+Humber River-Black Creek,7,13448931
+Scarborough-Guildwood,24,13444470
+Parkdale-High Park,4,13464467
+Scarborough North,23,13443821
+York Centre,6,13446617
+Scarborough North,23,13443768
+Scarborough Southwest,20,20166260
+Parkdale-High Park,4,13464453
+Scarborough Southwest,20,13458526
+Etobicoke Centre,2,13465286
+Scarborough Southwest,20,13453325
+Scarborough Centre,21,13453325
+Etobicoke North,1,13450610
+Etobicoke Centre,2,13464874
+Davenport,9,13462947
+Don Valley East,16,13452795
+York Centre,6,13449421
+Etobicoke North,1,13458216
+Etobicoke Centre,2,13464249
+Toronto-St. Paul's,12,13461471
+York Centre,6,13447951
+Humber River-Black Creek,7,13448007
+Etobicoke Centre,2,13461913
+Scarborough Centre,21,13448105
+Don Valley East,16,13448105
+Scarborough-Agincourt,22,14171575
+Etobicoke North,1,13457922
+Spadina-Fort York,10,13468803
+York South-Weston,5,13463362
+Don Valley West,15,13448127
+Scarborough Centre,21,13450334
+Toronto-Danforth,14,13458643
+Scarborough-Rouge Park,25,13441830
+York Centre,6,13452625
+York South-Weston,5,13462866
+Toronto-Danforth,14,13460112
+University-Rosedale,11,13462958
+Scarborough North,23,13441912
+Etobicoke Centre,2,13466027
+Humber River-Black Creek,7,13450944
+Parkdale-High Park,4,13465244
+York Centre,6,13450205
+Scarborough North,23,13441776
+Etobicoke-Lakeshore,3,13469747
+Scarborough Southwest,20,13451254
+Scarborough-Guildwood,24,13451254
+Etobicoke-Lakeshore,3,13469719
+Etobicoke Centre,2,13464781
+Scarborough Centre,21,13447551
+Etobicoke-Lakeshore,3,13470366
+Scarborough-Rouge Park,25,13441815
+Humber River-Black Creek,7,13450698
+Davenport,9,13467882
+Etobicoke North,1,13454800
+Etobicoke North,1,13460154
+Scarborough-Rouge Park,25,13445345
+Etobicoke-Lakeshore,3,13468356
+Etobicoke Centre,2,13468356
+Scarborough-Agincourt,22,13442071
+Humber River-Black Creek,7,13449203
+York South-Weston,5,14069693
+Don Valley West,15,13451268
+Don Valley East,16,13451268
+York Centre,6,13454661
+Etobicoke North,1,20046140
+Etobicoke Centre,2,13459870
+Scarborough Southwest,20,13457866
+Etobicoke North,1,13453266
+Toronto-St. Paul's,12,13458311
+Eglinton-Lawrence,8,13458311
+Don Valley West,15,13456949
+Toronto-Danforth,14,13467182
+Etobicoke North,1,13454428
+York Centre,6,13448551
+Davenport,9,13463735
+Scarborough-Rouge Park,25,13444753
+Beaches-East York,19,13457239
+Don Valley West,15,13455811
+Scarborough-Rouge Park,25,13443245
+Scarborough-Rouge Park,25,13445262
+Scarborough-Rouge Park,25,13445039
+Scarborough-Guildwood,24,13445039
+Beaches-East York,19,13456486
+Scarborough North,23,13442585
+Parkdale-High Park,4,13466531
+Don Valley East,16,13452166
+Don Valley East,16,13455700
+York South-Weston,5,13463641
+Don Valley East,16,13455339
+Toronto-St. Paul's,12,13458006
+Eglinton-Lawrence,8,13458006
+Scarborough-Agincourt,22,13445796
+Scarborough-Rouge Park,25,13442559
+Eglinton-Lawrence,8,13455749
+York Centre,6,13449445
+Toronto-Danforth,14,13464614
+York South-Weston,5,14659127
+Scarborough Centre,21,13450163
+Scarborough Centre,21,13450391
+York Centre,6,13448866
+Scarborough North,23,13441893
+York South-Weston,5,13459377
+University-Rosedale,11,13462444
+Scarborough-Rouge Park,25,13446406
+Humber River-Black Creek,7,13447994
+Scarborough North,23,13445484
+Scarborough-Rouge Park,25,13442196
+University-Rosedale,11,13464524
+Scarborough-Guildwood,24,13448547
+Spadina-Fort York,10,13468584
+Beaches-East York,19,13457565
+Willowdale,18,13443615
+Don Valley North,17,13443615
+Parkdale-High Park,4,13467963
+Etobicoke-Lakeshore,3,13470217
+Don Valley East,16,13456011
+Beaches-East York,19,13463408
+Scarborough-Rouge Park,25,14184384
+Scarborough North,23,14184384
+Parkdale-High Park,4,13467368
+Davenport,9,13467368
+York South-Weston,5,13460466
+Scarborough-Guildwood,24,13450532
+Etobicoke Centre,2,13462655
+Etobicoke Centre,2,13464598
+Scarborough-Rouge Park,25,13442063
+Scarborough-Rouge Park,25,13445741
+Scarborough-Guildwood,24,13448786
+Toronto Centre,13,13466418
+Spadina-Fort York,10,13466418
+Don Valley North,17,13442971
+York South-Weston,5,13459821
+Parkdale-High Park,4,13468216
+Scarborough Southwest,20,13456415
+Scarborough Centre,21,13448775
+Toronto-St. Paul's,12,13456978
+Scarborough-Rouge Park,25,13443379
+Don Valley West,15,13451896
+Eglinton-Lawrence,8,13451896
+Scarborough-Agincourt,22,13441814
+Scarborough Centre,21,13446743
+Beaches-East York,19,13458149
+York Centre,6,13452996
+Toronto-St. Paul's,12,13458244
+Eglinton-Lawrence,8,13458244
+Willowdale,18,13448917
+Beaches-East York,19,13455959
+Scarborough Southwest,20,13455959
+Etobicoke Centre,2,13460905
+York South-Weston,5,13460183
+Beaches-East York,19,13462225
+Toronto-Danforth,14,13462225
+Davenport,9,13461915
+Etobicoke North,1,13461369
+Beaches-East York,19,13461403
+Don Valley North,17,13446836
+Willowdale,18,13448244
+Toronto-Danforth,14,13459300
+Etobicoke-Lakeshore,3,13469526
+Scarborough-Rouge Park,25,13442793
+Scarborough Centre,21,13448759
+Etobicoke-Lakeshore,3,13466999
+Scarborough-Rouge Park,25,13444536
+Scarborough-Guildwood,24,13444536
+Etobicoke North,1,13453496
+Scarborough Southwest,20,13454295
+Scarborough-Rouge Park,25,13445095
+Scarborough-Agincourt,22,13442983
+Willowdale,18,13444752
+Scarborough-Rouge Park,25,20154546
+Humber River-Black Creek,7,13448504
+Eglinton-Lawrence,8,13455026
+Scarborough-Guildwood,24,13446835
+Toronto-St. Paul's,12,13459786
+Etobicoke Centre,2,13466281
+Toronto-Danforth,14,13465313
+Humber River-Black Creek,7,13446566
+Etobicoke North,1,13456702
+Etobicoke Centre,2,13465418
+York South-Weston,5,13456379
+Etobicoke-Lakeshore,3,13467144
+Don Valley West,15,13458292
+Humber River-Black Creek,7,13446751
+Scarborough-Agincourt,22,13442771
+Scarborough-Rouge Park,25,13444029
+Etobicoke North,1,13453549
+Etobicoke-Lakeshore,3,13469971
+York South-Weston,5,13459489
+Etobicoke North,1,13454501
+Willowdale,18,13449194
+Scarborough Southwest,20,13459018
+York Centre,6,13449714
+Parkdale-High Park,4,13465522
+Scarborough-Rouge Park,25,13444049
+York Centre,6,13452740
+Scarborough-Rouge Park,25,13446120
+Toronto Centre,13,13464821
+Scarborough-Rouge Park,25,13442402
+Scarborough-Rouge Park,25,13446990
+Scarborough-Guildwood,24,13446221
+Etobicoke-Lakeshore,3,13470461
+Etobicoke Centre,2,13468202
+Willowdale,18,13444673
+Don Valley North,17,13444673
+Don Valley West,15,13453421
+Don Valley East,16,13453421
+Etobicoke Centre,2,13461199
+Toronto-Danforth,14,13460132
+Scarborough North,23,14630472
+Scarborough North,23,13442251
+Don Valley East,16,13453728
+Spadina-Fort York,10,13466708
+Scarborough Southwest,20,13451957
+Scarborough Centre,21,13451957
+Scarborough-Agincourt,22,30017743
+Scarborough-Rouge Park,25,14660468
+Scarborough-Agincourt,22,30113634
+Toronto-St. Paul's,12,13458353
+Etobicoke North,1,13452472
+Etobicoke-Lakeshore,3,13469206
+Scarborough-Rouge Park,25,13445495
+Don Valley West,15,13457319
+Toronto-Danforth,14,13465837
+Don Valley East,16,13448523
+Toronto Centre,13,13466962
+Spadina-Fort York,10,13466962
+Scarborough-Rouge Park,25,13443118
+Scarborough Centre,21,13448955
+Parkdale-High Park,4,13468370
+Toronto-Danforth,14,13467444
+York South-Weston,5,13456985
+Scarborough-Rouge Park,25,13444456
+York South-Weston,5,13458075
+University-Rosedale,11,13465527
+Scarborough Centre,21,13450708
+Scarborough Southwest,20,13452383
+Scarborough Centre,21,13452383
+York South-Weston,5,13459739
+York South-Weston,5,13461075
+York Centre,6,13446781
+Don Valley North,17,13444159
+Scarborough North,23,13444330
+Don Valley North,17,13445404
+Etobicoke North,1,13462841
+York South-Weston,5,13464273
+Scarborough North,23,13441706
+Etobicoke-Lakeshore,3,13469498
+Etobicoke Centre,2,13469498
+Etobicoke North,1,13450694
+Etobicoke-Lakeshore,3,13468641
+Eglinton-Lawrence,8,13457969
+Etobicoke-Lakeshore,3,13470207
+Toronto-Danforth,14,13463082
+Scarborough-Rouge Park,25,13442715
+Scarborough North,23,13442715
+Beaches-East York,19,13457407
+Eglinton-Lawrence,8,13454543
+York Centre,6,13449898
+Eglinton-Lawrence,8,13455277
+Davenport,9,13467944
+Humber River-Black Creek,7,13449766
+Don Valley East,16,13452491
+Don Valley West,15,13448784
+Scarborough Southwest,20,13456074
+Don Valley West,15,13456636
+Don Valley North,17,13446900
+Don Valley East,16,13454174
+Etobicoke North,1,13452584
+Beaches-East York,19,13455561
+Scarborough North,23,13444062
+Scarborough Centre,21,13446954
+York Centre,6,13449875
+Scarborough-Rouge Park,25,13444382
+Humber River-Black Creek,7,13450552
+Scarborough-Guildwood,24,13448052
+Humber River-Black Creek,7,13448352
+Scarborough Centre,21,13446635
+Don Valley East,16,13452922
+York Centre,6,13447078
+Don Valley North,17,30013028
+Don Valley West,15,13455887
+Scarborough-Agincourt,22,13444732
+Etobicoke North,1,13458383
+Scarborough Centre,21,20146478
+Etobicoke-Lakeshore,3,13468252
+Etobicoke Centre,2,13468252
+Don Valley East,16,13451876
+Don Valley North,17,13446629
+Spadina-Fort York,10,20056886
+Etobicoke-Lakeshore,3,13468541
+Etobicoke Centre,2,13468541
+Toronto Centre,13,13466454
+Spadina-Fort York,10,13466454
+University-Rosedale,11,13462209
+Don Valley East,16,13452620
+Don Valley West,15,13450973
+Toronto-Danforth,14,13464662
+Scarborough North,23,13441971
+Don Valley West,15,13456221
+Eglinton-Lawrence,8,13455564
+Toronto Centre,13,13466245
+Scarborough-Agincourt,22,13443961
+Etobicoke North,1,13450366
+Etobicoke North,1,13453287
+Scarborough-Rouge Park,25,13444804
+Spadina-Fort York,10,13467390
+Don Valley West,15,13457550
+Parkdale-High Park,4,13466677
+Etobicoke North,1,13455913
+Scarborough Centre,21,13447955
+York South-Weston,5,13461460
+Don Valley East,16,13447959
+Don Valley East,16,13455059
+Etobicoke Centre,2,13467416
+Beaches-East York,19,13454774
+Scarborough Southwest,20,13454774
+Don Valley East,16,13454774
+Spadina-Fort York,10,13469026
+Beaches-East York,19,13461635
+Don Valley North,17,14675360
+York Centre,6,13448130
+Toronto-Danforth,14,13458692
+Beaches-East York,19,13457403
+University-Rosedale,11,20145559
+Beaches-East York,19,13455906
+Scarborough North,23,13442201
+Etobicoke North,1,13459898
+Etobicoke Centre,2,13459898
+Scarborough-Rouge Park,25,13446227
+Scarborough Centre,21,13450935
+University-Rosedale,11,13459122
+Don Valley West,15,13459122
+Davenport,9,13463441
+York South-Weston,5,13459847
+Parkdale-High Park,4,13468000
+Beaches-East York,19,13457010
+University-Rosedale,11,13462647
+Willowdale,18,13448844
+Scarborough Southwest,20,13460121
+Etobicoke-Lakeshore,3,13469460
+Scarborough-Rouge Park,25,14252616
+Etobicoke North,1,13457696
+Humber River-Black Creek,7,13448082
+Spadina-Fort York,10,20054558
+Scarborough-Rouge Park,25,13442393
+Scarborough-Rouge Park,25,13442749
+Toronto Centre,13,13466914
+Scarborough Southwest,20,13455957
+York Centre,6,13454469
+Toronto-St. Paul's,12,13458132
+Etobicoke North,1,13453485
+Scarborough Southwest,20,13457981
+Parkdale-High Park,4,13464997
+Scarborough Southwest,20,13459334
+Spadina-Fort York,10,13468377
+Etobicoke-Lakeshore,3,13469285
+University-Rosedale,11,13459992
+Parkdale-High Park,4,13464952
+Toronto-St. Paul's,12,13458729
+Scarborough-Rouge Park,25,13442142
+Etobicoke-Lakeshore,3,13467261
+Toronto-Danforth,14,13464539
+Willowdale,18,13445902
+Etobicoke North,1,13455330
+Don Valley East,16,13453804
+York South-Weston,5,13459761
+Parkdale-High Park,4,13464450
+Parkdale-High Park,4,13465415
+Scarborough-Agincourt,22,13445805
+Etobicoke North,1,13462652
+Scarborough North,23,13444473
+Etobicoke Centre,2,13464763
+Toronto-Danforth,14,13465538
+Etobicoke Centre,2,13462936
+Etobicoke Centre,2,13465912
+Scarborough-Agincourt,22,13445612
+Etobicoke-Lakeshore,3,13469231
+Parkdale-High Park,4,13468434
+Scarborough-Rouge Park,25,13446875
+Etobicoke-Lakeshore,3,13469814
+Scarborough North,23,13443148
+Scarborough-Agincourt,22,13443148
+Scarborough-Rouge Park,25,14659268
+Scarborough Centre,21,13451311
+Don Valley East,16,13454454
+Etobicoke Centre,2,13469133
+Scarborough-Rouge Park,25,13446543
+Don Valley East,16,13448433
+Don Valley West,15,13452803
+Toronto-Danforth,14,13458477
+Don Valley East,16,13448216
+Scarborough-Guildwood,24,13446062
+Etobicoke North,1,13453700
+Beaches-East York,19,13459151
+Etobicoke North,1,13450585
+Davenport,9,13463595
+Etobicoke Centre,2,13467024
+Scarborough-Rouge Park,25,13442522
+Scarborough North,23,13442522
+York Centre,6,13454567
+York South-Weston,5,13458916
+University-Rosedale,11,13465422
+Scarborough Southwest,20,13457423
+Toronto Centre,13,13466404
+Etobicoke North,1,13451802
+Don Valley North,17,13444434
+University-Rosedale,11,13463197
+Scarborough-Rouge Park,25,14256135
+Scarborough North,23,14256135
+Scarborough Southwest,20,30029327
+Etobicoke North,1,13456671
+Humber River-Black Creek,7,13448820
+Etobicoke-Lakeshore,3,13469838
+Eglinton-Lawrence,8,13459208
+Davenport,9,13459208
+Parkdale-High Park,4,13465420
+York Centre,6,13449561
+Beaches-East York,19,13457286
+Don Valley West,15,13452357
+Etobicoke-Lakeshore,3,13468987
+Etobicoke-Lakeshore,3,13468682
+Toronto-St. Paul's,12,13460219
+Scarborough-Rouge Park,25,13442883
+Etobicoke North,1,14069326
+Scarborough Centre,21,13453611
+Don Valley East,16,13453445
+York South-Weston,5,13463769
+Etobicoke North,1,13452696
+Humber River-Black Creek,7,13446589
+York Centre,6,13447210
+Toronto-St. Paul's,12,13462402
+Etobicoke-Lakeshore,3,13469751
+Etobicoke-Lakeshore,3,13470664
+York South-Weston,5,13458342
+York Centre,6,13449754
+Beaches-East York,19,13456933
+Etobicoke-Lakeshore,3,13470138
+Humber River-Black Creek,7,13448515
+Parkdale-High Park,4,13465149
+Beaches-East York,19,20235330
+Etobicoke Centre,2,13467043
+Etobicoke-Lakeshore,3,13467982
+Etobicoke-Lakeshore,3,13470386
+York South-Weston,5,13457431
+Scarborough-Agincourt,22,13444079
+Scarborough North,23,13441659
+Etobicoke Centre,2,13458934
+Etobicoke North,1,13449960
+Don Valley West,15,13448958
+Parkdale-High Park,4,13468553
+Scarborough-Rouge Park,25,13444671
+Humber River-Black Creek,7,13452880
+York South-Weston,5,13458224
+Spadina-Fort York,10,13467752
+Don Valley North,17,13445139
+Don Valley West,15,13452890
+Parkdale-High Park,4,13468556
+Scarborough-Rouge Park,25,13443940
+Etobicoke Centre,2,13469403
+Eglinton-Lawrence,8,13459369
+Davenport,9,13459369
+Spadina-Fort York,10,14254033
+Etobicoke-Lakeshore,3,13469816
+Etobicoke North,1,13454905
+Don Valley East,16,13448483
+Scarborough-Rouge Park,25,20080182
+Davenport,9,14043045
+Toronto-Danforth,14,13458761
+Scarborough-Guildwood,24,13444143
+Scarborough-Rouge Park,25,13443950
+Parkdale-High Park,4,13468375
+Scarborough North,23,13441896
+Spadina-Fort York,10,20145410
+Etobicoke-Lakeshore,3,13990825
+Don Valley East,16,13448131
+Don Valley West,15,13448456
+Scarborough North,23,13442084
+Toronto-St. Paul's,12,13457225
+Eglinton-Lawrence,8,13457225
+Etobicoke-Lakeshore,3,13469872
+York Centre,6,13447212
+Toronto-St. Paul's,12,13459224
+Etobicoke North,1,14187627
+Scarborough-Rouge Park,25,13442068
+Humber River-Black Creek,7,13447246
+Willowdale,18,13448953
+Toronto-St. Paul's,12,13460255
+Don Valley East,16,13452045
+Scarborough-Guildwood,24,13449983
+Humber River-Black Creek,7,13455908
+Parkdale-High Park,4,13468437
+Humber River-Black Creek,7,13448110
+Don Valley North,17,13443528
+Scarborough-Rouge Park,25,13499223
+Humber River-Black Creek,7,13452251
+Scarborough-Rouge Park,25,13443640
+Etobicoke Centre,2,13466070
+Scarborough-Guildwood,24,13449023
+Scarborough Centre,21,13449023
+Scarborough Centre,21,13446898
+Don Valley West,15,30112870
+Don Valley East,16,30112870
+Etobicoke Centre,2,13464700
+Beaches-East York,19,13458740
+Scarborough-Rouge Park,25,20232429
+Spadina-Fort York,10,20147074
+Don Valley East,16,13449079
+Etobicoke Centre,2,13468296
+Etobicoke-Lakeshore,3,13467586
+Scarborough-Guildwood,24,13450880
+Etobicoke North,1,13459321
+Scarborough-Rouge Park,25,13441836
+Humber River-Black Creek,7,13446937
+York Centre,6,13452897
+Scarborough-Rouge Park,25,13446727
+Etobicoke Centre,2,13467307
+Etobicoke-Lakeshore,3,20112511
+Scarborough-Rouge Park,25,13443378
+Don Valley North,17,13447122
+Don Valley East,16,13453914
+Etobicoke North,1,13456027
+Toronto-Danforth,14,13459143
+Etobicoke-Lakeshore,3,13469891
+Don Valley North,17,13447230
+Beaches-East York,19,13462570
+Scarborough Centre,21,13449905
+University-Rosedale,11,13461118
+Etobicoke-Lakeshore,3,13466023
+Toronto-Danforth,14,13464709
+Humber River-Black Creek,7,13450919
+Humber River-Black Creek,7,13453989
+Davenport,9,13463267
+Eglinton-Lawrence,8,13459608
+Davenport,9,13459608
+York Centre,6,13449081
+Parkdale-High Park,4,13467691
+Toronto-St. Paul's,12,13462439
+Etobicoke North,1,13461072
+Don Valley North,17,13443144
+Toronto-St. Paul's,12,13460123
+Scarborough-Rouge Park,25,13443303
+Scarborough Southwest,20,13456152
+Don Valley North,17,13447245
+Parkdale-High Park,4,13468626
+Don Valley North,17,13445072
+Scarborough Southwest,20,13458074
+York South-Weston,5,13456436
+Scarborough-Guildwood,24,13503908
+Beaches-East York,19,13457278
+Etobicoke North,1,13462270
+Etobicoke Centre,2,13467622
+Scarborough-Guildwood,24,13445576
+Spadina-Fort York,10,13468663
+Etobicoke North,1,13453815
+Etobicoke-Lakeshore,3,13470045
+Etobicoke-Lakeshore,3,13469351
+York South-Weston,5,13457136
+Don Valley West,15,30034152
+Don Valley North,17,13442696
+Scarborough North,23,13441665
+University-Rosedale,11,13461382
+York Centre,6,13451442
+Scarborough Southwest,20,13459860
+Don Valley East,16,13453016
+Etobicoke-Lakeshore,3,13469317
+Eglinton-Lawrence,8,13455131
+York Centre,6,13446219
+Scarborough-Rouge Park,25,13444592
+York South-Weston,5,13461719
+Scarborough-Agincourt,22,13446293
+Etobicoke-Lakeshore,3,13469888
+Spadina-Fort York,10,13467106
+Parkdale-High Park,4,13468276
+York South-Weston,5,13456850
+Scarborough-Rouge Park,25,14252748
+Parkdale-High Park,4,13468506
+Don Valley North,17,13446518
+Etobicoke North,1,13453246
+Etobicoke-Lakeshore,3,13469828
+Parkdale-High Park,4,13468360
+Scarborough-Rouge Park,25,13441897
+Etobicoke-Lakeshore,3,13470690
+Scarborough-Rouge Park,25,13443828
+York South-Weston,5,13459001
+Don Valley North,17,13442637
+Willowdale,18,13444841
+Etobicoke North,1,13460180
+Spadina-Fort York,10,13466802
+Scarborough-Guildwood,24,13451162
+Scarborough Centre,21,13451162
+Toronto-St. Paul's,12,13457135
+Eglinton-Lawrence,8,13457135
+Etobicoke-Lakeshore,3,13990837
+Scarborough-Guildwood,24,13447425
+Toronto-St. Paul's,12,13458217
+Spadina-Fort York,10,14134889
+Don Valley East,16,13448553
+Scarborough Southwest,20,13459025
+York South-Weston,5,13460830
+Spadina-Fort York,10,100
+Scarborough-Guildwood,24,13445842
+University-Rosedale,11,13460349
+Scarborough Southwest,20,13459088
+Scarborough Southwest,20,13456297
+Scarborough-Rouge Park,25,13441958
+Scarborough Southwest,20,13458312

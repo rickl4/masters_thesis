@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "new_stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32617" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "PIONEER VILLAGE STATION - SOUTHBOUND PLATFORM", "latitude": 43.77675, "longitude": -79.509372 }, "geometry": { "type": "Point", "coordinates": [ 619957.584610552061349, 4848157.15057173743844 ] } },
+{ "type": "Feature", "properties": { "name": "YORK UNIVERSITY - SOUTHBOUND PLATFORM", "latitude": 43.774097, "longitude": -79.499888 }, "geometry": { "type": "Point", "coordinates": [ 620726.151214116020128, 4847876.279368635267019 ] } },
+{ "type": "Feature", "properties": { "name": "FINCH WEST STATION - SOUTHBOUND PLATFORM", "latitude": 43.764855, "longitude": -79.491118 }, "geometry": { "type": "Point", "coordinates": [ 621450.655170753831044, 4846862.641027180477977 ] } },
+{ "type": "Feature", "properties": { "name": "DOWNSVIEW PARK STATION - SOUTHBOUND PLATFORM", "latitude": 43.753311, "longitude": -79.478693 }, "geometry": { "type": "Point", "coordinates": [ 622474.310617090435699, 4845598.805429842323065 ] } },
+{ "type": "Feature", "properties": { "name": "HIGHWAY 407 STATION - SOUTHBOUND PLATFORM", "latitude": 43.783359, "longitude": -79.523454 }, "geometry": { "type": "Point", "coordinates": [ 618811.240137963322923, 4848870.87393166217953 ] } },
+{ "type": "Feature", "properties": { "name": "VAUGHAN METROPOLITAN CENTRE STATION - SOUTHBOUND PLATFORM", "latitude": 43.794021, "longitude": -79.527906 }, "geometry": { "type": "Point", "coordinates": [ 618431.94481560064014, 4850048.672301101498306 ] } }
+]
+}

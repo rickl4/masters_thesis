@@ -1,0 +1,141 @@
+type,edge_type,count,total,group,period,prop
+bl_am,Bus Route,127,482,bl,am,26.349
+bl_am,Frequent Bus Route,209,482,bl,am,43.361
+bl_am,Inner Subway Station,87,482,bl,am,18.05
+bl_am,Outer Subway Station,42,482,bl,am,8.714
+bl_am,Streetcar Route,17,482,bl,am,3.527
+bl_ev,Bus Route,99,388,bl,ev,25.515
+bl_ev,Frequent Bus Route,136,388,bl,ev,35.052
+bl_ev,Inner Subway Station,88,388,bl,ev,22.68
+bl_ev,Outer Subway Station,35,388,bl,ev,9.021
+bl_ev,Streetcar Route,30,388,bl,ev,7.732
+bl_md,Bus Route,159,425,bl,md,37.412
+bl_md,Frequent Bus Route,106,425,bl,md,24.941
+bl_md,Inner Subway Station,88,425,bl,md,20.706
+bl_md,Outer Subway Station,42,425,bl,md,9.882
+bl_md,Streetcar Route,30,425,bl,md,7.059
+bl_pm,Bus Route,153,485,bl,pm,31.546
+bl_pm,Frequent Bus Route,163,485,bl,pm,33.608
+bl_pm,Inner Subway Station,88,485,bl,pm,18.144
+bl_pm,Outer Subway Station,46,485,bl,pm,9.485
+bl_pm,Streetcar Route,35,485,bl,pm,7.216
+c0_am,Bus Route,90,431,c0,am,20.882
+c0_am,Frequent Bus Route,136,431,c0,am,31.555
+c0_am,Inner Subway Station,88,431,c0,am,20.418
+c0_am,Outer Subway Station,50,431,c0,am,11.601
+c0_am,Streetcar Route,67,431,c0,am,15.545
+c0_ev,Bus Route,22,314,c0,ev,7.006
+c0_ev,Frequent Bus Route,94,314,c0,ev,29.936
+c0_ev,Inner Subway Station,88,314,c0,ev,28.025
+c0_ev,Outer Subway Station,38,314,c0,ev,12.102
+c0_ev,Streetcar Route,72,314,c0,ev,22.93
+c0_md,Bus Route,92,367,c0,md,25.068
+c0_md,Frequent Bus Route,51,367,c0,md,13.896
+c0_md,Inner Subway Station,88,367,c0,md,23.978
+c0_md,Outer Subway Station,43,367,c0,md,11.717
+c0_md,Streetcar Route,93,367,c0,md,25.341
+c0_pm,Bus Route,74,440,c0,pm,16.818
+c0_pm,Frequent Bus Route,127,440,c0,pm,28.864
+c0_pm,Inner Subway Station,88,440,c0,pm,20.0
+c0_pm,Outer Subway Station,50,440,c0,pm,11.364
+c0_pm,Streetcar Route,101,440,c0,pm,22.955
+imm_am,Bus Route,106,482,imm,am,21.992
+imm_am,Frequent Bus Route,189,482,imm,am,39.212
+imm_am,Inner Subway Station,88,482,imm,am,18.257
+imm_am,Outer Subway Station,47,482,imm,am,9.751
+imm_am,Streetcar Route,52,482,imm,am,10.788
+imm_ev,Bus Route,91,390,imm,ev,23.333
+imm_ev,Frequent Bus Route,123,390,imm,ev,31.538
+imm_ev,Inner Subway Station,88,390,imm,ev,22.564
+imm_ev,Outer Subway Station,48,390,imm,ev,12.308
+imm_ev,Streetcar Route,40,390,imm,ev,10.256
+imm_md,Bus Route,163,425,imm,md,38.353
+imm_md,Frequent Bus Route,89,425,imm,md,20.941
+imm_md,Inner Subway Station,88,425,imm,md,20.706
+imm_md,Outer Subway Station,48,425,imm,md,11.294
+imm_md,Streetcar Route,37,425,imm,md,8.706
+imm_pm,Bus Route,159,485,imm,pm,32.784
+imm_pm,Frequent Bus Route,143,485,imm,pm,29.485
+imm_pm,Inner Subway Station,88,485,imm,pm,18.144
+imm_pm,Outer Subway Station,51,485,imm,pm,10.515
+imm_pm,Streetcar Route,44,485,imm,pm,9.072
+lep_am,Bus Route,139,482,lep,am,28.838
+lep_am,Frequent Bus Route,179,482,lep,am,37.137
+lep_am,Inner Subway Station,85,482,lep,am,17.635
+lep_am,Outer Subway Station,43,482,lep,am,8.921
+lep_am,Streetcar Route,36,482,lep,am,7.469
+lep_ev,Bus Route,85,388,lep,ev,21.907
+lep_ev,Frequent Bus Route,132,388,lep,ev,34.021
+lep_ev,Inner Subway Station,86,388,lep,ev,22.165
+lep_ev,Outer Subway Station,40,388,lep,ev,10.309
+lep_ev,Streetcar Route,45,388,lep,ev,11.598
+lep_md,Bus Route,149,425,lep,md,35.059
+lep_md,Frequent Bus Route,62,425,lep,md,14.588
+lep_md,Inner Subway Station,88,425,lep,md,20.706
+lep_md,Outer Subway Station,50,425,lep,md,11.765
+lep_md,Streetcar Route,76,425,lep,md,17.882
+lep_pm,Bus Route,144,485,lep,pm,29.691
+lep_pm,Frequent Bus Route,107,485,lep,pm,22.062
+lep_pm,Inner Subway Station,88,485,lep,pm,18.144
+lep_pm,Outer Subway Station,48,485,lep,pm,9.897
+lep_pm,Streetcar Route,98,485,lep,pm,20.206
+lico_am,Bus Route,127,442,lico,am,28.733
+lico_am,Frequent Bus Route,178,442,lico,am,40.271
+lico_am,Inner Subway Station,85,442,lico,am,19.231
+lico_am,Outer Subway Station,42,442,lico,am,9.502
+lico_am,Streetcar Route,10,442,lico,am,2.262
+lico_ev,Bus Route,72,307,lico,ev,23.453
+lico_ev,Frequent Bus Route,103,307,lico,ev,33.55
+lico_ev,Inner Subway Station,73,307,lico,ev,23.779
+lico_ev,Outer Subway Station,35,307,lico,ev,11.401
+lico_ev,Streetcar Route,24,307,lico,ev,7.818
+lico_md,Bus Route,126,365,lico,md,34.521
+lico_md,Frequent Bus Route,68,365,lico,md,18.63
+lico_md,Inner Subway Station,87,365,lico,md,23.836
+lico_md,Outer Subway Station,49,365,lico,md,13.425
+lico_md,Streetcar Route,35,365,lico,md,9.589
+lico_pm,Bus Route,127,434,lico,pm,29.263
+lico_pm,Frequent Bus Route,130,434,lico,pm,29.954
+lico_pm,Inner Subway Station,87,434,lico,pm,20.046
+lico_pm,Outer Subway Station,46,434,lico,pm,10.599
+lico_pm,Streetcar Route,44,434,lico,pm,10.138
+rac_am,Bus Route,151,482,rac,am,31.328
+rac_am,Frequent Bus Route,169,482,rac,am,35.062
+rac_am,Inner Subway Station,88,482,rac,am,18.257
+rac_am,Outer Subway Station,44,482,rac,am,9.129
+rac_am,Streetcar Route,30,482,rac,am,6.224
+rac_ev,Bus Route,88,388,rac,ev,22.68
+rac_ev,Frequent Bus Route,132,388,rac,ev,34.021
+rac_ev,Inner Subway Station,88,388,rac,ev,22.68
+rac_ev,Outer Subway Station,44,388,rac,ev,11.34
+rac_ev,Streetcar Route,36,388,rac,ev,9.278
+rac_md,Bus Route,153,425,rac,md,36.0
+rac_md,Frequent Bus Route,87,425,rac,md,20.471
+rac_md,Inner Subway Station,88,425,rac,md,20.706
+rac_md,Outer Subway Station,50,425,rac,md,11.765
+rac_md,Streetcar Route,47,425,rac,md,11.059
+rac_pm,Bus Route,152,485,rac,pm,31.34
+rac_pm,Frequent Bus Route,148,485,rac,pm,30.515
+rac_pm,Inner Subway Station,88,485,rac,pm,18.144
+rac_pm,Outer Subway Station,51,485,rac,pm,10.515
+rac_pm,Streetcar Route,46,485,rac,pm,9.485
+raw_am,Bus Route,124,482,raw,am,25.726
+raw_am,Frequent Bus Route,160,482,raw,am,33.195
+raw_am,Inner Subway Station,88,482,raw,am,18.257
+raw_am,Outer Subway Station,44,482,raw,am,9.129
+raw_am,Streetcar Route,66,482,raw,am,13.693
+raw_ev,Bus Route,67,388,raw,ev,17.268
+raw_ev,Frequent Bus Route,108,388,raw,ev,27.835
+raw_ev,Inner Subway Station,88,388,raw,ev,22.68
+raw_ev,Outer Subway Station,42,388,raw,ev,10.825
+raw_ev,Streetcar Route,83,388,raw,ev,21.392
+raw_md,Bus Route,126,426,raw,md,29.577
+raw_md,Frequent Bus Route,52,426,raw,md,12.207
+raw_md,Inner Subway Station,88,426,raw,md,20.657
+raw_md,Outer Subway Station,50,426,raw,md,11.737
+raw_md,Streetcar Route,110,426,raw,md,25.822
+raw_pm,Bus Route,118,485,raw,pm,24.33
+raw_pm,Frequent Bus Route,124,485,raw,pm,25.567
+raw_pm,Inner Subway Station,88,485,raw,pm,18.144
+raw_pm,Outer Subway Station,51,485,raw,pm,10.515
+raw_pm,Streetcar Route,104,485,raw,pm,21.443

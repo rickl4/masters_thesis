@@ -1,0 +1,3533 @@
+INT_ID,string
+13469891,Index Rd / North Queen St
+13467838,Mill Rd / Rathburn Rd / Centennial Park Blvd
+13469001,Bloor St W / Koos Rd
+13468412,Burnhamthorpe Rd / Old Burnhamthorpe Rd
+13467579,Rathburn Rd / Elmcrest Rd
+13468898,Bloor St W / The West Mall
+13469458,Dundas St W / The West Mall / 427 C S Dundas Ramp
+13469872,Eastside Dr / North Queen St
+13469836,The East Mall / North Queen St
+13469789,Medulla Ave / North Queen St
+13469402,Dundas St W / Cloverdale Mall / 427 C N Dundas Ramp
+13470516,Brown'S Line / Woodbury Rd
+13470438,Brown'S Line / Horner Ave
+13469206,Yarn Rd / The East Mall
+20110447,The West Mall / Leavenworth Cres
+13470365,Brown'S Line / Rimilton Ave / Finsbury Cres
+13470305,Brown'S Line / Valermo Dr
+13470207,Sherway Gardens Rd / The West Mall / Sherway Dr
+13990825,Evans Ave / Sherway Gt
+13990837,Sherway Gardens Rd / Sherway Gt
+13469029,The East Mall / Gordon Park Dr
+13468751,Bloor St W / The East Mall
+13469351,Dundas St W / The East Mall / 427 C N Dundas E Ramp / Dundas 427 C N Ramp
+13469317,Dundas St W / East Mall Cres
+13469285,Dundas St W / Paulart Dr
+13469211,Dundas St W / Shorncliffe Rd / Shaver Ave S
+13470690,Brown'S Line / Lake Shore Blvd W
+13469943,Manstor Rd / North Queen St
+13470082,The Queensway / North Queen St
+13470013,Nova Rd / North Queen St
+13470192,Evans Ave / Gair Dr
+13470217,Brown'S Line / Evans Browns Li Ramp
+13470179,Evans Ave / Evans Browns Li Ramp / 427 C S Evans Ramp
+13468614,Bloor St W / Laurel Ave
+13469764,Atomic Ave / North Queen St
+13469743,Shorncliffe Rd / North Queen St
+13469915,The Queensway / Algie Ave
+13469555,Shorncliffe Rd / Newbridge Rd
+13469464,Shorncliffe Rd / Lockport Ave
+13469888,The Queensway / Wickman Rd / Vansco Rd
+13470664,Brown'S Line / Lake Shore Blvd W
+13469823,The Queensway / Plywood Pl
+13469800,Kipling Ave / The Queensway
+13469717,Kipling Ave / Warnica Ave
+13469594,Kipling Ave / North Queen St
+13470590,Brown'S Line / Jellicoe Ave
+13470159,Evans Ave / Sheldon Ave
+13470147,Evans Ave / The East Mall
+13469526,Kipling Ave / Jutland Rd
+13468974,Dundas St W / Wilmar Rd
+13468811,Dundas St W / Poplar Ave / Subway Cres
+13468683,Dundas St W / Acorn Ave
+13470639,Lake Shore Blvd W / Long Branch Ave
+13470610,Lake Shore Blvd W / Thirtieth St
+13470554,Elder Ave / Thirtieth St
+13470599,Lake Shore Blvd W / Twenty Eighth St
+13468572,Dundas St W / Aukland Rd
+13469239,Kipling Ave / Norseman St
+13469120,Kipling Ave / Advance Rd
+13468987,Kipling Ave / Six Point Rd
+13468871,Kipling Ave / Olivewood Rd
+13468822,Kipling Ave / Munster Kipling S Ramp
+13470138,The Queensway / The West Mall
+13469403,Bloor St W / Markland Dr
+13469170,Markland Dr / Cherry Post Cres / Maple Gate Crt
+13469015,Fourthgreen Pl / Markland Dr / Silverthorne Bush Dr
+13468845,Mill Rd / Markland Dr
+13469998,The Queensway / The East Mall
+13470418,Sheldon Ave / Horner Ave
+13470396,Alderbrae Ave / Horner Ave
+13470377,Horner Ave / Beta St
+13469498,Dundas St W / Neilson Dr / West Mall Cres
+13470366,Horner Ave / Delta St
+13470480,Akron Rd / Thirtieth St
+13470410,Alhena Ave / Thirtieth St
+13461072,Dixon Rd / 427 N Dixon Ramp
+13459796,Carlingview Dr / Worcester Rd
+13469240,Bloor St W / Mill Rd
+13469193,Bloor St W / Mapledawn Rd / Forest View Rd
+13469133,Bloor St W / Markland Dr
+13469097,Mill Rd / Toledo Rd
+13470350,Horner Ave / Thirtieth St
+13470329,Horner Ave / Edilou Dr
+13470312,Belvia Rd / Horner Ave
+13470303,Horner Ave / Fima Cres
+13470128,Evans Ave / Gamma St
+13470116,Evans Ave / North Carson St
+13470100,Evans Ave / Treeview Dr
+13469954,The Queensway / Atomic Ave
+13458080,Attwell Dr / Carlingview Dr
+13458633,Carlingview Dr / Disco Rd
+13455506,Rexdale Blvd / Queen'S Plate Dr / Woodbine Track Access
+13470077,Evans Ave / Bellman Ave
+13470045,Evans Ave / Wickman Rd
+13464598,Renforth Dr / Eglinton Ave W
+13464781,Renforth Dr / Gentian Dr
+13466259,Islington Ave / Fairway Rd
+13465956,Islington Ave / Finchley Rd / Orrell Ave
+13467170,Rathburn Rd / Melbert Rd
+13467024,Centennial Park Rd / Rathburn Rd
+13464710,Wellesworth Dr / Gentian Dr
+13463579,Renforth Dr / Convair Dr
+13463462,Martin Grove Rd / Winterton Dr / Nottinghill Gt
+13462841,Willowridge Rd / Earldown Dr
+13462944,Willowridge Rd / Richgrove Dr
+13462365,Longbourne Dr / Redgrave Dr
+13462745,Martin Grove Rd / Richgrove Dr
+13463137,Martin Grove Rd / Eglinton Ave W
+13464505,Martin Grove Rd / Princess Margaret Blvd
+13464491,Princess Margaret Blvd / Dornoch Dr
+13464013,Martin Grove Rd / Dewitt Rd
+13462783,Renforth Dr / Carlingview Dr / International Blvd
+13462312,Martin Grove Rd / Sedgeley Dr / Caverley Dr
+13468280,Valhalla Inn Rd / The East Mall
+13464874,Lloyd Manor Rd / North Heights Rd
+13465214,Lloyd Manor Rd / Beaverbrook Ave
+13465087,Kipling Ave / Beaverbrook Ave
+13464632,Lloyd Manor Rd / Firwood Cres
+13467689,Burnhamthorpe Rd / The East Mall / Burnhamthorpe 427 C N Ramp
+13464280,Lloyd Manor Rd / Princess Margaret Blvd
+13464705,Kipling Ave / North Heights Rd
+13464249,Kipling Ave / Prince George Dr
+13468296,Burnhamthorpe Rd / Silver Shadow Path
+13467359,Keane Ave / The East Mall
+13467622,Burnhamthorpe Rd / Meadowbank Rd
+13468541,Bloor St W / Shaver Ave N / Shaver Ave S
+13462244,Royal York Rd / Allanhurst Dr
+13468183,Burnhamthorpe Rd / Old Burnhamthorpe Rd / Saturn Rd
+13462652,International Blvd / Voyager Crt N / Voyager Crt S
+13465286,Sanctbury Pl / Eringate Dr
+13468457,Bloor St W / Wilmar Rd
+13467416,Burnhamthorpe Rd / Shaver Ave N
+13467307,Burnhamthorpe Rd / Martin Grove Rd
+13462936,Eglinton Ave W / Lloyd Manor Rd / Widdicombe Hill Blvd
+13463235,Kipling Ave / Longfield Rd / The Kingsway
+13463854,Kipling Ave / Princess Margaret Blvd
+13468073,Burnhamthorpe Rd / Renforth Dr
+13465218,Sigmont Rd / Eringate Dr
+13465185,Rangoon Rd / Eringate Dr
+13464929,Rangoon Rd / Hagersville Crt
+13466209,Rathburn Rd / Cottrelle Gt
+13466070,Rathburn Rd / West Deane Park Dr
+13465562,Islington Ave / Bywood Dr
+13465305,Islington Ave / Great Oak Dr
+13465143,Rathburn Rd / Birchcroft Rd
+13465055,Islington Ave / Rathburn Rd
+13464419,Islington Ave / Aylesbury Rd
+13464763,Islington Ave / Anglesey Blvd
+13464097,Islington Ave / The Kingsway
+13468202,The West Mall / Civic Centre Crt
+13467965,Burnhamthorpe Rd / Mulgrove Dr
+13467918,Burnhamthorpe Rd / The West Mall / Burnhamthorpe 427 C S Ramp / 427 C S Burnhamthorpe W Ramp
+13464546,Rangoon Rd / Wellesworth Dr
+13465976,Martin Grove Rd / Rathburn Rd
+13462101,Carlingview Dr / Meteor Dr
+13461025,Dixon Rd / Carlingview Dr
+13461753,Meridian Rd / Skyway Ave
+13460801,Dixon Rd / Skyway Ave / Attwell Dr
+13460502,Attwell Dr / Carlson Crt
+13461369,Meridian Rd / Skyway Ave
+13460160,Carlingview Dr / Fasken Dr
+13459321,Marmac Dr / Attwell Dr
+13458987,Belfield Rd / Attwell Dr
+13464425,West Deane Valley Rd / The East Mall
+13465650,The East Mall / West Deane Park Dr
+13465103,Talgarth Rd / The East Mall
+13467238,Burnhamthorpe Rd / Appleby Rd
+13465734,Rathburn Rd / Edenwood Dr
+13463020,Kipling Ave / Byland Rd
+13462655,Kipling Ave / Eglinton Ave W
+13462349,Kipling Ave / Widdicombe Hill Blvd / Widdicombe Hill
+13466944,Rathburn Rd / Renforth Dr
+13465631,Rathburn Rd / Lloyd Manor Rd
+13468356,Bloor St W / Aukland Rd
+13464700,Hartfield Rd / Anglesey Blvd
+13463434,Islington Ave / Prince George Dr / Ridgevalley Cres
+13462889,Islington Ave / Princess Margaret Blvd / Poplar Heights Dr
+13466841,Forestone Rd / Rathburn Rd
+13466647,Rathburn Rd / The West Mall / Rathburn E 427 C S Ramp
+13466311,Wellesworth Dr / Torrington Dr
+13465781,Wellesworth Dr / Faversham Cres
+13466029,Dixfield Dr / Wellesworth Dr
+13466281,Dixfield Dr / Wellesworth Dr
+13468252,Kipling Ave / Bloor St W / Dundas St W
+13460154,Farnboro Rd / Attwell Dr
+13459809,Attwell Dr / Mclachlan Dr
+13458741,Belfield Rd / Belfield E 27 S Ramp / 27 S Belfield W Ramp / Brockport Dr
+13458634,Belfield Rd / 27 N Belfield E Ramp / Belfield W 27 N Ramp / City View Dr
+13467244,The West Mall / Holiday Dr
+13467813,Kipling Ave / Tyre Ave
+13467571,Kipling Ave / Mattice Rd / Mattice Ave
+13467982,Dundas St W / Dunbloor Rd
+13462409,Eglinton Ave W / Bemersyde Dr / Wincott Dr
+13465491,Kipling Ave / Rathburn Rd
+13465333,Rathburn Rd / Remington Dr
+13465221,Rathburn Rd / Pheasant Lane / Cedarland Dr
+13466693,Capri Rd / The East Mall
+14204003,Dundas St W / Michael Power Pl / Royalavon Cres / Michael Power Park Trl
+13467586,Dundas St W / Mabelle Ave
+13467261,Burnhamthorpe Rd / Dundas St W / Cordova Ave
+13467434,Rathburn Rd / Ivybridge Dr
+13467043,Burnhamthorpe Rd / Botfield Ave
+13466915,Burnhamthorpe Rd / Kipling Ave
+13467234,Kipling Ave / Goswell Rd
+13466985,Burnhamthorpe Rd / Royalavon Cres
+13466317,Rathburn Rd / The East Mall
+13463605,Eglinton Ave W / The East Mall / 427 C N Eglinton Ramp
+13466027,Kipling Ave / Bywood Dr
+13466366,Kipling Ave / Wingrove Hill
+13467015,Burnhamthorpe Rd / Holloway Rd / Burnhamthorpe Park Blvd
+13467144,Burnhamthorpe Rd / Burnhamthorpe Cres
+13462601,Willowridge Rd / Longbourne Dr
+13466818,Islington Ave / Dundas St W
+13466510,Islington Ave / Riverbank Dr / Chestnut Hills Cres
+13465418,Eringate Dr / Wellesworth Dr
+13458841,Dixon Rd / Havenridge Dr
+13458710,Dixon Rd / Golfwood Hts
+13470112,Magnificent Rd / Judson St
+13469939,Evans Ave / Eastwick Rd
+13470081,Islington Ave / Judson St
+13469914,Islington Ave / Evans Ave
+13470452,Islington Ave / Lake Shore Blvd W / Seventh St
+13459898,Dixon Rd / 401 X E Dixon E Ramp / Dixon W 401 X E Ramp
+13459757,Dixon Rd / Celestine Dr
+13458383,Disco Rd / Attwell Dr
+13455715,Walsh Ave / Weston N Walsh Ramp / Walsh Weston N Ramp
+13470367,Islington Ave / Birmingham St
+13470434,Lake Shore Blvd W / Fifth St
+13470414,Lake Shore Blvd W / Third St
+13470386,Lake Shore Blvd W / Dwight Ave
+13458423,Belfield Rd / Iron St
+13458599,Dixon Rd / Mcmanus Rd
+13460207,Royal York Rd / Trehorne Dr
+13459942,Weston Wood Rd / Royal York Rd
+13459503,Royal York Rd / Yorkleigh Ave
+13455435,Weston Rd / Reuben Ave / Wallasey Ave / Walsh Weston N Ramp
+13470270,Islington Ave / New Toronto St
+13455913,Rexdale Blvd / Queen'S Plate Dr
+13456027,Rexdale Blvd / Precision Rd
+13459156,Royal York Rd / Lawrence Ave W / The Westway
+13458691,Royal York Rd / Royaleigh Ave
+13458547,Royaleigh Ave / Roxaline St
+13459024,Roxaline St / Lawrence Ave W
+13458934,Westona St / Lawrence Ave W
+13455908,Walsh Ave / Wilson Ave
+13470302,Royal York Rd / Dartmouth Cres
+13470241,Royal York Rd / Symons St
+13470353,Lake Shore Blvd W / Royal York Rd
+13456192,Rexdale Blvd / Tidemore Ave
+13456327,Martin Grove Rd / Rexdale Blvd
+13455866,Martin Grove Rd / Racine Rd
+13455524,Martin Grove Rd / Jeffcoat Dr
+13458216,Martin Grove Rd / Belfield Rd
+13458507,Martin Grove Rd / 409 W Martin Grove Ramp / Martin Grove S 409 W Ramp
+13455730,Wilson Ave / Wendell Ave
+13469497,Islington Ave / Athol Ave / Nordin Ave
+13469672,Islington Ave / The Queensway
+13458127,Belfield Rd / Mcculloch Ave
+13457727,Martin Grove Rd / Vulcan St
+13457328,Martin Grove Rd / Bethridge Rd
+13457922,Etobicoke N Go Sta / Belfield Rd
+13458112,Kipling Ave / Kipling N 409 E Ramp / Ronson Dr / Greensboro Dr
+13457759,Kipling Ave / Belfield Rd
+13457060,Kipling Ave / Bethridge Rd
+13458256,Islington Ave / St Andrews Blvd
+13457990,Islington Ave / St Georges Blvd
+13457805,Islington Ave / Lemsford Rd / Westhampton Dr
+13458506,Islington Ave / Kingsview Blvd / Sweet Pea Path
+13457696,Islington Ave / Monogram Pl
+13470586,Lake Shore Blvd W / Twenty Seventh St
+13470566,Lake Shore Blvd W / Twenty Second St
+13470214,Lake Shore Blvd W / Miles Rd
+13456702,Rexdale Blvd / Brydon Dr
+13456668,Rexdale Blvd / Kipling Ave
+13456555,Rexdale Blvd / Frost St
+13455971,Kipling Ave / Racine Rd
+13455516,Kipling Ave / Redcliff Blvd
+13457412,Islington Ave / Resources Rd / Islington N 401 C E Ramp
+13457178,Islington Ave / Resources Rd / Islington S 401 C E Ramp / 401 C E Islington S Ramp
+13456371,Rexdale Blvd / Bergamot Ave
+20112512,Colonel Samuel Smith Park Dr
+20112511,Colonel Samuel Smith Park Dr
+13470536,Kipling Ave / Lake Shore Blvd W / Colonel Samuel Smith Park Dr
+13469774,The Queensway / Culnan Ave
+13469751,The Queensway / Brawley Ave
+13461907,Kipling Ave / Clement Rd / Hunting Ridge
+13461514,Kipling Ave / Gracey Blvd
+13461321,Brampton Rd / The Westway
+13461199,Celestine Dr / The Westway
+13461140,Kipling Ave / The Westway
+13456671,Islington Ave / 401 C W Islington N Ramp
+13456080,Islington Ave
+13455765,Islington Ave / Bergamot Ave
+13455529,Islington Ave / Leduc Dr
+13469883,Ourland Ave / Evans Ave
+13469579,Islington Ave / Inverness Ave
+13469627,The Queensway / Lady Bank Rd / Canmotor Ave
+13460656,Kipling Ave / Holywell Dr
+13460953,Fulford Pl / The Westway
+13460821,Wincott Dr / The Westway
+13470026,Royal York Rd / Cavell Ave
+13469941,Royal York Rd / Newcastle St
+13470172,Royal York Rd / Hillside Ave
+13470120,Royal York Rd / Mimico Ave
+13460679,Epping St / The Westway
+13459962,Kipling Ave / Northcrest Rd / Hayhurst Rd
+13459576,Dixon Rd / Kipling Ave
+13460270,Kipling Ave / Nugent Rd
+13469719,The Queensway / St Lawrence Ave
+13459070,Kipling Ave / Kingsview Blvd
+13458771,Kipling Ave / St Andrews Blvd
+13456916,Weston Rd / Cardell Ave
+13458463,Dixon Rd / St Phillips Rd / Royal York Rd
+13458327,Dixon Rd / Roxaline St
+13457971,St Phillips Rd / Riverview Hts
+13469592,The Queensway / Loma Rd
+13469379,Islington Ave / Jutland Rd
+13469267,Islington Ave / Titan Rd
+13460052,Islington Ave / Fletcher Pl
+13458230,Dixon Rd / Scarlett Rd / Riverview Hts
+13457738,Weston Rd / Coulter Ave
+13470205,Lake Shore Blvd W / Symons St
+13470151,Lake Shore Blvd W / Norris Cres
+13470098,Wheatfield Rd / Mimico Ave
+13459870,Islington Ave / Winnipeg Rd
+13459282,Dixon Rd / Chetta Pl / Wincott Dr
+13459022,Dixon Rd / Islington Ave
+13457985,Weston Rd / Church St / Humber River Recreational Trl
+13462163,Islington Ave / Eglinton Ave W
+13461842,Islington Ave / La Rose Ave
+13461563,Islington Ave / Summitcrest Dr
+13461184,Islington Ave / Deerfoot Rd
+13460559,Islington Ave / The Westway
+13460454,Sun Row Dr / The Westway
+13457446,Weston Rd / St Phillips Rd / Mallaby Park Trl
+13470456,Kipling Ave / Birmingham St
+13470261,Kipling Ave / Horner Ave
+13470354,Kipling Ave / New Toronto St
+13470520,Lake Shore Blvd W / Fifteenth St
+13470505,Lake Shore Blvd W / Thirteenth St
+13470504,Lake Shore Blvd W / Thirteenth St
+13461283,Clarion Rd / Waterbury Dr
+13462270,Longbourne Dr / Westwynd Crt
+13461695,Redgrave Dr / Waterbury Dr
+13461594,Martin Grove Rd / Redgrave Dr / The Westway
+13462021,Martin Grove Rd / Longbourne Dr
+13461478,Callowhill Dr / The Westway
+13460990,Martin Grove Rd / Tollington Rd
+13461913,Eglinton Ave W / Russell Rd / Eden Valley Dr
+13457191,Weston Rd / Oak St
+13457136,Knob Hill Dr / Piggott Mews / Oak St
+13456985,Gary Dr / Yelland St / Oak St
+13470461,Twelfth St / Thirteenth St
+13470476,Lake Shore Blvd W / Tenth St
+13470475,Lake Shore Blvd W / Tenth St
+13470429,Garnett Janes Rd / Coin St
+13460793,Martin Grove Rd / Waterbury Dr
+13460340,Dixon Rd / City View Dr / Kelfield St
+13460180,Dixon Rd / 401 X W Dixon W Ramp
+13460075,Martin Grove Rd / Dixon Rd
+13459712,Martin Grove Rd / Ronson Dr
+13459188,Martin Grove Rd / Enterprise Rd
+13459432,Martin Grove Rd / Dosco Rd
+13461680,Eglinton Ave W / Royal York Rd
+13461359,Royal York Rd / La Rose Ave
+13461037,Royal York Rd / Summitcrest Dr / Renault Cres
+13460740,Royal York Rd / Chapman Rd
+13456680,Weston Rd / Dee Ave / Weston Rd N 401 C E Ramp / Knob Hill Dr
+13470148,Kipling Ave / Torlake Cres
+13470076,Kipling Ave / Torlake Cres
+13470006,Kipling Ave / Evans Ave
+13469987,Evans Ave / Arnold St
+13469971,Evans Ave / Horner Ave / Horner Avenue Ramp
+13470130,Horner Ave / Judson St
+13460071,Trehorne Dr / The Westway
+13459538,Trio Ave / The Westway
+13469870,Lake Shore Blvd W / Louisa St
+13469847,Evans Ave / Garroch Pl
+13469828,Alan Ave / Evans Ave
+13469816,Carnarvon Ave / Evans Ave
+13469783,Royal York Rd / Evans Ave
+13469875,Royal York Rd / Portland St
+13469793,Lake Shore Blvd W / Legion Rd
+13468626,King St W / Wilson Park Rd
+13469548,The Queensway / Smith Cres
+13469508,The Queensway / Royal York Rd
+13468619,King St W / Dowling Ave
+13468571,King St W / Jameson Ave
+13469439,Royal York Rd / Saunders Cres
+13469614,Dalesford Rd / Royal York Rd / Sinclair St
+13469473,The Queensway / Wesley St
+13469838,Portland St / Buckingham St / Wesley St
+13469814,Portland St / Audley St
+13469683,Park Lawn Rd / Lake Shore Blvd W / Marine Parade Dr
+13469530,Park Lawn Rd / Gardiner E Park Lawn Rd Ramp / Mimico Creek Trl
+13469747,Grand Ave / Melrose St
+13469669,Grand Ave / Manitoba St
+13469460,Park Lawn Rd / Park Lawn Gardiner W Ramp
+30070005,Lake Shore Blvd W / Silver Moon Dr
+13468464,Ormskirk Ave / South Kingsway
+13469523,Dalesford Rd / Grand Ave
+13469443,The Queensway / Milton St
+13469405,The Queensway / Grand Ave
+13468786,The Queensway / Gardiner Queensway W Ramp / Queensway S Kingsway Ramp / S Kingsway Queensway Ramp / South Kingsway / Humber River Recreational Trl
+13469375,Frankwood Rd / Royal York Rd
+13468779,Springhurst Ave / Dufferin St
+13468568,Dufferin St / Liberty St
+13469263,Royal York Rd / Yorkview Dr
+13469132,Royal York Rd / Castlebar Rd
+30054189,Queensway S Kingsway Ramp / South Kingsway
+13468556,Windermere Pl / Southport St
+13468518,Windermere Ave / Windermere Pl
+13469002,Royal York Rd / Coney Rd
+13468888,Berry Rd / Prince Edward Dr S
+13468676,Edwalter Ave / Prince Edward Dr S
+13468587,Bernice Ave / Prince Edward Dr S
+13468500,Kirk Bradden Rd E / Prince Edward Dr S / Kirk Bradden Rd W
+13468837,Lake Shore Blvd W / Windermere Ave
+13468605,The Queensway / Windermere Ave
+13468506,Coe Hill Dr / Ellis Gdns
+13468559,The Queensway / Ellis Ave
+13469250,Park Lawn Rd / Lorne Ave
+13469355,Park Lawn Rd / The Queensway
+13469085,Cannon Rd / Park Lawn Rd / Park Lane
+30070002,The Marginal Blvd / Marine Parade Dr
+13469442,Lake Shore Blvd W / Brookers Lane / Lake Shore W Gardiner E Ramp
+13468687,Lake Shore Blvd W / Ellis Ave
+13468440,Atlantic Ave / Liberty St
+13468727,Nova Scotia Ave / Manitoba Dr
+20111568,Lynn Williams St / East Liberty St
+13468857,Berry Rd / Minstrel Dr
+13468797,Berry Rd / Ballacaine Dr
+13468745,Park Lawn Rd / Berry Rd
+13468844,Park Lawn Rd / Kinsdale Blvd
+13468520,King St W / Dunn Ave
+13468465,King St W / Spencer Ave
+13468682,Cloverhill Rd / Berry Rd
+13468641,Berry Rd / Bell Manor Dr
+13469300,The Queensway / Aldgate Ave
+13469271,The Queensway / Stephen Dr
+13469148,Whitworth Ave / Stephen Dr
+13469231,The Queensway
+13468553,Lake Shore Blvd W / Colborne Lodge Dr
+13468994,Islington Ave / Norseman St
+13468805,Islington Ave / Advance Rd
+13468841,Cloverhill Rd / Stephen Dr / Humber River Recreational Trl
+13468601,Berry Rd / Stephen Dr
+13468437,Gardiner Express / Parkside Dr / Lakeshore W Parkside Ramp / Parkside Dr S Lakeshore Blvd W Ramp
+13468486,Parkside Dr / Lake Shore Blvd W / Parkside Dr S Lakeshore Blvd E Ramp / Lakeshore E Parkside Ramp
+13470022,Lake Shore Blvd W / Superior Ave
+20031732,Lake Shore Blvd W / Marine Parade Dr
+13469945,Lake Shore Blvd W / Burlington St
+13468436,King St W / Queen St W / The Queensway / Roncesvalles Ave / Beaty Boulevard Parkette Trl
+13468685,Royal York Rd / Norseman St
+13466023,Royal York Rd
+14254033,Pirandello St / East Liberty St
+14063912,Canada Blvd / Manitoba Dr
+13468803,Lake Shore Blvd W / Strachan Ave / Remembrance Dr
+13468018,Glenaden Ave E / Prince Edward Dr S / Glenaden Ave W
+13467928,Glenroy Ave / Prince Edward Dr S
+13468421,Glenellen Dr E / Prince Edward Dr S / Glenellen Dr W
+13468274,Sunnydale Dr / Prince Edward Dr S / Kingslea Gdns
+13468185,Prince Edward Dr S / Sunnylea Ave W
+13467630,Ashton Manor / Prince Edward Dr S
+13467231,Bloor St W / Prince Edward Dr N / Prince Edward Dr S
+13468377,Spadina Ave / Lake Shore Blvd W / Lower Spadina Ave / Gardiner E Spadina Av Ramp / Waterfront Trl
+13464263,St Clair Ave W / Florence Cres
+13464451,Jane St / Dundas St W
+13464218,Jane St / St Clair Ave W
+13468652,Fleet St Lake Shore Blvd Ramp / Fleet St
+13468316,Robertson Cres / Rees St / Queens Quay W
+13468469,Islington Ave / Bering Ave / Fairfield Park Trl
+13468227,Islington Ave / Van Dusen Blvd
+13467131,Bloor St W / Kingsmill Rd
+13466999,Bloor St W / Old Mill Rd / The Kingsway
+14255084,Fort York Blvd / Fleet St
+20054558,Fort York Blvd / Bastion St
+13467331,Islington Ave / Cordova Ave / Central Park Rdwy
+13464273,Scarlett Rd / Bernice Cres
+13465244,Varsity Rd / Pasadena Gdns
+13465415,Varsity Rd / Underwood Ave
+13464997,Skylark Rd / Van Stassen Blvd
+13465050,Gooch Ave / Magwood Crt
+13468663,Bathurst St / Queens Quay W / Eireann Quay / Little Norway Park Trl / Martin Goodman Trl
+14255097,Bathurst St / Fort York Blvd
+13468584,Bathurst St / Lake Shore Blvd W
+13464143,St Clair Ave W / Mariposa Ave
+13463641,Scarlett Rd / Ellins Ave
+13463344,Scarlett Rd / Edinborough Crt
+13463871,Scarlett Rd / Foxwell St
+13462866,Scarlett Rd / Clairton Cres
+13464769,Dundas St W / Howland St
+13465287,Jane St / St Mark'S Rd
+13465039,Jane St / St John'S Rd
+13464832,Jane St / Bradley Ave
+13467917,Royal York Rd / Edgemore Dr
+13468117,Royal York Rd / Glenroy Ave
+13462619,Scarlett Rd / East Dr
+13464952,Lundy Ave / Warren Cres
+13465033,Varsity Rd / Doran Ave / Crosby Ave
+13464616,Dundas St W / Humber Hill Ave
+13464510,Dundas St W / Scarlett Rd
+13464406,St Clair Ave W / Scarlett Rd
+13464902,Anglesey Blvd / Pinehurst Cres
+13464798,Anglesey Blvd / The Kingsway
+13465275,Lambeth Rd / Royal York Rd
+20236614,Dundas St W / Briarly Lane
+13466153,Dundas St W / Nottingham Dr
+13464880,Ashley Park Rd / Royal York Rd
+13463932,Royal York Rd / Romney Rd / Hartfield Crt
+13464483,Royal York Rd / Anglesey Blvd
+13465297,Dundas St W / Prince Edward Dr N
+13465912,Dundas St W / The Kingsway
+13465085,Dundas St W / Old Dundas St
+13465689,Dundas St W / Royal York Rd / Royal York S Dundas E Ramp / Royal York N Dundas W Ramp
+13466992,Royal York Rd / King Georges Rd
+13466445,Royal York Rd / Kingsgrove Blvd
+13466745,Royal York Rd / Tremayne Ave
+13463615,Glendarling Rd / Royal York Rd / Darlingbrook Cres
+20089355,Royal York Rd / Centre Dr
+13463038,Royal York Rd / Country Club Dr
+13462634,Royal York Rd / North Dr
+13466778,Indian Rd / Howard Park Ave
+13462180,Weston Rd / Northland Ave
+13462466,Weston Rd / Mccormack St
+13465233,Humberside Ave / High Park Ave
+13464852,High Park Ave / Annette St
+13464742,Medland St / Annette St
+13465250,Keele St / Hillsview Ave
+13468434,Ormskirk Ave / Ripley Ave
+13468000,St Olave'S Rd / Windermere Ave
+20058327,Windermere Ave
+13468276,Windermere Ave
+13465420,Durie St / Annette St
+13465036,Keele St / Humberside Ave
+13464716,Keele St / Annette St
+13467726,Morningside Ave / Windermere Ave
+13467691,Lavinia Ave / Morningside Ave
+13467143,Runnymede Rd / Deforest Rd
+13465319,Runnymede Rd / Annette St
+13464977,Runnymede Rd / Maher Ave
+13464808,Humberside Ave / Dundas St W
+13467626,Centre Rd / Colborne Lodge Dr / Deer Pen Rd
+13464724,Runnymede Rd / St John'S Rd
+13464467,Dundas St W / Willard Ave
+13464462,Dundas St W / Windermere Ave
+13464022,St Clair Ave W / Mould Ave
+13464461,Dundas St W / Runnymede Rd
+13464439,Dundas St W / High Park Ave
+13464436,Dundas St W / Pacific Ave
+13464438,Keele St / Dundas St W
+13466476,Jane St / Colbeck St
+13468360,The Queensway / Colborne Lodge Dr
+13463893,St Clair Ave W / Runnymede Rd
+13465238,Gilmour Ave / Annette St
+13464684,Indian Road Cres / Annette St
+13466049,Jane St / Ardagh St
+13465149,Evelyn Ave / Annette St
+13464963,Clendenan Ave / Annette St
+13464592,Dupont St / Old Weston Rd / Annette St / Dundas St W
+13465635,Jane St / Annette St
+13465522,Willard Ave / Annette St
+13464453,Dundas St W / Gilmour Ave
+13464450,Dundas St W / St John'S Pl
+13464433,Indian Grv / Dundas St W
+13464031,Keele St / Junction Rd
+13468182,Parkside Dr / Spring Rd
+13467914,Parkside Dr / Algonquin Ave
+13464434,Dundas St W / Quebec Ave
+13465042,Jerome St / Dundas St W
+13465288,Glenlake Ave / Dundas St W
+13466171,Runnymede Rd / Colbeck St
+13465858,Runnymede Rd / Glenwood Ave
+13465550,Runnymede Rd / Webb Ave
+13467459,Parkside Dr / Geoffrey St
+13467129,Parkside Dr / Howard Park Ave
+13467698,Parkside Dr / High Park Blvd
+13463642,Mould Ave / Pritchard Ave
+13463416,Rockcliffe Blvd / Castleton Ave / Corbett Ave / Gaffney Park Trl
+13463700,Castleton Ave / Henrietta St
+13463604,Runnymede Rd / Henrietta St
+13463785,St Clair Ave W / Britannia Ave
+13463578,Foxwell St / Duern St
+13463440,Jane St / Woolner Ave / Foxwell St
+13463074,Jane St / Haney Ave
+13463827,Jane St / Pritchard Ave
+13465772,Glenlake Ave / High Park Ave
+14069693,Rockcliffe Blvd / Rockcliffe Crt
+13462316,Humber Blvd / Alliance Ave / Cliff St
+13463695,Batavia Ave / Pritchard Ave
+13462698,Jane St / Alliance Ave
+13465564,Keele St / Glenlake Ave
+13466722,Parkside Dr / Indian Valley Cres
+13463679,St Clair Ave W / Cobalt Ave
+14172279,St Clair Ave W / Mondovi Gt
+13463362,St Clair Ave W / Old Stock Yards Rd / Gunns Rd
+13462239,Jane St / Outlook Ave / East Dr
+13462567,Rockcliffe Blvd / Alliance Ave
+13462178,Rockcliffe Blvd / Caesar Ave
+13458530,Lawrence Ave W / Hickory Tree Rd / Little Ave / Humber River Recreational Trl
+13458101,Lawrence Ave W / Pine St
+13457106,Pine St / Church St
+13457027,Uphill Ave / Church St
+13456891,Woodward Ave / Uphill Ave
+13456865,Wendell Ave / Gary Dr
+13461883,Humber Blvd / Louvain St
+13461812,Cordella Ave / Louvain St
+13461238,Weston Rd / Lambton Ave
+13461391,Weston Rd / Black Creek Dr / Humber Blvd
+13463080,St Clair Ave W / Old Weston Rd
+13462686,Weston Rd / Gunns Rd
+13460084,Scarlett Rd / Saxony Cres
+13456742,Portage Ave / Gary Dr
+13456651,Langside Ave / Gary Dr
+13456548,Lockerbie Ave / Gary Dr
+13460945,Weston Rd / York Ave
+13461075,Weston Rd / Dennis Ave
+13460466,Black Creek Dr / Eglinton Ave W
+13462566,Old Weston Rd / Rockwell Ave
+13455580,Wilson Ave / Clayson Rd
+13461911,Weston Rd / Seneca Ave
+13461687,Weston Rd / Rogers Rd
+13461625,Rogers Rd / Bicknell Ave
+13459076,Weston Rd / Denison Rd E / Denison Rd W
+13458683,Weston Rd / Wright Ave / Wilby Cres
+13458880,Weston Rd / Victoria Ave E / Victoria Ave W
+13461263,Eglinton Ave W / Emmett Ave
+13461587,Keele St / Rogers Rd
+13462260,Old Weston Rd / Turnberry Ave
+13463595,Davenport Rd / Osler St
+13461228,Jane St / Eglinton Ave W
+13460422,Verona Ave / Emmett Ave
+13455405,Wilson Ave / Jethro Rd
+13456454,Dalbeattie Ave / Gary Dr / Pelmo Park Trl
+13461619,Old Weston Rd / Rogers Rd / Watt Ave
+13461548,Rogers Rd / Scott Rd
+13462962,St Clair Ave W / Hounslow Heath Rd / Silverthorn Ave
+13463602,Davenport Rd / Laughton Ave
+13460334,Jane St / Cornell Ave / Goldwin Ave
+13461926,Jane St / Bexley Cres
+13461829,Jane St / Lambton Ave
+13461719,Astoria Ave / Lambton Ave
+13456695,Longview Dr / Pelmo Cres
+13455311,Wilson Ave / Haymarket Rd
+13455219,Wilson Ave / Dallner Rd
+13461074,Keele St / Donald Ave
+13460601,Keele St / Ypres Rd
+13459578,Todd Baylis Blvd / Industry St
+13459347,Black Creek Dr / Trethewey Dr
+13463516,Davenport Rd / Symington Ave
+13461967,Rockcliffe Blvd / Outlook Ave / Homer Ave
+13461575,Rockcliffe Blvd / Lambton Ave
+13461460,Guestville Ave / Lambton Ave
+13455910,Jane St / Gordon Mackay Rd / Falstaff Ave
+13455332,Jane St / Beverly Hills Dr
+13458342,Gibson Ave / Wright Ave
+13458238,Jane St / Wright Ave
+13457965,Jane St / Lawrence Ave W
+13460210,Eglinton Ave W / Bicknell Ave / Municipal Dr
+13459618,Trethewey Dr / Greentree Crt
+13459489,King George'S Dr / Trethewey Dr
+13459739,Irving Rd / Yorktown Dr / Trethewey Dr
+13460119,Trethewey Dr / Keele St / Eglinton Ave W
+13459825,Yore Rd / Keele St
+13460444,Weston Rd / Ray Ave
+13460830,Eglinton Ave W / Bijou Walk / Pearen St
+13460757,Eglinton Ave W / Weston Rd
+13460565,Weston Rd / Oxford Dr
+13457834,Lawrence Ave W / Blackstone St / Duckworth St
+13457321,Jane St / John St
+13457584,Jane St / Patika Ave
+13456926,Jane St / Maple Leaf Dr / Church St
+13461915,Old Weston Rd / Rowntree Ave
+13461451,Rogers Rd / Silverthorn Ave
+13462870,St Clair Ave W / Laughton Ave
+13459847,Weston Rd / Dora Spencer Rd
+13459646,Weston Rd / Sidney Belsey Cres
+13460183,Jane St / Bala Ave / Emmett Ave
+13456850,Black Creek Dr
+13457705,Lawrence Ave W / Brookhaven Dr
+13459548,Trethewey Dr / Clearview Hts
+13459487,Paulson Rd / Trethewey Dr
+13462755,St Clair Ave W / Caledonia Rd / Caledonia Park Rd
+13459968,Jane St / Weston Rd
+13460140,Weston Rd / Ernest Dockray Ave
+13459377,Weston Rd / Clouston Ave
+13457431,Lawrence Ave W / De Marco Blvd
+13459957,Eglinton Ave W / Richardson Ave
+13459367,Keele St / Beechborough Ave
+13458803,Keele St / Greenbrook Dr / Canon Jackson Dr
+13458400,Keele St / Ingram Dr
+13462333,Caledonia Rd / Norman Ave
+13458435,Jane St / Harding Ave
+13456201,Rustic Rd / Raven Rd
+13456682,Liscombe Rd / Venice Dr / Maple Leaf Dr
+13458802,Jane St / Denison Rd E / Trethewey Dr
+13458842,Platinum Dr / Trethewey Dr / Tedder St
+13460277,Weston Rd / Victoria Blvd
+13460216,Bartonville Ave E / Ray Ave / Railway Lane
+13459865,Bertal Rd / Industry St
+13459761,Ray Ave / Industry St
+13458722,Culford Rd / Gulliver Rd
+13461007,La Rose Ave / Timothy Crt
+13460905,La Rose Ave / Arcade Dr
+13458879,Chiswick Ave / Millennium Dr / Trethewey Dr
+13458916,Brookhaven Dr / Trethewey Dr
+13459001,Trethewey Dr / Martha Eaton Way
+13458462,Scarlett Rd / Lockheed Blvd
+13458075,Weston Rd / Fern Ave
+13456597,Bourdon Ave / Maple Leaf Dr
+13456436,Veerland Dr / Maple Leaf Dr
+13456797,Culford Rd / Gracefield Ave
+13456379,Culford Rd / Maple Leaf Dr
+13461916,Scarlett Rd / Edenbridge Dr
+13461355,Scarlett Rd / Eglinton Ave W
+13457809,George St / Church St
+13458203,Weston Rd / King Street Cres / King St
+13458304,Weston Rd / John St
+13458367,Lawrence Ave W / Weston Rd
+13464573,Dupont St / Osler St / West Toronto Rail Path Trl
+13464479,Dupont St / Franklin Ave
+13461060,Scarlett Rd / Richview Rd
+13460834,Scarlett Rd / La Rose Ave
+13460428,Scarlett Rd / Chapman Rd
+13457629,Rosemount Ave / Church St
+13457536,Church St / Grattan St
+13463685,Keele St / West Toronto St
+14659127,Weston Rd / Birdstone Cres
+13463232,Weston Rd / Keele St / St Clair Ave W
+13459501,Scarlett Rd / Crane Ave
+13459782,Scarlett Rd / Alma Dr / Scarlettwood Crt
+13457384,Church St / Cypress St
+13458224,Lawrence Ave W / Ralph St
+13462045,Cordella Ave / Cliff St
+13461381,Lambton Ave / Cashman Cres
+13463482,Old Weston Rd / Davenport Rd
+13458973,Scarlett Rd / Yorkleigh Ave / The Elms
+13458742,Scarlett Rd / Lawrence Ave W
+13459195,Scarlett Rd / Raymore Dr
+13468159,Roncesvalles Ave / Marion St
+13468375,Queen St W / Triller Ave
+13467938,Roncesvalles Ave / Galley Ave
+13466880,Sheridan Ave / Dundas St W
+13466894,Dufferin St / Dundas St W
+13466900,Gladstone Ave / Dundas St W
+13467486,High Park Blvd / Fermanagh Ave / Roncesvalles Ave
+13467084,Grenadier Rd / Roncesvalles Ave
+13466425,College St / Dufferin St
+13466357,College St / Rusholme Park Cres
+13459821,Eglinton Ave W / Gabian Way
+13459781,Eglinton Ave W / Blackthorn Ave
+13465703,Dufferin St / Dufferin Park Ave
+13466910,Rusholme Rd / Lisgar St / Dundas St W
+13468080,Queen St W / Brock Ave
+13466246,College St / Dovercourt Rd
+13466100,Dufferin St / Sylvan Ave
+13459608,Eglinton Ave W / Sanderstead Ave
+13459219,Caledonia Rd / Bowie Ave
+13458939,Caledonia Rd / Schell Ave
+13468303,Queen St W / Sorauren Ave
+13467963,Seaforth Ave / Macdonell Ave
+13468374,King St W / Dufferin St
+13468186,Melbourne Ave / Dufferin St
+13458553,Caledonia Rd / Castlefield Ave
+13459983,Caledonia Rd / Keith Ave
+13459413,Eglinton Ave W / Little Blvd
+13459369,Eglinton Ave W / Ronald Ave
+13468216,Queen St W / Jameson Ave
+13468148,Queen St W / Dunn Ave
+13467935,Lansdowne Ave / Seaforth Ave
+13467983,Queen St W / Dufferin St
+13467944,Queen St W / Gladstone Ave / Sudbury St
+13459303,Eglinton Ave W / Nairn Ave
+13466833,Dundas St W / Shaw St
+13466798,Dundas St W / Crawford St / Trinity Bellwoods Park Trl
+13459208,Eglinton Ave W / Hartley Ave
+13467368,Lansdowne Ave / Rideau Ave
+13467370,Dufferin St / Gordon St
+13465326,Paton Rd / Symington Ave
+13465061,Wallace Ave / Symington Ave
+13464651,Symington Ave / Antler St
+13458344,Culford Rd / Flamborough Dr / Woolton Cres
+13458133,Culford Rd / Harrow Dr / Woolton Cres
+13457869,Culford Rd / George Anderson Dr / Ridge Point Cres
+13467682,Alma Ave / Dufferin St
+13466923,Dovercourt Rd / Dundas St W
+13457445,Culford Rd / Vanwyck Rd
+13457330,Lawrence Ave W / Culford Rd
+13457037,Culford Rd / Valencia Cres
+13457121,Lawrence Ave W / Pimlico Rd / Amesbury Park Trl
+13457880,Keele St / Densley Ave
+13457627,Keele St / Milford Ave
+13466640,Howard Park Ave / Roncesvalles Ave
+13468309,King St W / Fraser Ave
+20056886,King St W / Joe Shuster Way
+13466116,College St / Ossington Ave
+13465702,Ossington Ave / Dewson St
+13465447,Ossington Ave / Harbord St
+13457336,Keele St / Colville Rd
+13456952,Keele St / Lawrence Ave W
+13457522,Densley Ave / Sheffield St
+13457352,Hafis Rd / Sheffield St
+13456793,Lawrence Ave W / Duval Dr
+13457109,Colville Rd / Sheffield St
+13466258,Roncesvalles Ave / Dundas St W
+13466531,Lynd Ave / Howard Park Ave / Dundas St W
+13466677,Sorauren Ave / Dundas St W
+13468224,King St W / Atlantic Ave
+13455463,Keele St / Rustic Rd
+13456554,Keele St / North Park Dr
+13455973,Keele St / Maple Leaf Dr
+13456692,Lawrence Ave W / Benton Rd
+13467882,Queen St W / Beaconsfield Ave
+13467817,Queen St W / Dovercourt Rd
+13466940,Dundas St W / Ossington Ave
+13466493,Churchill Ave / Ossington Ave
+13468120,King St W / Sudbury St
+13458175,Ingram Dr / Kincort St
+13458026,Caledonia Rd / Raitherm Rd
+13457821,Caledonia Rd / Tycos Dr
+13457583,Caledonia Rd / Glencairn Ave
+13457454,Caledonia Rd / Glen Park Ave
+13457265,Caledonia Rd / Glengrove Ave
+13456989,Caledonia Rd / Playfair Ave
+13465705,Bloor St W / Symington Ave
+13466754,Sterling Rd / Dundas St W / West Toronto Rail Path Trl
+13461740,Caledonia Rd / Innes Ave
+13457969,Wingold Ave / Lansdowne Ave
+13457667,Lansdowne Ave / Tycos Dr
+13457697,Dufferin St / Wingold Ave
+13457416,Lansdowne Ave / Glencairn Ave
+13457302,Haven Rd / Glencairn Ave
+13457194,Glencairn Ave / Ennerdale St
+13457350,Dufferin St / Tycos Dr
+13457150,Dufferin St / Glencairn Ave
+13456849,Dufferin St / Glengrove Ave
+13466826,Lansdowne Ave / Dundas St W
+13466699,Lansdowne Ave / College St
+13466235,Lansdowne Ave / Whytock Ave
+13467715,Queen St W / Ossington Ave / Lower Ossington Ave
+13461323,Rogers Rd / Gilbert Ave
+13461384,Caledonia Rd / Rogers Rd
+13456468,Lawrence Ave W / Caledonia Rd
+13456342,Lawrence Ave W / Sage Ave
+13455778,Caledonia Rd / Leswyn Rd
+13455170,Caledonia Rd / Bentworth Ave
+13455455,Caledonia Rd / Orfus Rd
+13455277,Orfus Rd / Dufflaw Rd
+13456252,Lawrence Ave W / Dufflaw Rd
+13456161,Lawrence Ave W / Apex Rd / Good Shepherd Crt
+13466862,Brock Ave / Dundas St W
+14043045,College St / Orpen Lane
+13467650,Queen St W / Shaw St
+13467337,Ossington Ave / Argyle St
+13460717,Caledonia Rd / Summit Ave
+13461089,Caledonia Rd / Corby Ave
+13460292,Caledonia Rd / Kitchener Ave
+13456564,Dufferin St / Playfair Ave
+13456031,Dufferin St / Lawrence Ave W
+13456310,Dufferin St / Claver Ave
+13455979,Lawrence Ave W / Via Bagnato / Corona St
+13455685,Dufferin St / Dane Ave
+13455354,Dufferin St / Samor Rd
+13468370,The Queensway / Glendale Ave
+13465254,Ossington Ave / Hepbourne St
+13465315,Harbord St / Crawford St
+13468313,Strachan Ave / Ordnance St
+13464778,Dufferin St / Shanly St
+13463882,Dufferin St / Dupont St
+13467859,King St W / Niagara St
+13465757,College St / Bathurst St
+13464313,Dufferin St / Hallam St
+13463794,Dupont St / Bartlett Ave
+13465212,Harbord St / Grace St
+13467560,Queen St W / Strachan Ave / Trinity Dr
+13463441,Caledonia Park Rd / Davenport Rd / Earlscourt Park Trl
+13463350,Davenport Rd / Lansdowne Ave
+13466407,Bathurst St / Dundas St W
+13463267,Davenport Rd / Greenlaw Ave
+13467464,Queen St W / Niagara St
+13465489,Spadina Ave / College St
+13463208,Davenport Rd / Lightbourn Ave
+13462582,St Clair Ave W / Lansdowne Ave
+13464157,Barton Ave / Christie St
+13463865,Christie St / Essex St
+13467795,King St W / Tecumseth St
+13467722,Bathurst St / King St W
+13466288,Spadina Ave / Dundas St W
+13466105,Bathurst St / Nassau St
+13462446,St Clair Ave W / Earlscourt Ave
+13463664,Dupont St / Dovercourt Rd
+13463464,Dovercourt Rd / Geary Ave
+30072982,Ossington Ave / Salvador Allende Crt
+13463585,Dupont St / Ossington Ave
+20147074,Fort York Blvd / Dan Leckie Way / Canoe Landing Park Trl
+13467969,Bathurst St / Niagara St
+20145410,Fort York Blvd / Capreol Crt
+13463535,Dufferin St / Brandon Ave
+13463735,Dufferin St / Geary Ave
+13463468,Dupont St / Shaw St
+13463377,Dufferin St / Chandos Ave
+13463123,Dufferin St / Davenport Rd
+13462867,Davenport Rd / Oakwood Ave
+13462801,Davenport Rd / Ossington Ave
+13467348,Queen St W / Palmerston Ave / Tecumseth St
+13465836,Spadina Ave / Nassau St
+13462794,Davenport Rd / Shaw St
+13462760,Marchmount Rd / Davenport Rd
+13466991,Bathurst St / Robinson St
+13467252,Bathurst St / Queen St W
+13467654,King St W / Portland St
+13462947,Davenport Rd / Salem Ave N
+13462886,Davenport Rd / Dovercourt Rd
+13462685,Dufferin St / Auburn Ave
+13462285,Dufferin St / St Clair Ave W
+13463568,Yarmouth Rd / Christie St
+13463277,Dupont St / Christie St
+13467613,King St W / Brant Pl
+13466443,Dundas St W / Denison Ave
+13462184,St Clair Ave W / Northcliffe Blvd
+13462073,St Clair Ave W / Glenholme Ave
+13462935,Lambertlodge Ave / Christie St
+13467096,Queen St W / Augusta Ave
+13466689,Dundas St W / Grace St
+13464892,Wallace Ave / Lansdowne Ave
+13464361,Dupont St / Symington Ave
+13464011,Adrian Ave / Symington Ave
+13462565,Oakwood Ave / Highview Cres
+13462431,Oakwood Ave / Burlington Cres
+13462262,Oakwood Ave / Rosemount Ave
+13463197,Dupont St / Manning Ave
+13463127,Dupont St / Palmerston Ave
+13464495,Lansdowne Ave / Lappin Ave
+13464191,Dupont St / Lansdowne Ave
+13465043,Bloor St W / Dovercourt Rd
+13462648,Davenport Rd / Christie St / Hillcrest Park Trl
+13462183,Tyrrel Ave / Christie St
+13462439,Davenport Rd / Wychwood Pk
+13466540,Dundas St W / Euclid Ave
+13463844,Lansdowne Ave / Brandon Ave
+13464092,Dupont St / Emerson Ave
+13464556,Dovercourt Rd / Shanly St
+13468053,King St W / Shaw St
+13467971,King St W / Strachan Ave
+13464073,Dovercourt Rd / Hallam St
+13464281,Ossington Ave / Pendrith St
+13463938,Ossington Ave / Hallam St
+13464590,Bathurst St / Lennox St
+13464585,Queen'S Park Cres E / Wellesley St W / Queen'S Park Trl
+13464402,Tower Rd / Hoskin Ave
+13463747,Avenue Rd / Queen'S Park / Bloor St W
+13462209,Crescent Rd / Cluny Dr
+13462168,Rosedale Rd / Crescent Rd
+13462712,Mount Pleasant Rd / Elm Ave
+13462019,Crescent Rd / South Dr
+13467695,John St / Front St W
+13467204,Adelaide St W / Peter St
+13467321,King St W / John St
+13467106,Adelaide St W / John St
+13463880,Bathurst St / Barton Ave
+13464371,Queen'S Park Cres E / St Joseph St
+20145559,Crescent Rd / Crescent Mount Pleasant Ramp
+13461160,Rogers Rd / Nairn Ave
+14134889,Lower Simcoe St / Queens Quay W / Martin Goodman Trl
+13463813,Bay St / Charles St W
+13465052,College St / Elizabeth St / Dr. Emily Stowe Way
+13464999,College St / Bay St
+13464728,Bay St / Grosvenor St
+13461876,Dufferin St / Ascot Ave
+13464664,Yonge St / Alexander St
+13464649,Yonge St / Grosvenor St
+13461488,Dufferin St / Hope St
+13461051,Rogers Rd / Boon Ave
+13467593,Simcoe St / Lower Simcoe St / Front St W
+13464427,Bay St / Wellesley St W
+13464231,Bay St / St Joseph St
+13464042,Yonge St / Irwin Ave
+13464820,Brunswick Ave / Harbord St
+13460993,Rogers Rd / Day Ave
+13460901,Dufferin St / Rogers Rd
+13467163,Bay St / Wellington St W
+13466618,Spadina Ave / Sullivan St
+13464960,Spadina Ave / Willcocks St
+13464674,Spadina Ave / Harbord St
+13463723,Yonge St / Charles St W
+13460587,Rogers Rd / Oakwood Ave
+13459909,Dufferin St / Preston Rd
+13459714,Dufferin St / Rowan Ave
+13464524,Hoskin Ave / Harbord St / St George St
+13464417,Spadina Ave / Sussex Ave
+13463425,Avenue Rd / Yorkville Ave
+13459224,Vaughan Rd / Northcliffe Blvd
+13458928,Eglinton Ave W / Northcliffe Blvd
+13458815,Eglinton Ave W / Glenholme Ave
+13460098,Jesmond Ave / Oakwood Ave
+13466217,Dundas St W / Huron St
+13466136,Dundas St W / Beverley St
+13466802,Queen St W / Beverley St
+13462958,Avenue Rd / Tranby Ave
+13460815,Rogers Rd / Northcliffe Blvd
+13460575,Dufferin St / Eversfield Rd
+20028249,Holmesdale Rd / Dhir Mews
+13461551,Oakwood Ave / Glenhurst Ave
+13466708,Queen St W / Duncan St
+13466500,Stephanie St / Mc Caul St
+13463491,Bathurst St / Olive Ave
+13462831,Bathurst St / Bridgman Ave
+13463030,Dupont St / Bathurst St
+13462937,Dupont St / Howland Ave
+13462968,Davenport Rd / Bay St
+13462724,Avenue Rd / Davenport Rd
+13459363,Vaughan Rd / Glenholme Ave
+13459036,Dufferin St / Eglinton Ave W
+13458615,Dufferin St / Bowie Ave / Whitmore Ave
+13465356,College St / St George St / Beverley St
+13462422,Bathurst St / Davenport Rd
+13459786,Vaughan Rd / Robina Ave
+13459587,Vaughan Rd / Oakwood Ave
+13459974,Vaughan Rd / Jesmond Ave
+13466064,Dundas St W / Mc Caul St
+13465527,University Ave / Gerrard St W
+13462402,Davenport Rd / Dartnell Ave
+13462390,Walmer Rd / Davenport Rd / Kendal Ave
+13462302,Avenue Rd / Dupont St / Jay Macpherson Green Trl
+13462718,Davenport Rd / Belmont St / New St
+13461950,St Clair Ave W / Oakwood Ave
+13461215,Earnscliffe Rd / Oakwood Ave
+13460715,Rogers Rd / Glenholme Ave
+13460899,Oakwood Ave / Earlsdale Ave
+13462293,Spadina Rd / Davenport Rd
+13463075,Bedford Rd / Tranby Ave
+13467856,Spadina Ave / Front St W
+13468134,Spadina Ave / Fort York Blvd / Bremner Blvd
+13466636,Bay St / Temperance St
+13466250,Bay St / Albert St
+13466418,Bay St / Queen St W
+13465422,Elizabeth St / Gerrard St W
+13465545,Bay St / Elm St
+13462552,Davenport Rd / Dupont St
+13462444,Bedford Rd / Dupont St
+13462785,Davenport Rd / Bedford Rd
+13467763,Front St W / Blue Jays Way
+13465361,Bay St / Gerrard St W
+13466048,Bay St / Hagerman St
+13465822,Bay St / Dundas St W
+13465263,Yonge St / Gerrard St E / Gerrard St W
+13465273,College St / Mc Caul St
+13461921,Yonge St / Rowanwood Ave / Macpherson Ave
+13463015,Davenport Rd / Yonge St / Church St
+13467505,Spadina Ave / King St W
+13467390,Spadina Ave / Oxley St
+13467197,Spadina Ave / Camden St
+13466982,Spadina Ave / Queen St W
+13465112,Manning Ave / Harbord St
+13464647,Wellesley Queens Pr S Ramp / Queens Pr S Wellesley Ramp / Wellesley St W / Queen'S Park Trl
+13463463,Mount Pleasant Rd / Jarvis St / Ted Rogers Way / Charles St E
+13467412,King St W / Peter St / Blue Jays Way
+13464943,Bathurst St / Harbord St
+13465217,Bathurst St / Ulster St
+13460219,Vaughan Rd / Winnett Ave
+13460255,Vaughan Rd / Arlington Ave
+13457385,Marlee Ave / Stayner Ave
+13457100,Marlee Ave / Viewmount Ave
+13460246,Vaughan Rd / Humewood Dr
+13460312,Vaughan Rd / Wychwood Ave / Connaught Crcl
+13461862,Benson Ave / Christie St
+13461471,St Clair Ave W / Wychwood Ave
+13461035,Vaughan Rd / Louise Ave
+13460582,Spadina Rd / Heath St W
+13460231,Spadina Rd / Lonsdale Rd
+13461868,Bathurst St / Nina St
+13461343,St Clair Ave W / Vaughan Rd
+13461271,Bathurst St / St Clair Ave W
+13460975,St Clair Ave W / Spadina Rd
+13460848,St Clair Ave W / Russell Hill Rd
+13459514,Mount Pleasant Rd / Heath St E
+13459279,Mount Pleasant Rd / Moore Ave
+13459852,Mount Pleasant Rd / St Clair Ave E
+13459721,St Clair Ave E / Welland Ave
+13459371,Heath St E / Welland Ave
+13460776,Vaughan Rd / Maplewood Ave
+13460459,Vaughan Rd / Kenwood Ave
+13460171,Bathurst St / Heathdale Rd
+13460862,Bathurst St / Tichester Rd
+13460678,Bathurst St / Montclair Ave
+13456552,Marlee Ave / Glengrove Ave
+13456127,Marlee Ave / Wenderly Dr
+13455999,Marlee Ave / Dell Park Ave
+13456273,Marlee Ave / Elway Crt / Wenderly Park Trl
+13461870,Avenue Rd / Cottingham St
+13461005,Avenue Rd / Balmoral Ave
+13461334,Avenue Rd / Edmund Ave
+13460726,St Clair Ave W / Dunvegan Rd
+13455864,Lawrence Ave W / Bolingbroke Rd
+13455194,Flemington Rd / Blossomfield Dr
+13455749,Lawrence Ave W / Marlee Ave
+14046422,Flemington Rd / Dynasty Lane
+13460197,Avenue Rd / Heath St W
+13460576,Avenue Rd / St Clair Ave W
+13460447,St Clair Ave W / Deer Park Cres
+13459822,Spadina Rd / Strathearn Blvd
+13459465,Spadina Rd / Burton Rd
+13459185,Spadina Rd / Hawarden Cres
+13455131,Replin Rd / Flemington Rd
+13456655,Glencairn Ave / Shermount Ave
+13458873,Spadina Rd / Archer Rd
+13458404,Mount Pleasant Rd / Merton St
+13456533,Glencairn Ave / Englemount Ave
+13455564,Lawrence Ave W / Shermount Ave / Lawrence W Allen X N Ramp
+14043938,Varna Dr / Tundra Lane
+13455428,Lawrence Ave W / Varna Dr
+13459836,Lonsdale Rd / Avenue Rd
+13459593,Oriole Pkwy / Walmsley Blvd
+13459295,Oriole Pkwy / Gormley Ave
+13458729,Oxton Ave / Oriole Pkwy
+13460221,Mount Pleasant Rd / Inglewood Dr
+13459944,Yonge St / Heath St E
+13459913,Yonge St / Heath St W
+13458311,Eglinton Ave W / Westover Hill Rd
+13455343,Lawrence Ave W / Brookview Dr
+13458248,Eglinton Ave W / Old Park Rd
+13458244,Eglinton Ave W / Glen Cedar Rd
+13458146,Eglinton Ave W / Chiltern Hill Rd
+13458353,Avenue Rd / Chaplin Cres
+13458486,Oriole Pkwy / Chaplin Cres
+13458217,Davisville Ave / Pailton Cres
+13459992,St Clair Ave E / Inglewood Dr
+13459690,Bathurst St / Burton Rd / Strathearn Rd
+13459357,Bathurst St / Ardmore Rd
+13458084,Bathurst St / Eglinton Ave W
+13457713,Bathurst St / Vesta Dr / Ridge Hill Dr
+13457395,Bathurst St / Roselawn Ave / Elm Ridge Dr
+13458456,Lascelles Blvd / Chaplin Cres
+13457942,Russell Hill Rd / Chaplin Cres
+13457640,Eglinton Ave W / Tarlton Rd
+13458132,Duncannon Dr / Chaplin Cres
+13459040,Bathurst St / Warwick Ave
+13458543,Bathurst St / Ava Rd
+13458356,Bathurst St / Dewbourne Ave
+13458332,Spadina Rd / Old Forest Hill Rd
+13458159,Dufferin St / Castlefield Ave
+13456958,Bathurst St / Briar Hill Ave
+13458006,Eglinton Ave W / Old Forest Hill Rd
+13457938,Dufferin St / Briar Hill Ave
+13457863,Eglinton Ave W / Spadina Rd
+13457799,Eglinton Ave W / Chaplin Cres
+13459150,Oakwood Ave / Clovelly Ave
+13458706,Eglinton Ave W / Oakwood Ave
+13458567,Eglinton Ave W / Marlee Ave
+13457301,Roselawn Ave / Chaplin Cres
+13456419,Glencairn Ave / Dalemount Ave
+13456320,Glencairn Ave / Glenmount Ave
+13461822,St Clair Ave W / Winona Dr
+13456556,Bathurst St / Viewmount Ave
+13456244,Bathurst St / Glencairn Ave
+13455942,Bathurst St / Glengrove Ave
+13455263,Lawrence Ave W / Glenmount Ave / Brucewood Cres
+13455135,Bathurst St / Lawrence Ave W
+13455655,Bathurst St / Shelborne Ave
+13455397,Bathurst St / Caribou Rd / Dell Park Ave
+13460123,St Clair Ave E / Avoca Ave
+13457044,Capitol Ave / Glencairn Ave
+13456936,Glencairn Ave / Danesbury Ave
+13456841,Marlee Ave / Glencairn Ave
+13461675,St Clair Ave W / Arlington Ave
+13461554,St Clair Ave W / Christie St
+13458198,Marlee Ave / Whitmore Ave
+13457929,Marlee Ave / Roselawn Ave
+13457669,Marlee Ave / Ridelle Ave
+20232392,Spruce Vista / Arboretum Blvd
+13453659,Humberline Dr / Woodlot Cres
+13453700,Humberline Dr / Holyoake Cres
+13454271,Ixworth Rd / Westhumber Blvd / Esther Lorrie Dr
+13454463,Kipling Ave / Hinton Rd
+13454154,Kipling Ave / Brookmere Rd / Westhumber Blvd
+13454046,Brookmere Rd / Elmhurst Dr
+13449225,Steeles Ave W / Markbrook Lane
+13456266,Yonge St / Castlefield Ave
+13455968,Yonge St / Briar Hill Ave
+13455755,Yonge St / Sheldrake Blvd
+13455496,Yonge St / Blythwood Rd
+13453590,Humber College Blvd / Humberline Dr
+13453266,Finch Ave W / Humber College Blvd
+13452729,Humber College Blvd / Carrier Dr
+13452603,Woodbine Downs Blvd / Carrier Dr
+13453318,Finch Ave W / Woodbine Downs Blvd / Halesia Dr
+13453246,Highway 27 N / Finch Ave W
+13453882,Highway 27 N / Humber College Blvd
+13454771,Elmhurst Dr / Cromarty Dr
+13454339,Hinton Rd / Fordwich Cres
+13454224,Hinton Rd / Elmhurst Dr
+13454188,Harefield Dr / Elmhurst Dr
+13455212,Yonge St / Glencairn Ave
+13455032,Yonge St / Glengrove Ave E / Glengrove Ave W
+13458124,Yonge St / Belsize Dr
+13457785,Yonge St / Manor Rd E / Manor Rd W
+13458181,Acacia Rd / Davisville Ave
+13453815,Humber College Blvd / Westmore Dr
+13453185,Finch Ave W / Westmore Dr
+13452496,Highway 27 N / Carrier Dr
+13452090,Huddersfield Rd / Claireville Dr
+13451185,Albion Rd / Codlin Cres / Claireport Cres
+13454518,Genthorn Ave / Elmhurst Dr
+13453828,Kipling Ave / Henley Cres
+13452207,Islington Ave / Kingsmoor Gt
+13451900,Islington Ave / Beaumonde Heights Dr
+13457453,Mount Pleasant Rd / Manor Rd E
+13456978,Eglinton Ave E / Dunfield Ave
+13456722,Redpath Ave / Roehampton Ave
+13457151,Mount Pleasant Rd / Soudan Ave
+13456902,Eglinton Ave E / Redpath Ave
+13456819,Mount Pleasant Rd / Eglinton Ave E
+13458104,Mount Pleasant Rd / Davisville Ave
+13457764,Mount Pleasant Rd / Belsize Dr
+13451132,Albion Rd / Steinway Blvd
+13451869,Huddersfield Rd / Humberline Dr
+13451309,Albion Rd / Humberline Dr
+13453022,Kipling Ave / John Garland Blvd
+13452467,Albion Rd / Sanagan Rd / Benstrow Ave
+13451305,Islington Ave / Finch Ave W / Humber River E Branch
+13450946,Islington Ave / Aviemore Dr
+13457982,Belle Ayre Blvd / Davisville Ave
+13457889,Davisville Ave / Forman Ave
+13456681,Eglinton Ave E / Forman Ave
+13456636,Eglinton Ave E / Petman Ave
+13450733,Steinway Blvd / Signal Hill Ave
+13450366,Steeles Ave W / Signal Hill Ave
+13450164,Steeles Ave W / Steinway Blvd
+13451785,Carrier Dr / Dansk Crt
+13451705,Albion Rd / Highway 27 N
+13451519,Albion Rd / Carrier Dr
+13452584,Albion Rd / Todd Brook Dr
+13454716,Albion Rd / Golfdown Dr
+20046140,Albion Rd / Armel Crt
+13456452,Redpath Ave / Broadway Ave
+13456361,Mount Pleasant Rd / Broadway Ave
+13456135,Mount Pleasant Rd / Erskine Ave
+13455420,Mount Pleasant Rd / Stibbard Ave
+13455270,Mount Pleasant Rd / Blythwood Rd
+13451802,Albion Rd / Westmore Dr
+13451893,Albion Rd / Silverstone Dr
+13453545,Islington Ave / Barker Ave
+13453201,Islington Ave / Sandhill Dr
+13451124,Finch Ave W / Milady Rd
+13451044,Finch Ave W / Ardwick Blvd / Pearldale Ave
+13455731,Mount Pleasant Rd / Sherwood Ave
+13450694,Leading Rd / Royalcrest Rd
+13449960,Highway 27 N / Steeles Ave W
+13450585,Royalcrest Rd / Cabernet Crcl
+13452733,Albion Rd / Islington Ave
+13455052,Islington Ave / Golfdown Dr
+13454806,Islington Ave / Elmhurst Dr
+13456522,Eglinton Ave E / Banff Rd
+13456432,Eglinton Ave E / Hoyle Ave
+13450610,Martin Grove Rd / Silverstone Dr
+13450421,Martin Grove Rd / Royalcrest Rd
+13450148,Martin Grove Rd / Cabernet Crcl / Gihon Spring Dr
+13449574,Steeles Ave W / Martin Grove Rd / C N R
+13449853,Martin Grove Rd / Brunello Gt
+13455273,Harness Rd / Queen'S Plate Dr
+13452047,Albion Rd / Martin Grove Rd
+13451672,Martin Grove Rd / Lexington Ave / Garfella Dr
+13452171,Albion Rd / Finch Ave W
+13454866,Albion Rd / Shendale Dr
+13454501,Albion Rd / Elmhurst Dr
+13454299,Albion Rd / Irwin Rd / Arcot Blvd
+13454181,Arcot Blvd / Tandridge Cres
+13449213,Islington Ave / Muir Ave / Millwick Dr
+13450370,Islington Ave / Milady Rd
+13451252,Albion Rd / Claireport Cres
+13454996,Martin Grove Rd / Porterfield Rd
+13451819,Kipling Ave / Finch Ave W / Kipling Ave Bicycle Trl
+13451253,Kipling Ave / Mount Olive Dr / Panorama Crt / Kipling Ave Bicycle Trl
+13454617,Muncey Ave / Elmhurst Dr
+13454428,Islington Ave / Gosfield Gt
+13454278,Islington Ave / Fordwich Cres
+13454852,Humberwood Blvd / Arborwood Dr
+14069326,Humberwood Blvd / Westowanis Dr / View Green Cres
+14651711,
+13454453,Martin Grove Rd / Mercury Rd / Westhumber Blvd
+13454315,Westhumber Blvd / Moon Valley Dr
+13453619,Lynmont Rd / Humber College Blvd
+13453194,Albion Rd / Calstock Dr
+13453780,Albion Rd / Bankfield Dr
+13453013,Albion Rd / Thistle Down Blvd / Riverdale Dr
+13452721,Thistle Down Blvd / Barkwin Dr
+30032676,Humberwood Blvd / Upper Humber Dr
+13454152,Humberwood Blvd / Pinecone Dr
+13453549,John Garland Blvd / Mosque Cres
+13453576,Martin Grove Rd / John Garland Blvd
+13453287,John Garland Blvd / Humber College Blvd
+13453247,Martin Grove Rd / Rampart Rd
+13453094,Finch Ave W / Kiskadee Dr / Damascus Dr
+13452977,Finch Ave W / John Garland Blvd / Silverstone Dr
+13449995,Islington Ave / Rowntree Mill Rd / Duncanwoods Dr
+13449596,Islington Ave / Vanhill Ave
+13452853,Martin Grove Rd / Finch Ave W
+13452484,Martin Grove Rd / Betteridge Lane
+13452527,Finch Ave W / Kendleton Dr
+13453918,Martin Grove Rd / Milkwood Ave
+13453485,John Garland Blvd / Jamestown Cres
+13449352,Steeles Ave W / Gihon Spring Dr
+13457557,Eglinton Ave W / Elmsthorpe Ave
+13457449,Avenue Rd / Eglinton Ave W
+13456838,Avenue Rd / Roselawn Ave
+13453941,Humberwood Blvd / Topbank Dr
+13453496,Collingdale Rd / John Garland Blvd
+13453238,John Garland Blvd / Jamestown Cres
+13449294,Kipling Ave / Steeles Ave W / Kipling Ave Bicycle Trl
+13450184,Kipling Ave / Beaconhill Rd
+13457915,Hillsdale Ave W / Oriole Pkwy
+13458172,Tranmer Ave / Oriole Pkwy
+13457678,Anderson Ave / Oriole Pkwy
+13453439,Humberwood Blvd / Honeyview Pl
+14187627,Viewcrest Crcl / Humberline Dr
+13453152,Finch Ave W / Humberline Dr
+13452696,Claireville Dr / Humberline Dr
+13455330,Rexdale Blvd / Humberwood Blvd / Woodbine Track Access
+13454800,Humberwood Blvd / Kingsplate Cres
+13457359,Eglinton Ave W / Oriole Pkwy
+13457225,Eglinton Ave W / Colin Ave / Edith Dr
+13457135,Eglinton Ave W / Duplex Ave
+13457078,Eglinton Ave E / Yonge St / Eglinton Ave W
+13456650,Yonge St / Broadway Ave / Montgomery Ave
+13456247,Avenue Rd / Hillhurst Blvd
+13455941,Avenue Rd / Lytton Blvd
+13456543,Avenue Rd / St Clements Ave
+13452362,Albion Rd / Kipling Ave
+13455043,Kipling Ave / Snaresbrook Dr
+13454784,Kipling Ave / Genthorn Ave
+13449783,Kipling Ave / Kidron Valley Dr
+13455613,Avenue Rd / Glencairn Ave
+13455466,Avenue Rd / Glengrove Ave W
+13455295,Avenue Rd / Otter Cres
+13454905,Queen'S Plate Dr / Janda Crt
+13454935,Highway 27 S / Queen'S Plate Dr
+20145217,Torbarrie Rd / Sergio Marchi St
+13452693,Sheppard Ave W / Oakdale Rd
+13452551,Sheppard Ave W / Laura Rd
+13453033,Jane St / Giltspur Dr
+13453443,Jane St / Troutbrooke Dr
+13449981,Sentinel Rd / Lamberton Blvd
+13449486,Sentinel Rd / Hucknall Rd
+13450487,Grandravine Dr / Gambello Cres
+13453536,Weston Rd / Mainshep Rd
+13453198,Weston Rd / Sheppard Ave W
+13452573,Weston Rd / Verobeach Blvd
+13452395,Weston Rd / Bradstock Rd
+13452943,Weston Rd / Coral Gable Dr
+13452996,Turks Rd / Giltspur Dr
+13452283,Jane St / Sheppard Ave W
+13452908,Magellan Dr / Giltspur Dr
+13452238,Sheppard Ave W / Magellan Dr
+13454987,Wilson Ave / Epic Lane Rd
+13454780,Wilson Ave / William Cragg Dr
+13450308,Sentinel Rd / Grandravine Dr
+13450489,Sentinel Rd / Stilecroft Dr
+13450093,Derrydown Rd / Grandravine Dr
+13449416,Keele St / Broadoaks Dr
+13449156,Keele St / Catford Rd
+13449077,Keele St / Toro Rd
+13452251,Rivalda Rd / Bradstock Rd
+13453059,Sheppard Ave W / Rivalda Rd / Abraham Welsh Rd
+13452880,Sheppard Ave W / Bartor Rd
+13454208,Chesham Dr / Heathrow Dr
+13454050,Calvington Dr / Forthbridge Cres
+13453838,Dalsby Rd / Calvington Dr
+13455046,Keele St / Falstaff Ave
+13454472,Keele St / Sir William Hearst Ave / 401 C W Keele St Ramp / Keele St S 401 C W Ramp
+13454300,Wilson Ave / Agate Rd / Morton Shulman Ave
+13454197,Wilson Ave / Keele St
+13450594,Keele St / Dovehouse Ave / Downsview Park Trl
+13450779,Sheppard Ave W / John Drury Dr
+13452645,Bartor Rd / Arrow Rd
+13454661,Wilson Ave / Lexfield Ave / Highview Ave
+13454567,Wilson Ave / Ridge Rd / Roding Park Trl
+13454469,Wilson Ave / Julian Rd / Petherhill Ave / Ridge Park Trl
+13453864,Keele St / Paxtonia Blvd
+13450242,Keele St / Grandravine Dr
+13449857,Keele St / St Regis Cres
+13449744,St Regis Cres N / St Regis Cres
+13450103,Sheppard Ave W / Tuscan Gt
+13449850,St Regis Cres / Tuscan Gt
+13449875,Sheppard Ave W / Bakersfield St / Vitti St
+13449714,St Regis Cres / Bakersfield St
+13449419,Ceramic Rd / Ashwarren Rd
+13449165,Ceramic Rd / Le Page Crt
+13449561,Ceramic Rd / St Regis Cres N
+13449445,St Regis Cres N / Bakersfield St
+13449084,Chesswood Dr / Vanley Cres
+13449668,Sheppard Ave W / Chesswood Dr
+13449421,Chesswood Dr / Steeprock Dr
+13449543,Whitehorse Rd / Rimrock Rd
+13452064,Thistle Down Blvd / Kenhill Dr
+13450852,Finch Ave W / Ardwick Blvd / Duncanwoods Dr
+13452061,Thistle Down Blvd / Atwood Pl
+13453983,Wilson Ave / Dubray Ave
+13453761,Wilson Ave / Murray Rd
+13453250,Calvington Dr / Renshaw St
+13448292,Jane St / Driftwood Ave / Milo Park Gt
+13447884,Jane St / Shoreham Dr
+13447836,Shoreham Dr / Shoreham Crt
+13453732,Lexfield Ave / Calvington Dr
+13452784,Peterdale Rd / Giltspur Dr
+13453646,Keele St / Tilbury Dr
+13453187,Keele St / Keelegate Dr
+13453125,Keele St / Calvington Dr
+13449248,Whitehorse Rd / Steeprock Dr
+13450665,Finch Ave W / Rumike Rd / Milvan Dr
+13449888,Milvan Dr / Penn Dr
+13450457,Milvan Dr / Penn Dr
+13449727,Millwick Dr / Milvan Dr
+13452371,Giltspur Dr / Northover St
+13452160,Pecan Crt / Slater Crt / Northover St
+13453555,Exbury Rd / Calvington Dr
+13453470,Calvington Dr / Roding St
+13453372,Dalraith Rd / Calvington Dr
+13452617,Keele St / Downsview Park Blvd / Whitburn Cres
+13449687,Codsell Ave / Wilmington Ave
+13449464,Wilson Heights Blvd / Brighton Ave
+13449369,Searle Ave / Wilmington Ave
+13449046,Combe Ave / Wilmington Ave
+13448912,Hullmar Dr / Bloomington Cres
+13448859,Gosford Blvd / Hullmar Dr
+13450552,Finch Ave W / Jayzel Dr
+13449203,Kenhar Dr / Fenmar Dr
+13449519,Weston Rd / Fenmar Dr
+13452213,Weston Rd / Coronado Crt
+13451820,Weston Rd / Imogene Ave / St. Lucie Park Trl
+13448648,Driftwood Ave / Laskay Cres
+13448509,Driftwood Ave / Hoover Cres
+13451292,Weston Rd / Habitant Dr
+13450908,Weston Rd / Lanyard Rd
+13451938,Lido Rd / Arrow Rd
+13451446,Oakdale Rd / Jody Ave
+13450698,Arrow Rd / Deerhide Cres
+13450944,Arrow Rd / Deerhide Cres
+13451142,Oakdale Rd / Eddystone Ave
+13450342,Weston Rd / Finch Ave W
+13450145,Weston Rd / Toryork Dr
+13451997,Jane St / Clair Rd / Spenvalley Dr
+13451700,Jane St / Stanley Rd / Rita Dr
+13451426,Jane St / Courage Ave
+13450205,Sheppard Ave W / Yukon Lane / Kodiak Cres
+13449898,Sheppard Ave W / Kodiak Cres
+13449785,Whitehorse Rd / Kodiak Cres
+13450142,Finch Ave W / Arrow Rd / Signet Dr
+13449359,Fenmar Dr / Signet Dr
+13449766,High Meadow Pl / Signet Dr
+13451058,Jane St / Grandravine Dr
+13450723,Jane St / Eddystone Ave
+13450693,Driftwood Ave / Grandravine Dr
+13450866,Arleta Ave / Grandravine Dr / Futura Parkette Trl
+13450799,Futura Dr / Grandravine Dr
+13448840,Jane St / York Gate Blvd / Stong Crt
+13448828,Driftwood Ave / Stong Crt
+13448957,Islington Ave / Humber Summit Lane
+13448601,Islington Ave / Steeles Ave W
+13449110,Millwick Dr / Milvan Dr
+13448820,Toryork Dr / Milvan Dr / Oliti Crt
+13450219,Jane St / Cane Grassway
+13449866,Jane St / Yewtree Blvd / Firgrove Cres
+13449708,Finch Ave W / Oakdale Rd / Norfinch Dr
+13449584,Finch Ave W / York Gate Blvd / Elana Dr
+13449500,Jane St / Finch Ave W
+13449259,Jane St / San Romanoway
+13449132,Driftwood Ave / Wilmont Dr
+13450486,Jane St / Firgrove Cres / Yorkwoods Gt
+13450383,Driftwood Ave / Yorkwoods Gt
+13454883,Caledonia Rd / Cartwright Ave
+13454491,Caledonia Rd / Bridgeland Ave
+13448285,Steeles Ave W / Fenmar Dr
+13448814,Fenmar Dr / Ormont Dr
+13448583,Barmac Dr / Ormont Dr
+13448082,Steeles Ave W / Turbine Dr
+13448343,Barmac Dr / Garyray Dr
+13448007,Steeles Ave W / Barmac Dr
+13448921,Weston Rd / Kenhar Dr
+13448515,Barmac Dr / Ormont Dr
+13448484,Weston Rd / Ormont Dr
+13447902,Steeles Ave W / Klondike Dr
+13447821,Steeles Ave W / Irondale Dr
+13448098,Weston Rd / Garyray Dr
+13447719,Weston Rd / Steeles Ave W
+13448760,Kenhar Dr / Signet Dr
+13448352,Signet Dr / Ormont Dr
+13447994,Signet Dr / Garyray Dr
+13447893,Rossdean Dr / Garyray Dr
+13448137,Norelco Dr / Ormont Dr
+13448831,Hullmar Dr / Ruthmar Cres
+13449758,Yewtree Blvd / Driftwood Ave
+13449373,Finch Ave W / Driftwood Ave
+13449253,Finch Ave W / Topcliff Ave
+13454394,Dufferin St / Jane Osler Blvd / Yorkdale Dufferin N Ramp / 401 C E Dufferin St S Ramp
+13455007,Dufferin St / Orfus Rd
+13454825,Dufferin St / Ranee Ave
+13454098,Dufferin St / Yorkdale Rd / Bridgeland Ave
+13449330,William R Allen Rd / Rimrock Rd
+13449081,William R Allen Rd / Dufferin St / Kennard Ave
+13449167,Wilson Heights Blvd / Clifton Ave
+13450329,Sheppard Ave W / Banting Ave
+13450055,Wilson Heights Blvd / Cocksfield Ave
+13449671,Wilson Heights Blvd / Waterloo Ave
+13450231,Sheppard Ave W / Wilson Heights Blvd
+13448414,Hullmar Dr / Bimini Cres / Monaco Crt
+13448504,Hullmar Dr / Ruthmar Cres
+13447776,Hullmar Dr / Hisey Cres
+13448152,Shoreham Dr / Hullmar Dr
+13447954,Hullmar Dr / Bamford Cres
+13447608,Steeles Ave W / Signet Dr
+13447518,Steeles Ave W / Rossdean Dr
+13449201,Finch Ave W / Tobermory Dr
+13452124,Sheppard Ave W / Min Ave / Yatescastle Dr
+13451999,Sheppard Ave W / Buckland Rd
+13451923,Sheppard Ave W / Arleta Ave / Northover St
+13451567,Arleta Ave / Spenvalley Dr / Tina Crt
+13450943,Medal Lane / Arleta Ave
+13450919,Arleta Ave / Roughwood Crt
+13451262,Arleta Ave / John Lindsay Crt
+14203394,Dufferin St / Billy Bishop Way
+13453300,Katherine Rd / Garratt Blvd
+13453602,Wilson Ave / Garratt Blvd / Northgate Dr
+13453068,Plewes Rd / Garratt Blvd
+13452934,Gilley Rd / Garratt Blvd
+13453454,Wilson Ave / Lady York Ave
+13452614,Thistle Down Blvd
+13452256,Thistle Down Blvd / Dashwood Cres
+13452472,Thistle Down Blvd / Alhart Dr / Bridgenorth Cres
+13447223,Steeles Ave W / Norfinch Dr
+13447351,Hullmar Dr / Hisey Cres
+13447070,Steeles Ave W / Peter Kaiser Gt
+13447246,Hullmar Dr / Peter Kaiser Gt
+13455060,Clayson Rd / Bartor Rd
+20164824,Torbarrie Rd / Joseph Griffith Lane
+20145216,Torbarrie Rd / Judy Sgro Ave
+13450638,Ollerton Rd / Grandravine Dr
+13453245,Maniza Rd / Regent Rd
+13453005,Maniza Rd / Spalding Rd
+13452710,Home Rd / Ancaster Rd
+13452745,Maniza Rd / Gilley Rd
+13452613,Maniza Rd / Home Rd
+13452459,Maniza Rd / Powell Rd
+13451553,Sheppard Ave W / Sentinel Rd / Sunfield Park Trl
+13453476,Dufferin St / Anthony Rd
+13453281,Wilson Ave / Dufferin St
+13455140,Weston Rd / Flindon Rd
+13454960,Weston Rd / Sunset Trl
+13454738,Weston Rd / Aura Lea Blvd
+13454374,Weston Rd / Jubilee Cres
+13453992,Weston Rd / Burgundy Crt
+13455040,Wilson Ave / Jane St
+13451209,Sentinel Rd / Fredrick Mowat Lane
+13450753,Sentinel Rd / Dovehouse Ave
+13451959,Keele St / Diana Dr
+13451676,Keele St / Wycombe Rd / Downsview Park Trl
+13451388,Keele St / Sheppard Ave W / Downsview Park Trl
+13454642,Clayson Rd / Huxley Rd
+13453989,Clayson Rd / Bartor Rd
+13454821,Jane St / William Cragg Dr
+13454466,Jane St / Chalkfarm Dr / Heathrow Dr
+13454362,Datchet Rd / Heathrow Dr
+13453888,Jane St / Exbury Rd / Chalkfarm Dr
+13447680,The Pond Rd / Sentinel Rd / Scholars Walk
+20015401,Cook Rd / Sentinel Rd
+13444956,Steeles Ave W / Black Hawkway
+13444910,Steeles Ave W / Sea Hawkway
+13444817,Steeles Ave W / Torresdale Ave
+13454239,Avenue Rd / Woburn Ave
+13453553,Avenue Rd / Melrose Ave
+13453915,Avenue Rd / Fairlawn Ave
+20058480,The Pond Rd / Seneca Lane
+13448693,Finch Ave W / Romfield Lane
+13453505,Bathurst St / Brooke Ave
+13453312,Bathurst St / Neptune Dr
+13453081,Bathurst St / Hotspur Rd
+13449422,Sheppard Ave W / Don River Blvd
+13448570,Keele St / Finch Ave W
+13454555,Varna Dr / Leila Lane
+13454632,Varna Dr / Cather Cres
+13452437,Wilson Ave / Bathurst St
+13452342,Wilson Ave / Allard Ave
+13449194,Sheppard Ave W / Easton Rd
+13452219,Wilson Ave / Clyde Ave
+13453262,Avenue Rd / Old Orchard Grv
+13453753,Mount Pleasant Rd / Ranleigh Ave
+13453552,Mount Pleasant Rd / Bowood Ave
+13448065,Keele St / Murray Ross Pkwy
+13453045,Avenue Rd / Brooke Ave
+13452369,Avenue Rd / Carmichael Ave
+13452101,Wilson Ave / Ridley Blvd
+13452017,Avenue Rd / Wilson Ave / Avenue Rd N 401 C E Ramp
+13452638,Avenue Rd / Dunblaine Ave
+13449067,Sheppard Ave W / Senlac Rd
+13448953,Sheppard Ave W / Pewter Rd
+13454853,Avenue Rd / Caribou Rd
+13454662,Avenue Rd / Lawrence Ave W
+13446357,Steeles Ave W / Founders Rd
+14064208,The Chimneystack Rd / Ian Macdonald Blvd
+13455028,Flemington Rd / Varna Dr
+13454911,Varna Dr / Dorney Crt
+13451804,Faywood Blvd / Laurelcrest Ave
+13451454,Clanton Park Rd / Faywood Blvd
+13454680,Yonge St / Chatsworth Dr / St Edmund'S Dr
+13446884,Keele St / Canarctic Dr
+13447353,Keele St / The Pond Rd
+13446538,Keele St / The Chimneystack Rd
+13446781,Wildcat Rd / Canarctic Dr
+13446703,Petrolia Rd / Canarctic Dr
+13446223,Petrolia Rd / Limestone Cres
+13446042,Keele St / Steeles Ave W
+13445906,Steeles Ave W / Petrolia Rd
+13448492,Finch Ave W / Tangiers Rd
+13454664,Varna Dr / Cather Cres
+13454398,Ranee Ave / Mikado Ave
+13454301,Ranee Ave / Ameer Ave
+13454073,Sultana Ave / Ameer Ave
+13453964,Ameer Ave / Baycrest Ave
+13451137,Faywood Blvd / Joel Swirsky Blvd / Almore Ave
+13450506,Reiner Rd / Faywood Blvd
+13450743,Faywood Blvd / Bainbridge Ave
+13452263,Yonge Blvd / Harley Ave
+13452036,Yonge Blvd / Dunster Ave
+13452494,Yonge Blvd / Felbrigg Ave
+13452678,Ridley Blvd / Brooke Ave
+13453356,Yonge St / Fairlawn Ave
+13448651,Chesswood Dr / Vanley Cres
+13448440,Chesswood Dr / Champagne Dr
+13448130,Finch Ave W / Chesswood Dr
+13447951,Finch Ave W / Champagne Dr / Alness St
+13447212,Flint Rd / Martin Ross Ave
+13446838,Flint Rd / Supertest Rd
+13446464,Petrolia Rd / Wildcat Rd
+13447078,Brisbane Rd / Martin Ross Ave
+13447281,Brisbane Rd / Alness St
+13446969,Martin Ross Ave / Alness St
+13446259,Dolomite Dr / Alness St
+13451600,Bathurst St / Lyonsgate Dr
+13451751,Bathurst St / Edinburgh Dr
+13451358,Bathurst St / Laurelcrest Ave
+13450847,Bathurst St / York Downs Dr
+13450564,Bathurst St / Danby Ave
+13450069,Sheppard Ave W / Faywood Blvd / Wilmington Ave
+13454543,Lawrence Ave W / Elm Rd
+13446617,Supertest Rd / Alness St
+13448866,Dufferin St / Overbrook Pl / Steeprock Dr
+13448551,Dufferin St / Stanstead Dr
+13447779,Dufferin St / Finch Ave W
+13448597,Wilmington Ave / Overbrook Pl
+13448360,Wilmington Ave / Cavotti Cres
+13449931,Sheppard Ave W / Goddard St
+13449848,Sheppard Ave W / Harlock Blvd / Maxwell St
+13453893,Yonge St / Ranleigh Ave
+13453668,Yonge St / Cranbrooke Ave
+13447927,Wilmington Ave / Purdon Dr / Cedar Springs Grv
+13448129,Wilmington Ave / Blue Forest Dr
+13447550,Finch Ave W / Wilmington Ave
+13452897,Wilson Ave / Tippett Rd / Wilson Heights Blvd
+13452625,Wilson Heights Blvd / Goodwill Ave
+13452530,Faywood Blvd / Goodwill Ave
+13452200,Faywood Blvd / Faith Ave
+13449754,Sheppard Ave W / Yeomans Rd
+13449693,Sheppard Ave W / Hove St
+13450331,Bathurst St / Bainbridge Ave
+13450083,Bathurst St / Reiner Rd
+13449921,Bathurst St / Mcallister Rd
+13452847,Yonge St / Yonge Blvd / Yonge Boulevard Parkette Trl
+13453280,Mount Pleasant Rd / Glenforest Rd
+13452803,Glen Echo Rd / Mount Pleasant Rd
+13453049,Golfdale Rd / Mount Pleasant Rd
+13446837,Dufferin St / Martin Ross Ave / G Ross Lord Park Trl
+13446475,Dufferin St / Supertest Rd / G Ross Lord Park Trl
+13453267,Neptune Dr / Rajah St
+13453533,Wasdale Cres / Rajah St
+13453370,Neptune Dr / Wasdale Cres
+13453204,Hotspur Rd / Neptune Dr
+13454446,Lawrence Ave W / Greer Rd
+13454354,Lawrence Ave W / Jedburgh Rd / Duplex Ave
+13452740,Wilson Ave / Allingham Gdns
+13452576,Wilson Ave / 401 C W Wilson Av Ramp
+13449155,Bathurst St / Codsell Ave
+13449607,Bathurst St / Sheppard Ave W
+13448110,Driftwood Ave / Driftwood Crt
+13448262,Driftwood Ave / Cobbler Cres
+13452030,Bathurst St / Delhi Ave
+13454874,Bathurst St / Covington Rd
+13454644,Bathurst St / Woburn Ave
+13447205,Hullmar Dr / Wheelwright Cres
+13447218,Jane St / Hullmar Dr
+13446896,Jane St / Steeles Ave W / Black Creek
+13446751,Steeles Ave W / Murray Ross Pkwy
+13447313,The Pond Rd / Ian Macdonald Blvd / Arboretum Lane / Shoreham Dr
+13446937,Thompson Rd / Ian Macdonald Blvd
+13446219,Torresdale Ave / Antibes Dr
+13454343,Bathurst St / Prince Charles Dr
+13455026,Lawrence Ave W / Glen Rush Blvd
+13454002,Bathurst St / Melrose Ave
+13446566,Steeles Ave W / Northwest Gt
+13448751,Fountainhead Rd / Sentinel Rd
+13448931,Finch Ave W / Sentinel Rd
+13445817,Steeles Ave W / Shale Gt
+13445620,Steeles Ave W / Alness St
+13445966,Flint Rd / Alness St
+13445891,Magnetic Dr / Alness St
+14673438,Steeles Ave W / Gerry Fitzgerald Dr
+13446092,Dufferin St / Dolomite Dr
+14673411,Dufferin St / Gerry Fitzgerald Dr
+13445306,Dufferin St / Steeles Ave W
+13454875,Lawrence Ave W / Ledbury St
+13454748,Lawrence Ave W / Grey Rd / Kimbark Blvd
+13454457,Avenue Rd / Douglas Ave
+13451442,Avenue Rd / Bideford Ave / Bombay Ave / Avenue Rd S 401 C W Ramp
+13451886,Wilson Ave / Belgrave Ave
+13448413,Sentinel Rd / Murray Ross Pkwy
+20015388,Haynes Ave / Murray Ross Pkwy
+13445128,Steeles Ave W / Hidden Trl
+13447770,Bathurst St / Horsham Ave / Blue Flag Gt
+13447497,Bathurst St / Stafford Rd / Mascot Pl
+13447210,Finch Ave W / Torresdale Ave / Goldfinch Crt
+13447120,Finch Ave W / Virgilwood Dr
+13454307,Bayview Ave / Valleyanna Dr
+13453765,Lawrence Ave E / Mildenhall Rd
+13445363,Fairchild Ave / Drewry Ave
+13445250,Yonge St / Cummer Ave / Drewry Ave
+13444838,Yonge St / Patricia Ave
+13444504,Hilda Ave / Crossen Dr
+13444319,Green Bush Rd / Hilda Ave
+13444138,Steeles Ave W / Hilda Ave
+13444061,Steeles Ave W / Tangreen Crt
+13444543,Moore Park Ave / Fargo Ave
+13447758,Sheppard Ave E / Rean Dr / Hawksbury Dr
+13447653,Sheppard Ave E / Greenbriar Rd
+13453881,Lawrence Ave E / Bayview S Lawrence Ramp / Lawrence Bayview S Ramp
+30038161,Antibes Dr / Coneflower Cres
+13446410,Bathurst St / Kenton Dr
+13447250,Bathurst St / Kingsbridge Crt
+13446970,Bathurst St / Finch Ave W
+13444653,Yonge St / Centre Ave
+13444488,Yonge St / Pleasant Ave / Newton Dr
+13444082,Yonge St / Abitibi Ave
+13443870,Steeles Ave E / Yonge St / Steeles Ave W
+13443782,Steeles Ave E / Dumont St
+13448844,Sheppard Ave W / Bangor Rd
+13447323,Bayview Ave / Hollywood Ave / Foxwarren Dr
+13447057,Bayview Ave / Hillcrest Ave
+13446795,Bayview Ave / Empress Ave / Citation Dr
+13446562,Bayview Ave / Parkview Ave
+13446302,Bayview Ave / Mckee Ave
+13446100,Bayview Ave / Chiswell Cres
+13452469,Bayview Ave / Post Rd
+13452140,Bayview Ave / The Bridle Path
+13446864,Finch Ave W / Ancona St
+13446806,Finch Ave W / Endell St
+13446724,Finch Ave W / Clarkhill St
+13448244,Yonge St / Upper Madison Ave
+13448605,Sheppard Ave E / Doris Ave
+13451833,Yonge Blvd / Esgore Dr
+13451789,Wilson Ave / Yonge Blvd
+13450770,Yonge St / William Carson Cres
+13451896,Yonge St / Mill St
+13448067,Senlac Rd / Park Home Ave
+13447478,Senlac Rd / Churchill Ave
+13447728,Senlac Rd / Ellerslie Ave
+13448857,Senlac Rd / Elmhurst Ave
+13448636,Senlac Rd / Burnett Ave
+13443911,Willowdale Ave / Abitibi Ave
+13444119,Otonabee Ave / Willowdale Ave
+13443721,Steeles Ave E / Willowdale Ave
+13443657,Steeles Ave E / Lillian St
+13451259,York Mills Rd / York Ridge Rd
+13451157,York Mills Rd / Hedgewood Rd
+13445959,Finch Ave E / Dudley Ave
+13445882,Finch Ave E / Willowdale Ave
+13445655,Willowdale Ave / Bishop Ave
+13450581,Owen Blvd / Upper Highland Cres
+13450017,Yonge St / Lord Seaton Rd
+13447143,Senlac Rd / Hounslow Ave
+13446860,Senlac Rd / Lurgan Dr
+13446380,Hendon Ave / Grantbrook St
+13446625,Finch Ave W / Grantbrook St
+13446584,Finch Ave W / Senlac Rd
+13446163,Blake Ave / Grantbrook St
+13446513,Finch Ave W / Carney Rd
+13448501,Sheppard Ave E / Kenneth Ave / Leona Dr
+13445652,Finch Ave E / Hayes Lane / Maxome Ave
+13444841,Cummer Ave / Willow Heights Crt
+13448418,Sheppard Ave E / Dudley Ave
+13448917,Yonge St / Poyntz Ave
+13449877,Lord Seaton Rd / Upper Canada Dr
+13448338,Sheppard Ave E / Willowdale Ave
+13445145,Cummer Ave / Silverview Dr
+13445380,Willowdale Ave / Revcoe Dr
+13445267,Willowdale Ave / Silverview Dr / Newtonbrook Park Trl
+13449654,Upper Canada Dr / Oaken Gateway
+13450273,The Links Rd / Tournament Dr
+13449989,Lord Seaton Rd / The Links Rd
+13450215,Tournament Dr / Upper Highland Cres
+13446359,Finch Ave W / Talbot Rd
+13448115,Greenfield Ave / Willowdale Ave
+13448022,Willowdale Ave / Spring Garden Ave
+13447772,Hollywood Ave / Willowdale Ave
+13447625,Elmwood Ave / Willowdale Ave
+13447507,Willowdale Ave / Hillcrest Ave
+13444752,Maxome Ave / Cummer Ave
+13444658,Willowdale Ave / Northwood Dr
+13444463,Willowdale Ave / Centre Ave
+13444306,Willowdale Ave / Newton Dr
+13449377,Upper Canada Dr / Normandale Cres
+13449173,Fairmeadow Ave / Upper Canada Dr
+13451068,York Mills Rd / Highland Cres / Upper Highland Cres
+13450973,York Mills Rd / Cedarwood Ave
+13446218,Finch Ave W / Beecroft Rd / Greenview Ave
+13447144,Yonge St / Norton Ave
+13446936,Yonge St / Church Ave / Churchill Ave
+13446725,Yonge St / Horsham Ave / Northtown Way
+13445569,Finch Ave E / Estelle Ave
+13445813,Bayview Ave / Byng Ave
+13445687,Bayview Ave / Holmes Ave
+13445452,Finch Ave E / Bayview Ave / Revcoe Ravine / Don River E Branch
+13450870,York Mills Rd / Birchwood Ave
+13450773,York Mills Rd / Fenn Ave
+13451853,Bayview Ave / Country Lane
+13451543,Bayview Ave / Bayview Ridge
+13451275,Bayview Ave / Valley Rd
+14646572,Antibes Dr Torresdale Ave Ramp / Antibes Dr
+13445937,Antibes Dr / Plum Treeway
+13446504,Yonge St / Kempford Blvd
+13445027,Willowdale Ave / Cummer Ave
+13444823,Willowdale Ave / Wedgewood Dr
+13445797,Finch Ave E / Longmore St
+13445721,Finch Ave E / Wilfred Ave
+13450684,York Mills Rd / Glenridge Ave
+13450611,York Mills Rd / Bayview Ave
+13450910,Bayview Ave / York Rd / Wilket Rd
+13446031,Bathurst St / Drewry Ave / Antibes Dr
+13445659,Bathurst St / Cedarcroft Blvd / Patricia Ave
+13445431,Bathurst St / Rockford Rd / Dewlane Dr
+13445902,Drewry Ave / Marathon Cres
+13445799,Drewry Ave / Lister Dr
+13446040,Finch Ave E / Kenneth Ave / Doris Ave
+13454606,Mount Pleasant Rd / St Leonard'S Ave
+13454880,Mount Pleasant Rd / Glengowan Rd
+13448958,Lord Seaton Rd / Upper Canada Dr
+13449216,Toba Dr / Montressor Dr
+13449402,Fifeshire Rd / Toba Dr
+13449082,Montressor Dr / Troon Crt
+13448880,Fifeshire Rd / Carluke Cres
+13450012,Bayview Ave / Heathcote Ave
+13445005,Peckham Ave / Pleasant Ave
+13444656,Steeles Ave W / Carpenter Rd
+13444609,Bathurst St / Steeles Ave W
+13444801,Bathurst St / Greenwin Village Rd
+13444756,Greenwin Village Rd / Regatta Cres
+13444683,Greenwin Village Rd / Elise Ter
+13444596,Greenwin Village Rd / Village Gt
+13444464,Steeles Ave W / Village Gt
+13444497,Peckham Ave / Cactus Ave
+13444337,Steeles Ave W / Cactus Ave
+13445981,Charlton Blvd / Grantbrook St
+13447372,Willowdale Ave / Princess Ave
+13447240,Willowdale Ave / Empress Ave
+13447109,Kingsdale Ave / Willowdale Ave
+13446992,Willowdale Ave / Parkview Ave
+13446868,Willowdale Ave / Norton Ave
+13446622,Willowdale Ave / Church Ave
+13446272,Willowdale Ave / Byng Ave
+13446154,Willowdale Ave / Holmes Ave
+13454505,Mount Pleasant Rd / Dinnick Cres
+13454390,Mount Pleasant Rd / Lawrence Cres
+13449593,Bayview Ave / Fife Rd / Fifeshire Rd
+13449101,Bayview Ave / Forest Heights Blvd
+13445686,Drewry Ave / Grantbrook St
+13445619,Cactus Ave / Drewry Ave
+13445540,Drewry Ave / Norwin St
+13445370,Cactus Ave / Connaught Ave
+13445177,Homewood Ave / Cactus Ave
+13445047,Goulding Ave / Cactus Ave
+13444929,Cactus Ave / Pleasant Ave
+13448247,Sheppard Ave E / Longmore St
+13448166,Sheppard Ave E / Wilfred Ave
+13454100,Mount Pleasant Rd / Lawrence Ave E
+13454004,Lawrence Ave E / Ronan Ave
+13453919,Mount Pleasant Rd / Wanless Ave
+13453954,Lawrence Ave E / Wanless Cres
+13445427,Hilda Ave / Drewry Ave
+13448117,Sheppard Ave E / Calvin Ave
+13448037,Sheppard Ave E / Clairtrell Rd
+13447573,Bayview Ave / Spring Garden Ave
+13448784,Fifeshire Rd / Carluke Cres / Caldy Crt
+13448765,Bayview Ave / Fifeshire Rd / Truman Rd / Bayview N 401 C E Ramp
+13453863,Lawrence Ave E / Wanless Cres / Ww E Wanless N Lawrence
+13448217,Bathurst St / Ellerslie Ave / Carscadden Dr
+13467160,The Esplanade / Church St
+13444342,Cummer Ave / Snowcrest Ave
+13466914,Front St E / Farquhars Lane
+13467011,Lower Jarvis St / The Esplanade
+13467665,Queens Quay E / Lower Jarvis St
+13467437,Lake Shore Blvd E / Lower Jarvis St / Gardiner E Lower Jarvis Ramp / Lakeshore W Gardiner
+13467067,Lake Shore Blvd E / Parliament St / Martin Goodman Trl
+13467444,Commissioners St / Cherry St / Martin Goodman Trl
+13444193,Cummer Ave / Snowcrest Ave / Beardmore Cres
+13467182,Villiers St / Cherry St / Martin Goodman Trl
+13443490,Steeles Ave E / Maxome Ave
+13443354,Steeles Ave E / Conacher Dr
+13467311,Lake Shore Blvd E / Lower Sherbourne St
+13466962,The Esplanade / George St S
+13467736,Polson St / Cherry St
+13468233,Unwin Ave / Cherry St
+13467269,Munition St / Commissioners St
+13443242,Steeles Ave E / Bayview Ave
+13443144,Steeles Ave E / Tarbert Rd
+13467485,Queens Quay E / Lower Sherbourne St
+13465784,King St E / Sumach St
+13443021,Steeles Ave E / Laureleaf Rd S
+13466878,Commissioners St / Don Roadway
+13466560,Mill St / Trinity St
+13466454,Mill St / Cherry St
+13442971,Steeles Ave E / Bestview Dr
+13465571,Queen St E / Sumach St
+13466312,Richmond St E / Church St
+13466199,Queen St E / Church St
+13466729,King St E / Church St
+13466516,Adelaide St E / Church St
+13466630,King St E / Jarvis St
+13466488,Jarvis St / Jarvis St Adelaide St E Ramp
+13466240,Front St E / Cherry St
+13466245,Richmond St E / Jarvis St Richmond St E Ramp
+13466110,Queen St E / Jarvis St
+13466321,Jarvis St / Lombard St
+13466440,Adelaide St E / George St
+13465975,King St E / Sackville St
+13465671,Dundas St E / Church St
+13465569,Dundas St E / Jarvis St
+13465366,Dundas St E / Sherbourne St
+13466482,King St E / Sherbourne St
+13466844,The Esplanade / Lower Sherbourne St
+13466801,The Esplanade / Princess St
+14036494,Princess St / Nicholson Lane
+13466633,Front St E / Sherbourne St / Lower Sherbourne St
+13466341,Adelaide St E / Sherbourne St
+13466150,Richmond St E / Sherbourne St
+13466300,Adelaide St E / Princess St
+13466404,King St E / Ontario St
+13466475,Front St E / Berkeley St
+13466668,The Esplanade / Hahn Pl / Berkeley St
+30029405,Gristmill Lane / Parliament St
+13467752,Lake Shore Blvd E / Yonge St / Harbour St
+13466427,Front St E / Parliament St
+13466241,King St E / Parliament St
+13466117,Adelaide St E / Parliament St
+14243510,King St E / Pemberton St
+13465979,Queen St E / Sherbourne St
+13465715,Sherbourne St / Shuter St / Moss Park Trl
+13465894,Queen St E / Ontario St
+13445078,Bayview Ave / Ruddington Dr
+13445359,Finch Ave E / Gaspe Rd / Watergarden Way
+13467923,Queens Quay E / Yonge St / Queens Quay W / Martin Goodman Trl
+13467854,Queens Quay E / Freeland St
+13465269,Dundas St E / Ontario St
+13445290,Finch Ave E / Tollerton Ave / Heathview Ave
+13445232,Finch Ave E / Page Ave
+13444630,Cummer Ave / Conacher Dr
+13467239,Yonge St / Front St E / Front St W
+13465959,Richmond St E / Parliament St
+13465795,Queen St E / Parliament St
+13465673,Queen St E / Sackville St
+13465567,Shuter St / Parliament St
+13444673,Bayview Ave / Risebrough Ave
+13444532,Bayview Ave / Cummer Ave
+13444298,Bayview Ave / Ruth Ave / Argonne Cres
+13444434,Cummer Ave / Ruddington Dr
+13444072,Bayview Ave / Brenham Cres
+13443615,Bayview Ave / Clearcrest Ave
+13443696,Bayview Ave / Newton Dr / Garnier Crt
+13464520,Carlton St / Ontario St
+13464096,Jarvis St / Wellesley St E
+13463892,Gerrard St E / Logan Ave
+13463522,Victor Ave / Carlaw Ave
+13463693,Sherbourne St / Earl St
+13463953,Wellesley St E / Sherbourne St
+13463868,Wellesley St E / Ontario St
+13465478,Queen St E / River St
+13465179,Dundas St E / Parliament St
+20235156,Oak St / Parliament St
+13464965,Dundas St E / Sumach St
+13464879,Dundas St E / River St
+13464490,Gerrard St E / River St
+13462704,Broadview Ave / Wolfrey Ave
+13463447,Broadview Ave / Withrow Ave
+13463084,Broadview Ave / Millbrook Cres
+13464785,Gerrard St E / Parliament St
+13463245,Riverdale Ave / Carlaw Ave
+13465313,Queen St E / Carroll St
+13465058,Dundas St E / Sackville St
+13462518,Pape Ave / Wroxeter Ave
+13462117,Pape Ave / Harcourt Ave
+13464667,Gerrard St E / Sackville St
+13464586,Gerrard St E / Sumach St
+13464154,Winchester St / Parliament St
+13464403,Carlton St / Parliament St
+13464720,Dundas St E / Munro St
+13463777,Wellesley St E / Parliament St
+13464269,Gerrard St E
+30104484,Cummer Ave / Becky Cheung Crt
+13465231,Queen St E / Broadview Ave
+13464177,Gerrard St E / Broadview Ave
+13463801,Broadview Ave / Langley Ave
+30036276,Broadview Ave / Bridgepoint Dr
+13464821,Carlton St / Church St
+13464719,Carlton St / Jarvis St
+13463124,Bloor St E / Parliament St
+13462748,Sherbourne St N / Rachael St
+13462628,Maple Ave / Elm Ave / Sherbourne St N
+13462647,Glen Rd / Maple Ave
+13462445,Glen Rd / Elm Ave
+13462223,Crescent Rd / South Dr
+13462162,Glen Rd / South Dr
+13464658,Dundas St E / Broadview Ave
+13464398,Broadview Ave / Mountstephen St
+13463389,St James Ave / Parliament St
+13465109,Queen St E / Boulton Ave / Woodgreen Pl
+13465017,Queen St E / Empire Ave
+13464912,Gerrard St E / Sherbourne St
+13464004,Gerrard St E / De Grassi St
+13464607,Sherbourne St / Carlton St
+13462887,Boultbee Ave / Jones Ave
+13465276,Eastern Ave / Carlaw Ave
+13465837,Lake Shore Blvd E / Carlaw Ave
+13465194,Pape Ave / Eastern Ave
+13462203,Strathcona Ave / Jones Ave
+13462504,Shudell Ave / Jones Ave
+20235330,Lake Shore Blvd E / Winners Crcl
+13465538,Leslie St / Commissioners St / Martin Goodman Trl
+13463372,Gerrard St E / Leslie St
+13463279,Gerrard St E / Alton Ave
+13463420,Athletic Ave / Greenwood Ave
+13463183,Gerrard St E / Greenwood Ave
+13463082,Highfield Rd / Gerrard St E
+13462774,Greenwood Ave / Ivy Ave
+13463787,Kingston Rd / Queen St E / Eastern Ave
+13464948,Queen St E / Logan Ave
+13464855,Queen St E / Carlaw Ave
+13462283,Torbrick Rd / Greenwood Ave
+13461975,Felstead Ave / Greenwood Ave
+13464662,Colgate Ave / Carlaw Ave
+13464771,Queen St E / Pape Ave
+13464709,Queen St E / Winnifred Ave
+13460349,Bayview Ave
+13464254,Dundas St E / Carlaw Ave
+13464027,Carlaw Ave / Badgerow Ave
+13463652,Lockwood Rd / Queen St E / Sarah Ashbridge Ave
+13462953,Gerrard St E / Ashdale Ave
+13463317,Coxwell Ave / Robbins Ave
+13458913,Brendan Rd / Moore Ave
+13458810,Moore Ave / Lumley Ave
+13458728,Moore Ave / Orchard Grn
+13458625,Bayview Ave / Moore Ave
+13458292,Bayview Ave / Sutherland Dr
+13463796,Gerrard St E / Carlaw Ave
+13463705,Gerrard St E / Pape Ave
+13464539,Eastern Ave / Minto St
+13462844,Eastwood Rd / Gerrard St E / Coxwell Ave
+13462225,Casci Ave / Coxwell Ave
+13464003,Dundas St E / Jones Ave
+13463573,Gerrard St E / Marjory Ave
+13464179,Queen St E / Connaught Ave
+13462427,Gerrard St E / Fairford Ave / Coxwell Ave
+13462284,Gerrard St E / Beaton Ave / Fairmount Park Trl
+13463743,Jones Ave / Sproat Ave
+13464758,Eastern Ave / Leslie St
+13464067,Queen St E / Woodward Ave
+13459122,Bayview Ave / Nesbitt Dr
+13464614,Queen St E / Berkshire Ave
+13463942,Queen St E / Coxwell Ave
+13463537,Dundas St E / Coxwell Ave
+13463293,Kingston Rd / Dundas St E / Dixon Ave
+13463058,Kingston Rd / Columbine Ave
+13462824,Kingston Rd / Rainsford Rd
+13462931,Woodbine Ave / Norway Ave
+13462643,Kingston Rd / Woodbine Ave
+13464498,Queen St E / Leslie St
+13465121,Lake Shore Blvd E / Leslie St
+13461912,Bowmore Rd / Gerrard St E
+13462196,Woodbine Ave / Eastwood Rd / Corley Ave
+13464374,Queen St E / Laing St
+13464606,Eastern Ave / Knox Ave
+13461733,Woodbine Ave / Cassels Ave
+13461382,Scholfield Ave / Highland Ave / Roxborough Dr
+13461118,Scholfield Ave / Maclennan Ave / Edgar Ave
+13461553,Glen Rd / Highland Ave
+13461129,Glen Rd / Whitney Ave
+13464286,Queen St E / Greenwood Ave
+13463995,Greenwood Ave / Dorothy St
+13463771,Dundas St E / Greenwood Ave
+13460816,Whitehall Rd / Maclennan Ave
+13466690,Saulter St S / Commissioners St
+13466520,Bouchette St / Commissioners St
+13466351,Logan Ave / Commissioners St
+13466194,Carlaw Ave / Commissioners St
+13463166,Riverdale Ave / Pape Ave
+13462891,Pape Ave / Bain Ave
+13460752,Glen Rd / Douglas Dr
+13460540,Summerhill Ave / Jean St
+13460415,Douglas Dr
+13463111,Myrtle Ave / Jones Ave
+13463478,Gerrard St E / Jones Ave
+13445680,Progress Ave / Production Dr
+13445657,Progress Ave / Estate Dr
+13445576,Progress Ave / Estate Dr
+13445553,Markham Rd / Progress Ave
+13443575,Brimley Rd / Huntingwood Dr
+13448268,Midland Ave / Millbridge Gt
+13442071,Steeles Ave E / Firebrace Rd
+13444958,Milner Ave / Mid-Dominion Acres / Executive Crt
+13444674,Scunthorpe Rd / Milner Ave
+13444590,Markham Rd / Milner Ave
+13503859,Progress Ave / Milner Business Crt
+13444498,Milner Ave / Progress Ave
+13444473,Milner Ave / 380 Milner Ave
+13444330,Sheppard Ave E / Shorting Rd
+13447419,Ellesmere Rd / Oakley Blvd
+13447325,Ellesmere Rd / Birkdale Rd
+13442145,Warden Ave / Bamburgh Crcl
+20195197,Stonebridge Blvd / Mcnicoll Ave
+13443022,Warden Ave / Glen Springs Dr
+13443314,Warden Ave / Bridletowne Crcl
+13442867,Warden Ave / Mcnicoll Ave
+13442771,Innislawn Rd / Mcnicoll Ave
+13444211,Sheppard Ave E / Massie St
+13443768,Shorting Rd / Nugget Ave
+13443713,Nugget Ave / Dovedale Crt
+13443565,Nugget Ave / Transfer Pl
+13447415,Brimley Rd / Applefield Dr / Bernadine St
+13447139,Ellesmere Rd / Brimley Rd
+13448311,Brimley Rd / St Andrews Rd / Applefield Dr
+13447880,Brimley Rd / Waterfield Dr / Brimorton Dr
+13444135,Sheppard Ave E / Scunthorpe Rd
+13444062,Markham Rd / Sheppard Ave E
+13503897,Progress Ave / Rosebank Dr
+13443033,Birchmount Rd / Brookmill Blvd
+13443955,Sheppard Ave E / Progress Ave / Malvern St
+13443825,Markham Rd / Verne Cres
+13443499,Markham Rd / Mclevin Ave / Nugget Ave
+13443353,Mclevin Ave / Malvern St
+20146478,Progress Ave / Schick Crt
+13446880,Brimley Rd / Omni Dr / Golden Gate Crt
+13446436,Brimley Rd / Progress Ave
+13446635,Triton Rd / Borough Dr
+13447015,Ellesmere Rd / Packard Blvd
+13446954,Ellesmere Rd / Borough Approach E
+13442651,Birchmount Rd / Mcnicoll Ave
+13442499,Birchmount Rd / Fundy Bay Blvd / Ivy Bush Ave
+13442802,Birchmount Rd / Staley Ter
+13443403,Leslie St / Mcnicoll Ave / Cummer Ave
+13443062,Leslie St / Francine Dr
+13442811,Steeles Ave E / Bluffwood Dr
+13442747,Steeles Ave E / Leslie St / Duncan Creek Trl
+13442696,Steeles Ave E / Paul Markway
+13443228,Myers Lane / Mcnicoll Ave
+13446898,Ellesmere Rd / Saratoga Dr
+13446271,Mccowan Rd / Progress Ave / Bushby Dr Mccowan N Ramp
+13442607,Mcnicoll Ave / Morbank Dr
+13443215,Mcnicoll Ave / Michael Dr
+13443340,Clansman Blvd / Mcnicoll Ave
+13448439,Mccowan Rd / Bellechasse St
+13448102,Mccowan Rd / Meldazy Dr
+13447827,Mccowan Rd / Brimorton Dr
+13447337,Mccowan Rd / Huronia Gt
+13442549,Silver Springs Blvd / Mcnicoll Ave
+13442440,Warden Ave / Bamburgh Crcl
+13442637,Steeles Ave E / Aspenwood Dr
+13442557,Steeles Ave E / Edgar Woods Rd
+13442003,Steeles Ave E / Warden Ave
+13441950,Steeles Ave E / Mountcastle Gt
+13442052,Wintermute Blvd / River Grove Dr
+13443256,Don Mills Rd / Mogul Dr
+13443039,Don Mills Rd / Cliffwood Rd
+13448471,Bellamy Rd N / Painted Post Dr
+13448088,Bellamy Rd N / Benleigh Dr
+13442848,Don Mills Rd / Cliffwood Rd
+13442682,Don Mills Rd / Freshmeadow Dr
+13443349,Mcnicoll Ave / Hines Dr / Picola Crt
+13447492,Bellamy Rd N / Brimorton Dr
+13447195,Bellamy Rd N / Northleigh Dr
+13446827,Ellesmere Rd / Mccowan Rd
+13443031,Tempo Ave / Harold Evans Cres
+13442850,Gordon Baker Rd / Sparks Ave
+13446642,Ellesmere Rd / Parkington Cres
+13446221,Progress Ave / Grangeway Ave / Consilium Pl
+13445842,Consilium Pl / Corporate Dr
+13445760,Progress Ave / Bellamy Rd N / Corporate Dr
+13446726,Amberjack Blvd / Bellamy Rd N / Lynnbrook Dr
+13446514,Ellesmere Rd / Bellamy Rd N
+13442139,Birchmount Rd / Sanwood Blvd / Wintermute Blvd
+13442528,Don Mills Rd / Steeles Ave E
+13442457,Steeles Ave E / Townsend Rd / Steeles Av E 404 S Ramp
+13446304,Ellesmere Rd / Dolly Varden Blvd
+13445692,Brimley Rd / Grittani Lane
+13445414,Brimley Rd / Pitfield Rd
+13444901,Brimley Rd / Sheppard Ave E
+13442279,Steeles Ave E / 404 Steeles Woodbine Ramp / Woodbine S 404 S Ramp
+13443156,Mcnicoll Ave / Harold Evans Cres / Placer Crt
+13443090,Victoria Park Ave / Mcnicoll Ave
+13442693,Victoria Park Ave / Sparks Ave
+13442540,Victoria Park Ave / Gordon Baker Rd
+13442882,Victoria Park Ave / Tempo Ave
+13443298,Chester Le Blvd / Beverly Glen Blvd / Pharmacy Ave
+13443081,Mcnicoll Ave / Pharmacy Ave
+13442983,Eagle Point Rd / Mcnicoll Ave
+13442801,Arnall Ave / Pharmacy Ave
+13444715,Sheppard Ave E / Brownspring Rd
+13445175,Mccowan Rd / Milner Ave / Channel Nine Crt
+13445484,Mccowan Rd / 401 C W Mccowan Rd S Ramp
+13444903,Mccowan Rd / Pitfield Rd / Invergordon Ave
+13444619,Mccowan Rd / Sheppard Ave E
+13441903,Birchmount Rd / Steeles Ave E
+13441856,Steeles Ave E / Kelvin Grove Ave
+13441814,Kennedy Rd / Steeles Ave E
+13442179,Steeles Ave E / Victoria Park Ave
+13443944,Commander Blvd / North Wind Pl
+13443617,Commander Blvd / Huntingwood Dr
+13443810,Mccowan Rd / Commander Blvd
+13443525,Mccowan Rd / Middlefield Rd / Huntingwood Dr
+13444313,Mccowan Rd / Nugget Ave
+13443052,Kennedy Rd / Trojan Gt
+13442938,Kennedy Rd / Dancy Ave
+13442443,Gordon Baker Rd / Glendinning Ave / Pharmacy Ave
+13442123,Steeles Ave E / Pharmacy Ave
+13445715,Lee Centre Dr / Corporate Dr
+13452594,Calico Dr / Giltspur Dr / Chateau Crt
+13441620,Markham Rd / Steeles Ave E
+13441649,Mccowan Rd / Steeles Ave E
+13441958,Zoo Rd / Kirkhams Rd / Kirkhams Rd Zoo Rd Ramp
+13447055,Consumers Rd / Hallcrown Pl
+13446996,Victoria Park Ave / Consumers Rd / Meadowacres Dr
+13446551,Sheppard Ave E / Victoria Park Ave
+13446777,Victoria Park Ave / Esquire Rd
+13443374,Birchmount Rd / Silver Springs Blvd / L'Amoreaux Dr / West Highland Creek
+13454288,Victoria Park Ave / Eglinton Sq / O'Connor Dr
+13454107,Eglinton Ave E / Victoria Park Ave
+13450394,Warden Ave / Boem Ave
+13450708,Lawrence Ave E / Crockford Blvd
+13450686,Lawrence Ave E / Ellington Dr
+13446226,Victoria Park Ave / Patrick Blvd
+13446472,Sheppard Ave E / Commons Dr
+13446373,Sheppard Ave E / Pharmacy Ave
+13454774,Victoria Park Ave / Sunrise Ave
+13453844,Victoria Park Ave / Craigton Dr / Jonesville Cres
+13453395,Victoria Park Ave / Biscayne Blvd
+13453978,Eglinton Ave E / Pharmacy Ave
+13453748,Pharmacy Ave / Craigton Dr
+13453611,Craigton Dr / Rannock St
+13453414,Pharmacy Ave / Rannock St
+13449824,Warden Ave / Manhattan Dr
+13449474,Warden Ave / Tower Dr
+13446293,Sheppard Ave E / Bridlewood Blvd
+13454516,Pharmacy Ave / Sundridge Dr
+13454295,Alvinston Rd / Pharmacy Ave
+14074105,Eglinton Ave E / Lebovic Ave / Hakimi Ave
+13453008,Victoria Park Ave / Arncliffe Cres
+13453073,Biscayne Blvd / Pharmacy Ave
+13449240,Warden Ave / Murray Glen Dr
+13449086,Warden Ave / Ellington Dr
+13502718,Warden Ave / Canadian Rd
+13446434,Warden Ave / Cass Ave / Palmdale Dr
+13446075,Sheppard Ave E / Warden Ave
+13452605,Elm Bank Rd / Pharmacy Ave
+13452130,Pharmacy Ave / Surrey Ave
+13452336,Pharmacy Ave / Innismore Cres
+13448955,Birchmount Rd / Ellendale Dr
+13448775,Birchmount Rd / Burcana Rd
+13451550,Birchmount Rd / Crouse Rd
+13451335,Birchmount Rd / Flora Dr
+13451008,Birchmount Rd / Modern Rd
+13453141,Warden Ave / Ashtonbee Rd
+13452791,Warden Ave / Bertrand Ave
+13454124,Kennedy Rd / Foxridge Dr
+13448645,York Mills Rd / Fenside Dr
+13448483,Fenside Dr / Lynedock Cres
+13448553,York Mills Rd / Parkwoods Village Dr
+13448399,Climans Rd / Lynedock Cres
+13448286,Fenside Dr / Slidell Cres
+13447991,Roywood Dr / Fenside Dr
+13447959,Roywood Dr / Fortrose Cres
+13447917,Roywood Dr / Fortrose Cres
+13445139,Van Horne Ave / Edmonton Dr
+13445162,Margaret Ave / Brian Dr
+13444966,Van Horne Ave / Brian Dr
+13445404,Brian Dr / Pleasant View Dr
+13445430,Victoria Park Ave / Altair Ave
+13450586,Lawrence Ave E / Howden Rd / Underwriters Rd
+13450484,Birchmount Rd / Lawrence Ave E
+13450349,Birchmount Rd / Dulverton Rd
+13450391,Lawrence Ave E / Canlish Rd
+13446900,Yorkland Blvd
+13444861,Clipper Rd / Taverly Rd / Van Horne Ave
+13444794,Victoria Park Ave / Van Horne Ave / Ferncrest Gt
+13445256,Victoria Park Ave / Pleasant View Dr
+13444260,Finch Ave E / Cherokee Blvd
+13452167,Warden Ave / Minford Ave
+13451755,Warden Ave / Walbon Rd
+13449786,Kennedy Rd / Cornwallis Dr
+13449592,Kennedy Rd / Wickware Gt
+30013028,Sheppard Ave E / Herons Hill Way
+13454488,Warden Ave / Comstock Rd
+13454270,Warden Ave / Sherry Rd
+13453588,Eglinton Ave E / Warden Ave
+13453473,Eglinton Ave E / Prudham Gt
+13453325,Eglinton Ave E / Thermos Rd
+13453302,Eglinton Ave E / Sinnott Rd
+13447122,Consumers Rd / Yorkland Blvd
+13446581,Sheppard Ave E / Consumers Rd / Brian Dr
+13446629,Sheppard Ave E / Settlers Rd / Hickorynut Parkette Trl
+13443440,Victoria Park Ave / Navaho Dr
+13444318,Finch Ave E / Victoria Park Ave
+13444479,Victoria Park Ave / Ernest Ave
+13444341,Corinthian Blvd / Pinemeadow Blvd / Pharmacy Ave
+13454195,Comstock Rd / Birchmount Rd
+13454439,Birchmount Rd / Foxridge Dr
+13453971,Chelwood Rd / Birchmount Rd
+13453581,Bonniewood Rd / Birchmount Rd
+13451299,Kennedy Rd / Ranstone Gdns / Jack Goodlad Park Trl
+13450334,Kennedy Rd / Flora Dr
+13450163,Kennedy Rd / Lawrence Ave E
+13450676,Kennedy Rd / Radnor Ave
+13445899,Victoria Park Ave / Old Sheppard Ave / Huntingwood Dr
+13448433,York Mills Rd / Rayoak Dr
+13448168,Roywood Dr / Lynedock Cres
+13448105,Victoria Park Ave / Terraview Blvd / Farm Greenway
+13448310,Victoria Park Ave / York Mills Rd
+13444158,Finch Ave E / Pharmacy Ave
+13443978,Victoria Park Ave / Hare Gt
+13443726,Victoria Park Ave / Pawnee Ave / Morecambe Gt
+13443916,Chester Le Blvd / Huntingdale Blvd / Pharmacy Ave
+13449279,Kennedy Rd / Forbes Rd
+13449009,Kennedy Rd / Shropshire Dr
+13448718,Kennedy Rd / Munham Gt
+13454396,Kennedy Rd / Summer Dr
+13445805,Fairglen Ave / Huntingwood Dr
+13445713,Pharmacy Ave / Huntingwood Dr
+13445277,Pharmacy Ave / Rosscowan Gt
+13445622,Huntingwood Dr / Batterswood Dr
+13444748,Collingsbrook Blvd / Corinthian Blvd / Pharmacy Ave
+13452416,Birchmount Rd / Bertrand Ave
+13453613,Kennedy Rd / Merrian Rd
+13453966,Kennedy Rd / Corvette Ave
+13454523,Danforth Rd / Linden Ave
+13448271,Pachino Blvd / Pharmacy Ave
+13448059,Penworth Rd / Pharmacy Ave
+13448600,Pharmacy Ave / Christina Cres
+13445371,Huntingwood Dr / Ridgecrest Dr
+13445317,Bridlewood Blvd / Huntingwood Dr
+13445257,Warden Ave / Huntingwood Dr
+13445784,Warden Ave / Bowater Dr
+13451881,Birchmount Rd / Ranstone Gdns
+13453221,Birchmount Rd / Eglinton Ave E
+13452801,Birchmount Rd / Ashtonbee Rd / Massey Creek
+13449811,Birchmount Rd / Merryfield Dr
+13449405,Birchmount Rd / Exford Dr
+13448094,Reddins Rd / Crosland Dr
+13447984,Penworth Rd / Crosland Dr
+13445160,Davisbrook Blvd / Huntingwood Dr
+13444732,Dunmurray Blvd / Huntingwood Dr
+13453093,Eglinton Ave E / Rosemount Dr
+13453001,Eglinton Ave E / Ionview Rd
+13444159,Don Mills Rd / Skymark Dr
+13443592,Mcnicoll Ave / Brahms Ave
+13443581,Bedle Ave / Mcnicoll Ave
+13443957,Don Mills Rd / Premier Davis Blvd
+13443773,Don Mills Rd / Bedle Ave
+13443573,Don Mills Rd / Mcnicoll Ave / Mcnicoll Park Trl
+13452055,Kennedy Rd / Bertrand Ave
+13451714,Sherwood Ave / Pharmacy Ave
+13451430,Janet Blvd / Pharmacy Ave
+13451212,Lawrence Ave E / Pharmacy Ave
+13451090,Lawrence Ave E / Wexford Blvd
+13444278,Finch Ave E / Au Large Blvd / Finch E 404 S Ramp / Seneca Hill Dr
+13443528,Mcnicoll Ave / Mogul Dr
+13443970,Finch Ave E / Bridletowne Crcl
+13443837,Finch Ave E / Warden Ave
+13444409,Warden Ave / Bridletowne Crcl
+13450935,Lawrence Ave E / Wayne Ave
+13450728,Brian Ave / Pharmacy Ave
+13451351,Warden Ave / Sherwood Ave
+13448496,Fenelon Dr / Underpass Gt
+13448397,Roywood Dr / Underpass Gt
+13448216,Roywood Dr / Marbury Cres
+13443752,Finch Ave E / Bridletowne Crcl
+13451128,Warden Ave / Danube Dr / Frey Cres
+13450818,Lawrence Ave E / Warden Ave
+14252616,Staines Rd / Knowles Dr / Siskin Ter / Sisken Trail Park Trl
+14252748,Staines Rd / Warbler Crcl
+14249113,Staines Rd / Seasons Dr
+14634930,Staines Rd / Hepatica St
+14642975,Staines Rd / Rivendell Trl
+14630494,Staines Rd / Solstice Dr
+14630490,Staines Rd / Quietbrook Cres / Mac Frost Way
+13443728,East Ave / Kirkdene Dr / Kirkdene Park Trl
+13444054,Fanfare Ave / East Ave
+13443453,Island Rd
+13441963,Morningside Ave / Old Finch Ave
+14630472,Steeles Ave E / Staines Rd
+13443365,Island Rd / East Ave
+13442793,Wickson Trl / John Tabor Trl / Brenyon Way
+13441850,Littles Rd / Old Finch Ave / Wandering Trl
+13441836,Old Finch Ave / Valley Centre Dr
+13441830,Bingley Rd / Old Finch Ave / Kengate Dr
+13441815,Old Finch Ave / Morningview Trl / Valley Centre Dr
+13445621,Port Union Rd / Lawrence Ave E
+13444502,Starspray Blvd / Lawrence Ave E
+13442749,Brenyon Way / 200 Brenyon Way
+13442496,Sewell'S Rd / Alford Cres
+13442384,Sewell'S Rd / Mclevin Ave
+13447414,Shoreham Dr / Murray Ross Pkwy
+13442447,Mclevin Ave / Empringham Dr
+13444922,Clyde Rd / Lawson Rd
+13444804,Irvine Rd / Lawson Rd
+13442559,Mclevin Ave / John Tabor Trl / Fawcett Trl
+13442992,Sheppard Ave E / Grand Marshall Dr / Water Tower Gt
+13442883,Sheppard Ave E / Conlins Rd
+13444753,Lawson Rd / Cedarview Dr
+13444671,Centennial Rd / Lawson Rd
+13444584,Lawson Rd / Brumwell St
+13443040,Greenspire Rd / Mclevin Ave
+13443002,Mclevin Ave / Shepmore Ter
+13443223,Mammoth Hall Trl / Berner Trl / Washburn Way
+13443095,Sheppard Ave E / Morningside Ave
+13442514,Morningside Ave / Mclevin Ave / Casebridge Crt
+13444466,Lawson Rd / Wichey Rd
+13443902,Ellesmere Rd / Muirbank Blvd
+13443083,Nahanni Ter / Washburn Way
+13442839,Tapscott Rd / Mclevin Ave
+13442903,Tapscott Rd / Washburn Way
+13442631,Tapscott Rd / Crow Trl
+13442563,Whiteleas Ave / Carrying Pl / Crow Trl
+13442414,Crow Trl / Tunmead Sq
+13442271,Sewell'S Rd / Empringham Dr
+13442597,Sheppard Ave E / Idagrove Gt
+13442623,Meadowvale Rd / Rotary Dr
+13443828,Ellesmere Rd
+13442142,Sewell'S Rd / Hupfield Trl / Fawcett Trl
+13442196,Morningside Ave / Morningview Trl / John Stoner Dr
+13442803,Sheppard Ave E / Rouge River Dr
+14660468,Sheppard Ave E / Ecopark Gt / Kingbird Grv
+13442796,Tapscott Rd / Blackwell Ave
+13442005,Morningside Ave / Halfway Ave
+13442063,Sewell'S Rd / Morningside Ave
+13443108,Neilson Rd / Wickson Trl / Berner Trl
+13442915,Neilson Rd / Silverbell Grv
+13442522,Neilson Rd / Mclevin Ave
+13442402,Mclevin Ave / Prosperity Ptwy
+13442715,Neilson Rd / Sewell'S Rd / Tapscott Rd
+13442606,Sewell'S Rd / Brenyon Way
+13441897,Old Finch Ave / Baffin Crt
+13442521,Sheppard Ave E / Meadowvale Rd
+13442393,Mclevin Ave / Pennyhill Dr
+13442218,Baldoon Rd / Crow Trl
+13442126,Baldoon Rd / Finch Ave E
+13442204,Mcginty Pl / Crow Trl
+13442276,Neilson Rd / Crow Trl / Neilson Park Trl
+13442136,Littles Rd / Morningview Trl / Gennela Sq
+13442679,Sheppard Ave E / Dean Park Rd / Rouge River Dr
+13443640,Island Rd / Port Union Rd / Port Union N 401 C E Ramp / 2A E Port Union S Ramp
+13443303,Kingston Rd / Port Union Rd / Sheppard Ave E
+14184384,Neilson Rd / Neilson Park Dr
+13442037,Finchdene Sq
+13442021,Littles Rd / Birrell Ave
+13442070,Littles Rd / Grayson Cres
+13441944,Sewell'S Rd / Littles Rd
+13442019,Morningview Trl / Rangeley Dr
+13441904,Sewell'S Rd / Morningview Trl
+14256135,Neilson Rd / Nightstar Rd / Morningside Ave
+13446051,Lawrence Ave E / Cherryhill Ave / Bathgate Dr
+13445421,Adenmore Rd / Port Union Rd / Clappison Blvd
+13442074,Neilson Rd / Finch Ave E
+14184392,Finch Ave E / Blackbird Gt
+13442254,Hupfield Trl / Horseshoe Cres
+14249637,Nightstar Rd / Wharnsby Dr / Nightstar Park Trl
+20054828,Nightstar Rd / Pogonia St
+13445921,Centennial Rd / Lawrence Ave E
+13444943,East Ave / Maberley Cres
+13444818,Port Union Rd / Conference Blvd
+13444589,Port Union Rd / Ravine Park Cres
+13444382,Port Union Rd / Lawson Rd / Fanfare Ave
+13444651,East Ave / Mastwood Cres / East Willow Gt
+13444364,East Ave / Clark Secor Pl / Tudor Glen Cres
+13499223,Lawrence Ave E / Marine Approach Dr / Brimforest Gt
+13445495,Lawrence Ave E / East Ave
+13442113,Hupfield Trl / Lady Bower Cres
+14244366,Nightstar Rd / Cranberry Dr
+13445741,Charlottetown Blvd / Lawrence Ave E / Bridgeport Dr
+13445220,East Ave / Wheeling Dr
+14606950,Staines Rd / Finch Ave E / Morningside Ave
+13442068,Hupfield Trl / Courtlands Dr
+14248958,Seasons Dr / Grosbeak Cres
+14249068,Seasons Dr / Canoe Cres
+14249609,Staines Rd / Mantis Rd / Chicory Lane
+14248133,Mantis Rd / Poppy Pl / Dragonfly Cres
+14252582,Staines Rd / Point Rouge Trl
+30022876,Lawrence Ave E / Stotts Ter
+13443860,Neilson Rd / 401 C W Neilson Rd Ramp / Neilson Rd S 401 C W Ramp
+13443509,Sheppard Ave E / Neilson Rd
+13446613,Kingston Rd / Collinsgrove Rd
+13446432,Kingston Rd / Old Kingston Rd
+13445095,Kingston Rd / Old Kingston Rd / Highland Creek Overpass
+20232429,Lawson Rd / Old Sweats Lane
+13444896,Kingston Rd / Franklin Ave
+13444737,Kingston Rd / Choiceland Blvd
+13444973,Meadowvale Rd / Lawson Rd
+13446997,Linville Rd / Brimorton Dr
+13445922,Ellesmere Rd / Scarborough Golf Club Rd / Helicon Gt
+13447183,Manse Rd / Hainford St
+13444537,Meadowvale Rd / Kingston Rd
+13974900,Morrish Rd / Starfire Dr
+13443940,Canmore Blvd / Charcoal Dr
+13445757,Ellesmere Rd / Orton Park Rd / Military Trl / Hepc
+13448109,Lawrence Ave E / Mossbank Dr
+13448052,Lawrence Ave E / Susan St
+13444470,Neilson Rd / Keeler Blvd / Oakmeadow Blvd
+13444720,Neilson Rd / Military Trl
+13445401,Ellesmere Rd / Neilson Rd
+13447663,Manse Rd / 215 Manse Rd / Deanscroft Sq
+13447774,Wallsend Dr / Coronation Dr
+13444265,Ellesmere Rd / Scarboro Ave
+13447571,Lisa Rd / Orton Park Rd
+13444339,Neilson Rd / Oakmeadow Blvd
+13447598,Coronation Dr / Chemical Crt
+13447158,Orton Park Rd / Ladysbridge Dr
+13447932,Lawrence Ave E / Orton Park Rd
+13443378,Sheppard Ave E / Murison Blvd
+13446875,Manse Rd / Lawrence Ave E
+13446300,Kingston Rd / Manse Rd
+13446727,Valia Rd / Lawrence Ave E
+13447703,Lawrence Ave E / Overture Rd
+13446940,Dalehurst Ave / Brimorton Dr
+13446878,Mid Pines Rd / Brimorton Dr
+13446835,Orton Park Rd / Brimorton Dr
+13446675,Lawrence Ave E / Megan Ave
+13444174,Ellesmere Rd / Zaph Ave
+13443237,Sheppard Ave E / Breckon Gt / Brenyon Way
+13446091,Kingston Rd / Beechgrove Dr
+13446621,Flerimac Rd / Morning Dew Rd / Lawrence Ave E
+13446543,Bennett Rd / Lawrence Ave E
+13447406,Beechgrove Dr / Coronation Dr
+14659268,Milner Ave / Cinemart Dr
+13446558,Beechgrove Dr / Satok Ter
+13446406,Lawrence Ave E / Beechgrove Dr
+13503908,Progress Ave / Progress Ave N 401 C E Ramp
+13443379,Murison Blvd / Milner Ave
+13445039,Ellesmere Rd / Morningside Ave
+13444536,Morningside Ave / Military Trl
+13444869,Ellesmere Rd / Military Trl
+13444084,Meadowvale Rd / Ellesmere Rd
+13443929,Meadowvale Rd / Muirbank Blvd
+13443668,Meadowvale Rd / Euclid Ave / Lavery Trl
+20154546,Morningside Ave / 401 C W Morningside Ave N Ramp / Cinemart Dr
+13443245,Morningside Ave / Milner Ave
+13445264,Conlins Rd / Military Trl / Lash Crt
+13445303,Gladys Rd / Military Trl
+13444738,Ellesmere Rd / Mirrow Crt
+13444687,Ellesmere Rd / Conlins Rd
+13446928,Beechgrove Dr / Janellan Ter
+13448187,Kingston Rd / Galloway Rd
+13444613,Ellesmere Rd / Calthorpe Ave
+13444592,Ellesmere Rd / Bobmar Rd
+14624109,Morningside Ave / Tams Rd / Pan Am Dr
+13502957,Morningside Ave / 401 C E Morningside Ave S Ramp
+13446227,Meadowvale Rd / Lawrence Ave E
+13446120,Lawrence Ave E / Paulander Ave / Goldberry Sq
+20105765,Kingston Rd / Ignatius Lane
+13447579,Lawrence Ave E / Galloway Rd
+13444181,Conlins Rd / Challenger Crt
+13444049,Canmore Blvd / Tarsus Cres
+13444405,Milner Ave / Novopharm Crt
+13447596,Kingston Rd / Poplar Rd
+13447425,Lawrence Ave E / 4140 Lawrence Ave E
+13447347,Kingston Rd / Lawrence Ave E
+13448171,Morningside Ave / Coronation Dr
+13447752,Morningside Ave / Danzig St
+13448428,Morningside Ave / Pixley Cres / Gardentree St
+13444029,Canmore Blvd / Parade Sq
+13443950,Canmore Blvd / Halfmoon Sq
+13448232,Markham Rd / Greenbrae Crct / Greenholm Crct
+13447928,Markham Rd / Rochman Blvd
+13447495,Ling Rd / Morningside Ave
+13447211,Lawrence Ave E / Morningside Ave
+13447093,Collinsgrove Rd / Ling Rd / Lawrence Ave E
+13446990,Lawrence Ave E / West Hill Dr
+13445345,Bobmar Rd / Military Trl
+13445405,Military Trl / Scenic Hill Crt
+13445458,Kingston Rd / Kingston Rd Morrish Ramp
+13445262,Morrish Rd / Old Kingston Rd
+13447170,Markham Rd / Pandora Crcl
+13447453,Markham Rd / Painted Post Dr
+13448487,Lawrence Ave E / Greenholm Crct / Greencrest Crct
+13448378,Lawrence Ave E / Fortune Gt
+13446607,Morningside Ave / Tefft Rd
+13446348,Morningside Ave / Beath St
+13444486,Ellesmere Rd / Calverley Trl
+13444456,Ellesmere Rd / Watson St
+13448254,Lawrence Ave E / Scarborough Golf Club Rd
+13447832,Scarborough Golf Club Rd / Chandler Dr
+13447437,Scarborough Golf Club Rd / Densgrove Rd / Mossbank Dr
+13447083,Scarborough Golf Club Rd / Brimorton Dr
+13443821,Sheppard Ave E / Gateforth Dr
+13446901,Kingston Rd / Morningside Ave
+13444398,Ellesmere Rd / Morrish Rd
+13445320,Lawson Rd / Highland Creek Overpass
+13446592,Markham Rd / Brimorton Dr
+13446212,Ellesmere Rd / Markham Rd
+13445821,Markham Rd / Tuxedo Crt
+13446062,Ellesmere Rd / Dormington Dr / Gander Dr
+13443760,Sheppard Ave E / Lapsley Rd / Washburn Way
+13443491,Griffen Dr / Washburn Way
+13443900,Burrows Hall Blvd / Milner Ave
+13444143,Neilson Rd / 401 C E Neilson Rd Ramp / Neilson Rd 401 C E Ramp
+13462570,Nursewood Rd / Queen St E
+13459326,Dawes Rd / Dentonia Park Ave
+13459032,Dawes Rd / Secord Ave
+13457407,Ferris Rd / Curran Dr
+13457286,Ferris Rd / Plaxton Dr
+13456734,St Clair Ave E / Plaxton Dr
+13457157,Ferris Rd / Squires Ave
+13461057,Glenmount Park Rd / Gerrard St E
+13459659,Danforth Ave / Sibley Ave
+13456666,St Clair Ave E / Squires Ave
+13456553,St Clair Ave E / Glenburn Ave
+13457887,Dawes Rd / Donora Dr
+13457739,Dawes Rd / Brenton St
+13457585,Dawes Rd / Gower St
+13457210,Dawes Rd / Beth St
+13457363,Victoria Park Ave / St Bedes Rd
+13457716,Victoria Park Ave / Donora Dr
+13458768,Dawes Rd / Goodwood Park Crt
+13458464,Crescent Town Rd / Dawes Rd
+13457190,Florens Ave / Pharmacy Ave
+13457068,Victoria Park Ave / Meighen Ave
+13456890,Victoria Park Ave / Dawes Rd
+13456438,St Clair Ave E / Victoria Park Ave
+13456446,St Clair Ave E / Maybourne Ave
+13456415,St Clair Ave E / Westbourne Ave
+13460922,Norwood Rd / Gerrard St E
+13461403,Benlamond Ave / Main St
+13460822,Gerrard St E / Main St
+13461124,Swanwick Ave / Main St
+13458204,Park Vista / Dawes Rd
+13456881,Bolster Ave / Pharmacy Ave
+13456583,Dawes Rd / Pharmacy Ave
+13455637,O'Connor Dr / Amsterdam Ave
+13458442,Victoria Park Ave / Crescent Town Rd
+13461408,Kingston Rd / Scarborough Rd
+13461342,Kingston Rd / Victoria Park Ave
+13455708,Victoria Park Ave / Bassett Ave / Yardley Ave
+13455374,O'Connor Dr / Wakunda Pl
+13454909,O'Connor Dr / Sunrise Ave
+13455487,Victoria Park Ave / Amsterdam Ave
+13455247,Victoria Park Ave / Parma Crt
+13454924,Victoria Park Ave / Valdane Dr
+13463408,Queen St E / Kippendavie Ave
+13461635,Kingston Rd / Winthorpe Rd
+13460812,Victoria Park Ave / Winston Ave
+13461226,Kingston Rd / Blantyre Ave
+13460543,Swanwick Ave / Victoria Park Ave
+13460223,Victoria Park Ave / Gerrard St E
+13460121,Gerrard St E / Blantyre Ave
+13454827,Comstock Rd / Pharmacy Ave
+13457926,Pharmacy Ave / Dolphin Dr
+13457695,Pharmacy Ave / Donside Dr
+13457448,Pharmacy Ave / Penaire St
+13463288,Waverley Rd / Queen St E
+13463187,Queen St E / Lee Ave
+13462646,Williamson Rd / Hambly Ave
+13462329,Kingston Rd / Elmer Ave
+13461467,Kingston Rd / Beech Ave
+13459977,Gerrard St E / Rathmore Ave
+13461056,Kingston Rd / Fallingbrook Rd
+13460832,Kingston Rd / Hunt Club Dr
+13460704,Kingston Rd / Wood Glen Rd
+13457981,Burn Hill Rd / Mack Ave / Warden Ave
+13457512,Warden Ave / Cataraqui Cres
+13457277,Warden Ave / Firvalley Crt
+13457866,Mystic Ave / Mack Ave
+13461875,Kingston Rd / Lee Ave
+13461863,Glen Stewart Ave / Southwood Dr / Glen Stewart Cres
+14232506,Gerrard St E / Ted Reeve Dr
+13460568,Gerrard St E / Malvern Ave
+13459820,Danforth Ave / Dawes Rd
+13459860,Gerrard St E / Clonmore Dr
+13460471,Kingston Rd / Queensbury Ave
+13460017,Kingston Rd / Warden Ave
+13459651,Victoria Park Ave / Wakehood St
+13459445,Danforth Ave / Victoria Park Ave
+13456185,Victoria Park Ave / Stamford Sq
+13455959,Victoria Park Ave / Furnival Rd
+13456330,St Clair Ave E / Pharmacy Ave
+13456004,Pharmacy Ave / Stamford Sq / Rosita Cres
+13456233,St Clair Ave E / Presley Ave
+13455709,Stellarton Rd / Pharmacy Ave
+13461728,Kingston Rd / Southwood Dr / Main St
+13463152,Queen St E / Hambly Ave
+13463118,Queen St E / Wineva Ave
+13463032,Scarboro Beach Blvd / Queen St E
+13462602,Williamson Rd / Wineva Ave
+13460465,Gerrard St E / Pickering St
+13459334,Danforth Ave / St Dunstan Dr
+13459018,Denton Ave / St Dunstan Dr
+13458925,Denton Ave / Pharmacy Ave
+13460350,Dengate Rd / Gerrard St E
+13459232,Danforth Ave / Pharmacy Ave
+13458602,Albion Ave / Pharmacy Ave
+13462856,Spruce Hill Rd / Queen St E
+13462369,Beaufort Rd / Southwood Dr
+13462564,Williamson Rd / Southwood Dr
+13462263,Southwood Dr / Glen Ames
+13459405,Doncaster Ave / Main St
+13459193,Chisholm Ave / Orley Ave
+13459233,Secord Ave / Barrington Ave
+13458358,Pharmacy Ave / Teesdale Pl / Prairie Drive Park Trl
+13455320,Knightsbridge Rd / Pharmacy Ave
+13459115,Secord Ave / Eastdale Ave
+13458881,Eastdale Ave / Goodwood Park Cres
+13458851,Chisholm Ave / Lumsden Ave
+13458804,Lumsden Ave / Main St
+13458740,Lumsden Ave / Barrington Ave
+13456270,O'Connor Dr / Dohme Ave
+13455948,O'Connor Dr / Bermondsey Rd / Yardley Ave
+13455561,Northline Rd / Bermondsey Rd
+13455228,Bermondsey Rd / Sunrise Ave
+13454817,Bermondsey Rd / Bartley Dr
+13459524,Queensbury Ave / Clonmore Dr
+13459341,Cornell Ave / Clonmore Dr
+13459025,Danforth Ave / Robinson Ave
+13458963,Danforth Ave / Danforth Rd
+13459498,Ionson Blvd / Warden Ave
+13459133,Hollis Ave / Clonmore Dr
+13459088,Warden Ave / Hollis Ave
+13458805,Danforth Ave / Warden Ave
+13459016,Warden Ave / Clonmore Dr / Hollis Kalmar Park Trl
+13458733,Danforth Rd / Patterson Ave / Landry Ave
+13458526,Danforth Rd / Mcdonald Ave
+13458308,Danforth Rd / Warden Ave
+13463933,Lake Shore Blvd E / Woodbine Ave
+13462722,Queen St E / Silver Birch Ave
+13458705,Medford Ave / Danforth Ave
+13458057,Danforth Rd / Medford Ave
+13457540,Ferris Rd / Rexleigh Dr
+13457488,Ferris Rd / Ferris Cres
+13463494,Woodbine Ave / Queen St E
+13465145,Varsity Rd / Grand Park Crt
+30109241,Shaw St / White Squirrel Way
+30090087,Military Trl / Pan Am Dr
+13443148,3000 Midland Ave
+13456216,Erskine Ave / Redpath Ave / Redpath Avenue Parkette Trl
+13442807,Sheppard Ave E / Boydwood Lane
+13442935,Sheppard Ave E / Vandorf St
+13443118,Durnford Rd / Sheppard Ave E / Atrium Lane
+13444789,Peckham Ave / Donnalyn Dr / Moore Park Trl
+13452485,Gretna Ave / Sweeney Dr
+13447245,Consumers Rd
+13442843,Meadowvale Rd / Dean Park Rd / Generation Blvd
+20080182,Sheppard Ave E / Twyn Rivers Dr
+13442586,Sheppard Ave E / Rainbow Ridge Ave / Rouge Park Glen Eagles Vista Trl
+13442671,Grand River Blvd / Sheppard Ave E
+13441955,Zoo Rd / Zoo Meadowvale Rd N Ramp / Meadowvale Rd N Zoo W Ramp
+13449196,Midland Ave / Norbury Cres
+13448907,Midland Ave / Dorcot Ave
+13448787,Mccowan Rd / Benleigh Dr / Thomson Memorial Park Trl
+13448559,Mccowan Rd / St Andrews Rd
+13446743,Midland Ave / Progress Ave
+13446658,Progress Ave / Cosentino Dr
+13445947,Midland Ave / Goodland Gt
+13445987,Midland Ave / Emblem Crt
+13453025,Midland Ave / Safari St
+13452790,Brussels Rd / Midland Ave
+13452476,Eglinton Ave E / Midland Ave
+13452253,Midland Ave / Gilder Dr / Lord Roberts Dr
+13451799,Midland Ave / Wainfleet Rd / Broadbent Ave
+13452383,Eglinton Ave E / Huntington Ave
+13452308,Eglinton Ave E / Falmouth Ave / Gilder Dr
+13449608,Lawrence Ave E / Marcos Blvd
+13449827,Brimley Rd / Arnprior Rd
+13449501,Brimley Rd / Lawrence Ave E / Gatineau Hydro Corridor Trl
+13445746,Birchmount Rd / Sheppard Ave E
+13445461,Birchmount Rd / Bay Mills Blvd / Bonis Ave
+13448727,Brimley Rd / Dorcot Ave
+13449140,Brimley Rd / Britwell Ave
+13449390,Bellamy Rd N / Burnview Cres
+13449023,Lawrence Ave E / Burnview Cres
+13448960,Lawrence Ave E / Ben Stanton Blvd
+13444601,Birchmount Rd / Huntingwood Dr
+13445612,Sheppard Ave E / Allanford Rd
+13454594,St Clair Ave E / Andrew Ave
+13454029,Brimley Rd / Comrie Ter
+13454035,Brimley Rd / Anson Ave
+13453253,Danforth Rd / Winter Ave
+13453803,Brimley Rd / Oakridge Dr / Comrie Ter
+13453382,Brimley Rd / Skagway Ave
+13454486,Brimley Rd / St Clair Ave E
+13449176,Eastpark Blvd / Bellamy Rd N
+13448868,Lawrence Ave E / Bellamy Rd N
+13448642,Ellesmere Rd / Crocus Dr / Dewey Dr
+13445476,Kennedy Rd / Sheppard Ave E
+13445197,Kennedy Rd / Cardwell Ave / Bonis Ave
+13444980,Kennedy Rd / Marilyn Ave
+13444800,Kennedy Rd / Reidmount Ave
+13444221,Birchmount Rd / Glendower Crct / Chaldean St
+13454430,Fermoy Rd / St Clair Ave E
+13454273,Mandarin Rd / Brimley Rd / Minerva Ave
+13454337,Kingston Rd / St Clair Ave E
+13454133,Kingston Rd / Neilson Ave
+13448519,Ellesmere Rd / Warden Ave
+13448148,Warden Ave / Sylla Ave
+13447916,Warden Ave / Lupin Dr
+13444959,Sheppard Ave E / Harrisfarm Gt
+13444522,Brimley Rd / Heather Rd
+13444493,Midland Ave / Montgomery Ave
+13444194,Midland Ave / Havendale Rd
+13444024,Midland Ave / Stubbswood Sq
+13443806,Kittery Blvd / Huntingwood Dr
+13453339,Mccowan Rd / Horfield Ave
+13453057,Danforth Rd / Glenshephard Dr
+13452901,Danforth Rd / Glenshephard Dr
+13452647,Danforth Rd / Neston Ave / Tyne Crt
+13452878,Brimley Rd / Lombardy Cres
+13451427,Brimley Rd / Elgar Ave / Dallyn Cres
+13447673,Warden Ave / Metropolitan Rd
+13448318,Ellesmere Rd / Principal Rd
+13448481,Birchmount Rd / Canadian Rd
+13444507,Harfleur Rd / Huntingwood Dr
+13444370,Huntingwood Dr / St Crispins Dr
+13443775,Birchmount Rd / Timberbank Blvd / Glendower Crct
+13443562,Birchmount Rd / Finch Ave E
+13443377,Finch Ave E / Wayside Ave / Adirondack Gt
+13444079,Huntingwood Dr / Colinayre Cres
+13444192,Kennedy Rd / Linwood Ave
+13444019,Kennedy Rd / Huntingwood Dr
+13444492,Kennedy Rd / Havendale Rd
+13452352,Danforth Rd / Brimley Rd
+13452119,Brimley Rd / Eglinton Ave E
+13451671,Brimley Rd / Strode Dr
+13452053,Danforth Rd / Eglinton Ave E
+13451595,Danforth Rd / Trudelle St
+13451957,Eglinton Ave E / Oswego Rd
+13451001,Brimley Rd / Gully Dr / Knob Hill Park Trl
+13448199,Ellesmere Rd / Birchmount Rd
+13447577,Birchmount Rd / Rolark Dr
+13445288,Sheppard Ave E / Lamont Ave
+13453023,Mccowan Rd / Cree Ave
+13451069,Danforth Rd / Savarin St
+13446799,Warden Ave / Warden Av S 401 C W Ramp / Arkona Dr / Cloverleaf Gt
+13443404,Midland Ave / Boarhill Dr / Baylawn Dr
+13443826,Midland Ave / Emmeline Cres
+13443751,Midland Ave / Huntingwood Dr / East Highland Creek
+13443710,Huntingwood Dr / Crockamhill Dr
+13450554,Danforth Rd / Tansley Ave / Carslake Cres
+13445956,Sheppard Ave E / Bay Mills Blvd / Aragon Ave
+13443961,Belgreen Ave / Huntingwood Dr
+13443753,Kennedy Rd / Norcap Ave
+13443543,Kennedy Rd / Bellbrook Rd
+13445649,Kennedy Rd / Collingwood St
+13445796,Kennedy Rd / Cowdray Crt
+13975289,Mccowan Rd / Bridlegrove Dr / Mccowan District Park Trl
+13452703,Martindale Rd / Mccowan Rd
+13450358,Danforth Rd / Seminole Ave
+13445830,Sheppard Ave E / Amethyst Rd
+13446623,Birchmount Rd / Allanford Rd / Scarden Ave
+13444964,Midland Ave / Rural Ave
+13444733,Midland Ave / Lockie Ave
+13445219,Sheppard Ave E / Midland Ave
+13445134,Sheppard Ave E / Glen Watford Dr
+13451873,Eglinton Ave E / Barbados Blvd
+13451762,Eglinton Ave E / Mccowan Rd
+13446265,Birchmount Rd / Harleyford Gt / Carncastle Gt
+13446030,Birchmount Rd / Cass Ave
+13974857,Ellesmere Rd / Mondeo Dr
+13444197,Brimley Rd / Dennett Dr
+13443620,Mollard Rd / Huntingwood Dr
+13451634,Eglinton Ave E / Torrance Rd
+13447955,Ellesmere Rd / Wye Valley Rd / Dundalk Dr
+13448474,Kennedy Rd / Brigstock Rd
+13445386,Sheppard Ave E / Reidmount Ave
+13447843,Ellesmere Rd / Kennedy Rd
+13447299,Kennedy Rd / Glamorgan Ave / Progress Ave
+13447184,Progress Ave / 31 Progress Ave
+13454283,Danforth Rd / Magnolia Ave
+13449378,Lawrence Ave E / Barrymore Rd
+13449953,Danforth Rd / Barrymore Rd
+13449821,Danforth Rd / Hollyhedge Dr
+13449481,Mccowan Rd / Hollyhedge Dr
+13447551,Ellesmere Rd
+13447807,Midland Ave / Midwest Rd
+13447496,Ellesmere Rd / Midland Ave
+13453636,Midland Ave / Wolfe Ave
+13454001,Danforth Rd / Midland Ave
+13453320,Midland Ave / Verdun Ave
+13453503,Danforth Rd / Huntington Ave
+13452869,Kennedy Rd / Eglinton Ave E
+13453193,Kennedy Rd / Kenmark Blvd
+13452623,Kennedy Rd / Treverton Dr
+13451389,Midland Ave / Lord Roberts Dr
+13451218,Midland Ave / Stansbury Cres
+13451120,Midland Ave / Tara Ave
+13446952,Kennedy Rd / Antrim Cres
+13450601,Midland Ave / Marcos Blvd / Romulus Dr
+13450111,Midland Ave / Prudential Dr
+13449204,Mccowan Rd / Lawrence Ave E
+13446213,Kennedy Rd / 401 C W Kennedy Rd N Ramp / Kennedy Rd S 401 C W Ramp / Village Green Sq
+13445883,Kennedy Rd / Pently Cres
+13450756,Brimley Rd / Seminole Ave
+13450460,Brimley Rd / Largo Lane
+13450206,Brimley Rd / Shediac Rd / Fraserton Gt
+13449905,Lawrence Ave E
+13449471,Midland Ave / Midwest Rd
+13449830,Lawrence Ave E / Midland Ave
+13449737,Lawrence Ave E / Brockley Dr
+13457423,Kennedy Rd / Highview Ave
+13457171,Kingston Rd / Claremore Ave / Cliffside Dr
+13456922,Kennedy Rd / Craiglee Dr
+13456610,Kennedy Rd / Mewburn Ave
+13454971,Warden Ave / Upton Rd
+13455771,St Clair Ave E / Santamonica Blvd
+13456092,Birchmount Rd / Zenith Dr
+13456297,Danforth Rd / North Edgely Ave
+13456203,Danforth Rd / North Woodrow Blvd
+13453445,Barber Greene Rd / Broadpath Rd
+13453604,Barber Greene Rd / Southill Dr
+13453728,Barber Greene Rd / Embla St
+13455957,Kilmarnock Ave / Davidson Ave
+13455638,Danforth Rd / Hubert Ave
+13455403,St Clair Ave E / North Woodrow Blvd
+13455269,St Clair Ave E / Cotton Ave
+13455179,Kennedy Rd / St Clair Ave E
+13456292,Kennedy Rd / Park St
+13456197,Claremore Ave / Park St
+13454763,Bayview Ave / Blythwood Rd / Wellness Way
+13455635,St Clair Ave E / Elfreda Blvd
+13455585,St Clair Ave E / Birchmount Rd
+13456125,Sharpe St / Park St
+13456074,Natal Ave / Park St
+13454823,Danforth Rd / Hart Ave
+30034152,Hospital Rd / Raab Blvd
+13454887,Birchmount Rd / Anaconda Ave
+13454978,St Clair Ave E / Linden Ave
+13452717,Lawrence Ave E / Leslie St / Mike Bela Park Trl
+13459819,Kingston Rd / Manderley Dr
+13459596,Kingston Rd / Eastwood Ave / Kildonan Dr
+13459344,Kingston Rd / Birchcliff Ave
+13459028,Kingston Rd / Birchmount Rd
+13458621,Eastwood Ave / Danforth Ave
+13458644,Birchmount Rd / Hollis Ave
+13458312,Birchmount Rd / Danforth Ave
+13456826,Kingston Rd / Ridgemoor Ave / Sharpe St
+13456405,Kingston Rd / Sandown Ave
+13454113,Glenorchy Rd / Suncrest Dr
+13453890,Glenorchy Rd / Royal Oak Dr
+13452118,Leslie St / Talwood Dr
+13452620,Lawrence Ave E / Tremont Cres
+13458388,Kingston Rd / Lakehurst Dr
+13458074,Danforth Ave
+13458214,Kingston Rd / Glen Everest Rd
+30077719,Glenorchy Rd / Saintfield Ave
+13453140,Lawrence Ave E / Park Lane Crcl
+13452357,Post Rd / Park Lane Crcl / Hyde Park Crcl
+13452683,Lawrence Ave E
+13453271,The Bridle Path / Park Lane Crcl
+13452890,Lawrence Ave E / The Bridle Path
+30029327,Danforth Rd / Lily Cup Ave
+13456960,Warden Ave / 662 Warden Ave
+13455976,Atlee Ave / Park St
+13456025,Kingston Rd / Midland Ave
+13455590,Midland Ave / Aylesworth Ave
+13455525,Kingston Rd / Chine Dr
+13455345,Midland Ave / Wilkie Ave
+13454814,St Clair Ave E / Midland Ave
+13456152,St Clair Ave E / Herron Ave
+13454685,St Clair Ave E / Jeanette St
+13455334,Brimley Rd S / Barkdene Hills
+13454867,Kingston Rd / Brimley Rd / Brimley Rd S
+13455280,Larwood Blvd / Barkdene Hills
+13455210,Gradwell Dr / Barkdene Hills
+13454006,The Bridle Path / Suncrest Dr
+13453535,Saintfield Ave / The Bridle Path
+20166260,Warden Ave / Roper Rd
+13457615,Birchmount Rd / Mack Ave
+13457566,Birchmount Rd / Raleigh Ave
+13457893,Birchmount Rd / Highview Ave
+13457851,Aylesworth Ave / Highview Ave
+13457811,Lillington Ave / Highview Ave
+13457762,Highview Ave / South Edgely Ave
+13456762,Danforth Rd / Birchmount Rd
+13456984,Birchmount Rd / Parnell Ave
+13456383,Birchmount Rd / Sadler Dr
+13455083,Brooklawn Ave / Barkdene Hills
+13454678,Sloley Rd / Brooklawn Ave
+13453421,Leslie St / Overland Dr
+13454767,Warden Ave / Hymus Rd
+13455284,Warden Ave / Deans Dr / Fairfax Cres
+13457721,South Woodrow Blvd / Highview Ave
+13457682,Anneke Rd / Highview Ave
+13457616,Highview Ave / Baudina Cres
+13457129,Kennedy Rd / Malta St
+13452797,Kingston Rd / Ravine Dr / Bellamy Rd S
+13449983,Kingston Rd / Cromwell Rd / Guildwood Pkwy
+13450374,Rowatson Rd / Guildwood Pkwy
+13450294,Livingston Rd / Guildwood Pkwy
+13443046,Finch Ave E / Midland Ave
+13442967,Finch Ave E / Alexmuir Blvd / Chartland Blvd S
+13442901,Mccowan Rd / Sandhurst Crcl
+13443229,Mccowan Rd / Kenhatch Blvd
+13442643,Mccowan Rd / Finch Ave E
+13449625,Kingston Rd / Westlake Rd
+13442585,Finch Ave E / Sandhurst Crcl
+13443127,Middlefield Rd / Compass Crt
+13442632,Middlefield Rd / Orator Gt
+13452417,Kingston Rd / Mason Rd
+13443247,Brimley Rd / Chartland Blvd S
+13442866,Brimley Rd / Finch Ave E
+13442502,Finch Ave E / Middlefield Rd
+13442364,Mccowan Rd / Sandhurst Crcl
+13452173,Kingston Rd / Parkcrest Dr
+13451718,Markham Rd / Kingston Rd
+13442730,Finch Ave E / Sandhurst Crcl
+13442432,Brimley Rd / Brimwood Blvd / Alexmuir Blvd
+13442014,Boxdene Ave / Mcnicoll Ave
+13441995,White Heather Blvd / Mcnicoll Ave
+13449817,Schubert Dr / Guildwood Pkwy
+13449684,Scarcliff Gdns / Guildwood Pkwy
+13442140,Brimley Rd / Mcnicoll Ave
+13442061,Middlefield Rd / Nashdene Rd
+13441965,Mcnicoll Ave / Shady Hollow Dr
+13441926,Middlefield Rd / Mcnicoll Ave
+13442336,Middlefield Rd / Arbor Low Gt
+13442192,Middlefield Rd / Richmond Park Blvd
+13442417,Finch Ave E / Tiffield Rd / Scottfield Dr
+13441896,Tiffield Rd / Mcnicoll Ave
+13451513,Eglinton Ave E / Bellamy Rd N
+13451162,Bellamy Rd N / Porchester Dr
+13450964,Bellamy Rd N / Grace St
+13448888,Kingston Rd / Celeste Dr
+13448608,Kingston Rd / Overture Rd / Payzac Ave
+13442611,Tapscott Rd / Melford Dr
+13442403,Tapscott Rd / Lighthall Cres
+13442251,Markham Rd / Finch Ave E
+13441934,Nashdene Rd / Dynamic Dr
+13441912,Markham Rd / Nashdene Rd
+13451254,Eglinton Ave E / Mason Rd
+13450508,Bellamy Rd N / Nelson St
+13450073,Braeburn Blvd / Bellamy Rd N
+13442207,Mccowan Rd / Big Red Ave / Bridley Dr
+13442084,Mcnicoll Ave / Hutchcroft Ave
+13442290,Crow Trl / Crittenden Sq
+13442174,Tapscott Rd / Finch Ave E
+13442002,Tapscott Rd / Newgale Gt
+13441893,Finchdene Sq / Pullman Crt
+13441971,Finchdene Sq / Newgale Gt
+13441922,Torham Pl / Finchdene Sq
+13441810,Middlefield Rd / Pebblewood Ave
+13441751,Middlefield Rd / Newmill Gt
+13451125,Eglinton Ave E / Beachell St
+13451422,Markham Rd / Markanna Dr
+13450997,Markham Rd / Eglinton Ave E
+13450859,Eglinton Ave E / Cedar Dr
+13449375,Morningside Ave / Greyabbey Trl / Guildwood Pkwy
+13449162,Morningside Ave / Cumber Ave / Fordover Dr
+13442036,Mccowan Rd / Mcnicoll Ave
+13441734,Maybrook Dr / Newmill Gt
+13441692,Middlefield Rd / Ingleton Blvd / Passmore Ave
+13441662,Middlefield Rd / Select Ave
+13441674,Passmore Ave / Maybrook Dr
+13441867,Mcnicoll Ave / Maybrook Dr
+13450683,Markham Rd / Cougar Crt
+13449721,Cedar Brae Blvd / Banmoor Blvd / Bellamy Rd N
+13450162,Chancery Lane / Guildwood Pkwy
+30017743,Steeles Ave E / Redlea Ave
+14171575,Steeles Ave E / Silver Star Blvd
+13441740,Steeles Ave E / Midland Ave
+13441801,Mcnicoll Ave / Dynamic Dr
+13441665,State Crown Blvd / Passmore Ave
+13441703,Turbina Ave / Dynamic Dr
+13441654,Passmore Ave / Dynamic Dr
+13441635,Steeles Ave E / Middlefield Rd
+13441776,Markham Rd / Mcnicoll Ave
+13441760,Mcnicoll Ave / Ironside Cres
+13441723,Tapscott Rd / Mcnicoll Ave
+13441683,Markham Rd / Turbina Ave
+13441651,Markham Rd / Passmore Ave
+13441659,Tapscott Rd / Ironside Cres
+14248930,Oasis Blvd / Hummingbird Dr / Seasons Dr
+20364357,Markham Rd / Select Ave
+30038667,Tapscott Rd / Select Ave
+13441616,Steeles Ave E / Tapscott Rd
+13448786,Lawrence Ave E / Greenbrae Crct / Greencedar Crct
+13448822,Markham Rd / Greencedar Crct / Greencrest Crct
+13448547,Markham Rd / Lawrence Ave E
+13441706,Steeles Ave E / Ashcott St
+13441891,Brimley Rd / Port Royal Trl / Wenlock Gt
+13441762,Brimley Rd / Port Royal Trl / Eagledance Dr
+13453920,Kingston Rd / Mccowan Rd / Cathedral Bluffs Dr
+13449802,Markham Rd / 435 Markham Rd / Blakemanor Blvd
+13449130,Markham Rd / Stevenwood Rd / Eastpark Blvd
+13442616,Kennedy Rd / Perthshire St
+13443302,Kennedy Rd / Finch Ave E
+13443239,Finch Ave E / Milliken Blvd
+13443113,Finch Ave E / Baylawn Dr
+13441677,Brimley Rd / Steeles Ave E
+13453681,Mccowan Rd / Anson Ave
+13453501,Kingston Rd / 3100 Kingston Rd / Fenwood Hts
+13453279,Kingston Rd / Mcnab Blvd
+13450880,Kingston Rd / Eglinton Ave E
+13442762,Midland Ave / Silver Star Blvd / South Shields Ave
+13442555,Midland Ave / Kilcullen Castle Gt
+13442363,Kennedy Rd / Mcnicoll Ave
+13442033,Kennedy Rd / Passmore Ave / Purcell Sq
+13441658,Steeles Ave E / Strawberry Hills Dr
+13450532,Kingston Rd / Scarborough Golf Club Rd
+13450255,Kingston Rd / Saunders Rd / Guildcrest Dr
+14173872,Silver Star Blvd / Passmore Ave
+14038257,Silver Star Blvd / Mcnicoll Ave
+13441833,Mccowan Rd / Alton Towers Crcl
+13441709,Mccowan Rd / Alton Towers Crcl
+13453065,Kingston Rd / Pine Ridge Dr
+13450507,Prince Philip Blvd / Guildwood Pkwy / Rosa And Spencer Clark Parkette Trl
+14038170,Midland Ave / Mcnicoll Ave
+13442041,Midland Ave / Artillery St
+13441919,Midland Ave / Copthorne Ave / Passmore Ave
+13455493,Vendome Pl / Grenoble Dr / Flemingdon Park Trl
+13447230,Yorkland Blvd
+13468530,Eva Rd / The West Mall
+13467909,Harbour St / Bay St
+13446589,Ian Macdonald Blvd
+13442201,Cleadon Rd / Mcnicoll Ave
+13467604,Runnymede Rd / Morningside Ave
+13445115,Neilson Rd
+30112870,Leslie St / Inn On The Park Dr
+30113634,Sheppard Ave E / Silver Maple Gt
+13452870,Maniza Rd / Plewes Rd
+30113231,Yorkland Blvd / Smooth Rose Crt
+13453958,Eglinton Ave E / Credit Union Dr / Swift Dr
+13454174,Bermondsey Rd / Old Eglinton Ave
+13449395,Pharmacy Ave / Dewey Dr
+13449678,Pharmacy Ave / Princeway Dr
+13449319,Victoria Park Ave / Ivordale Cres
+13449013,Ellesmere Rd / Victoria Park Ave / Parkwoods Village Dr
+13449121,Kellyvale Rd / Pharmacy Ave
+13448838,Ellesmere Rd / Pharmacy Ave
+13448759,Ellesmere Rd / Crosland Dr
+13445334,Leslie St / Thorny Vineway
+13450226,York Mills Rd / Sandfield Rd / York Mills Ci Trl
+13450081,York Mills Rd / Chipstead Rd / Banbury Rd
+13453963,Eglinton Ave E / Bermondsey Rd / Sloane Ave
+13448590,Vyner Rd / Dunlace Dr / Bannatyne Dr
+13448306,Silvergrove Rd / Bannatyne Dr
+13448155,Woodsworth Rd / Hopperton Dr
+13448142,Woodsworth Rd / Hopperton Dr
+13445034,Leslie St / Thorny Vineway
+13444761,Finch Ave E / Leslie St
+13444718,Finch Ave E / Ravel Rd
+13449911,York Mills Rd / Banbury Rd
+13448770,Bannatyne Dr / Davean Dr
+13448952,Bannatyne Dr / Beaverhall Dr
+13449073,Riderwood Dr / Bannatyne Dr
+13448991,Leslie St / Bannatyne Dr
+13454074,Eglinton Ave E / Jonesville Cres
+13453655,Sloane Ave / Trophy Dr / Tinder Cres
+13447350,Sheppard Ave E / Ambrose Rd / Provost Dr / Ambrose Parkette Trl
+13448649,Dunlace Dr / Davean Dr
+13448127,Woodsworth Rd / Northey Dr
+13448456,Woodsworth Rd / Davean Dr
+13448196,Woodsworth Rd / Northey Dr
+13448296,Leslie St / Lesmill Rd / Leslie N 401 C E Ramp / 401 C E Leslie St Ramp
+13451725,Leslie St / Talwood Dr
+13451268,Leslie St / Bond Ave
+13452479,Sweeney Dr / Wyndcliff Cres
+13452166,Carnforth Rd / Teak Ave
+13452668,Sloane Ave / Anewen Dr / Kenewen Crt
+13453274,Sloane Ave / Elvaston Dr
+13452939,Sloane Ave / Wigmore Dr
+13452586,Victoria Park Ave / Ruscica Dr / Innismore Cres
+13452414,Sloane Ave / Sweeney Dr
+13447810,Leslie St / Oriole Go Station / 401 C W Leslie S Ramp
+14675360,Leslie St / Esther Shiner Blvd
+13450874,Leslie St / Denlow Blvd / Southwell Dr
+13450365,Leslie St / Ballyronan Rd / Longwood Dr
+13452245,Victoria Park Ave / Sweeney Dr
+13451925,Victoria Park Ave / Sloane Ave
+13445327,Don Mills Rd E / Deerford Rd
+13451645,Lawrence Ave E / Railside Rd / Underhill Dr
+13451476,Roanoke Rd / Underhill Dr
+13451098,Broadlands Blvd / Underhill Dr
+13443890,Cummer Ave / Craigmont Dr
+13443719,Pineway Blvd / Cummer Ave
+13451688,Don Mills Rd / The Donway E / The Donway W
+13451065,Don Mills Rd / Chipping Rd
+13450790,Doonaree Dr / Underhill Dr
+13450540,Beveridge Dr / Underhill Dr
+13449504,Laurentide Dr / Bushbury Dr
+13449743,Laurentide Dr / Tetbury Cres / Barnwood Crt
+13450030,Laurentide Dr / Three Valleys Dr
+13449192,York Mills Rd / Valentine Dr / Silverdale Cres
+13447128,Sheppard Ave E / Leslie St / Don River E Branch
+13445522,Don Mills Rd W / Goodview Rd
+13450781,Don Mills Rd / Bond Ave / Legato Crt
+13450514,Don Mills Rd / Mallard Rd
+13450238,Don Mills Rd / Kern Rd
+13449822,York Mills Rd / Leslie St
+13449536,Leslie St / Farmstead Rd / Coldwater Rd
+13449122,York Mills Rd / Lochinvar Cres
+13447082,Sheppard Ave E / Maris Shepway
+13446677,Leslie St / Marowyne Dr
+13444996,Van Horne Ave / Hobart Dr
+13445192,Kingslake Rd / Van Horne Ave
+13445072,Van Horne Ave / Houston Cres
+13449731,York Mills Rd / Scarsdale Rd
+13449541,York Mills Rd / Lesmill Rd / York Mills Access Ramp
+13449313,Leslie St / Kirkwood Rd
+13449079,Lesmill Rd / Valleybrook Dr
+13449368,York Mills Rd / Don Mills Rd
+13448975,Don Mills Rd / Moatfield Dr
+13449881,Valley Woods Rd / Brookbanks Dr
+13450150,Kellythorne Dr / Underhill Dr / Shawfield Cres
+13449683,Underhill Dr / Brookbanks Dr
+13449777,Cassandra Blvd / Underhill Dr
+13446230,Leslie St / Nymark Ave
+13443611,Leslie St / Dexter Blvd
+13444546,Leslie St / Tree Sparroway
+13444264,Leslie St / Old Cummer Ave
+13454752,Don Mills Rd / Eglinton Ave E
+13454407,Don Mills Rd / Wynford Dr
+13454528,Eglinton W Gervais Dr Ramp / Gervais Dr
+13454346,Wynford Dr / Gervais Dr
+13453783,Don Mills Rd / Barber Greene Rd / Green Belt Dr
+13454454,Eglinton Ave E / Dvp S Eglinton Ramp / Eglinton Dvp S Ramp
+13448813,York Mills Rd / Valley Woods Rd / Sandover Dr
+13448702,Duncan Mill Rd / Lesmill Rd
+13448523,Duncan Mill Rd / Valleybrook Dr
+13445096,Don Mills Rd / Don Mills Rd E / Don Mills Rd W / Van Horne Ave
+13444705,Don Mills Rd / Seneca Hill Dr
+13445637,Don Mills Rd E / Godstone Rd
+13454313,Eglinton Ave E / Eglinton E Dvp N Ramp / Dvp N Eglinton Ramp
+13454202,Eglinton Ave E / Eglinton E Wynford Dr Ramp / Wynford Dr Eglinton W Ramp / Wynford Dr
+13453914,Dvp S Wynford Dr Ramp / Wynford Dr
+13453804,Concorde Pl / Wynford Dr / Wynford Heights Cres
+13453431,Concorde Pl / Concorde Gt
+13448536,Don Mills Rd / Duncan Mill Rd / Graydon Hall Dr
+13448069,Don Mills Rd / Graydon Hall Pl
+13448131,Graydon Hall Pl / Graydon Hall Dr
+13444508,Finch Ave E / Linus Rd / Brahms Ave
+13444423,Don Mills Rd / Finch Ave E / Skymark Park Trl
+13453034,Don Mills Rd / The Donway E / The Donway W
+20234111,Don Mills Rd / Clock Tower Rd
+13452795,Greenland Rd / The Donway E
+13451566,Lawrence Ave E / Railside Rd / Curlew Dr
+13447423,Don Mills Rd / Havenbrook Blvd / Parkway Forest Dr
+13446985,Sheppard Ave E / Buchan Crt
+13444657,Finch Ave E / Trudy Rd / Liszt Gt / Historic Zion Schoolhouse Trl
+13443979,Leslie St / Clansman Blvd / Castlebury Cres
+13451515,Lawrence Ave E / Carnforth Rd
+13451412,Lawrence Ave E / Victoria Park Ave
+13451311,Lawrence Ave E / Townley Ave
+13450472,Victoria Park Ave / Curlew Dr / Lynvalley Cres
+13450857,Victoria Park Ave / Deanvar Ave
+13446814,Sheppard Ave E / Shaughnessy Blvd
+13453263,Barber Greene Rd / Ballymena Crt
+13453020,Overland Dr / Paperbirch Dr
+13453016,Overland Dr / Paperbirch Dr
+13452922,Clock Tower Rd / Overland Dr / The Donway W
+13452491,Lawrence Ave E / Tremont Cres
+13452186,Lawrence Ave E / The Donway E
+13452002,The Donway E / Briarfield Dr
+13452045,Lawrence Ave E / Woodcliff Pl
+13446836,Don Mills Rd / George Henry Blvd
+13446349,Don Mills Rd / Leith Hill Rd
+13446105,Don Mills Rd / Don Mills Rd W / Esterbrooke Ave / Fairview Mall Dr
+13446518,Sheppard Ave E / Parkway Forest Dr
+13452372,Lawrence Ave E / The Donway W
+13452266,Don Mills Rd / Lawrence Ave E
+13451876,Duncairn Rd / The Donway W
+13444899,Finch Ave E / Pineway Blvd / Alamosa Dr
+13450372,York Mills Rd / Harrison Rd
+13448704,Parkwoods Village Dr / Gisburn Rd
+13448996,Parkwoods Village Dr / Combermere Dr
+13448712,Victoria Park Ave / Paget Rd
+13449947,Victoria Park Ave / Rowena Dr
+13449710,Victoria Park Ave / Ivordale Cres
+13449511,Victoria Park Ave / Cassandra Blvd
+13445759,Leslie St / Corning Rd
+13445549,Leslie St / Van Horne Ave / Tangle Briarway
+13452422,Railside Rd / Codeco Crt
+13445054,Military Trl / 1275 Military Trl
+13449936,Galloway Rd / Guildwood Pkwy / Guildwood Park Trl
+13449457,Kipling Ave / Markbrook Lane
+13470070,Lake Shore Blvd W / Mimico Ave / Amos Waites Park Trl
+13445056,Van Horne Ave / Lucifer Dr / Van Horne Park Trl
+13466977,Lake Shore Blvd E / Cherry St
+13461832,Benson Ave / Christie St
+13463769,Bruton Rd / Foxwell St
+13445511,Huntingwood Dr / Kilkenny Dr
+13450584,Kipling Ave / Rowntree Rd / Annabelle Dr
+13457802,Millwood Rd / Village Station Rd
+13457594,Millwood Rd / Laird Dr
+13457369,Laird Dr / Kenrae Rd
+13457776,Millwood Rd / Overlea Blvd
+13458439,O'Connor Dr / Milton Rd
+13458334,O'Connor Dr / Coxwell Blvd / Coxwell Ave
+13458660,Plains Rd / Coxwell Ave
+13458274,O'Connor Dr / Hutton Ave
+13458210,O'Connor Dr / Binswood Ave
+13461380,Earl Haig Ave / Coxwell Ave
+13461623,Coxwell Ave / Hanson St
+13460586,Broadview Ave / Hillside Dr
+13460374,Bater Ave / Broadview Ave
+13460112,Cosburn Ave / Broadview Ave
+13460103,Logan Ave / Cosburn Ave
+13457552,Overlea Blvd / Leaside Park Dr
+13457428,Faircrest Crcl / Parkview Hill Cres
+13457278,Aspen Ave / Parkview Hill Cres
+13457403,Alder Rd / Parkview Hill Cres
+13457550,Grandstand Pl / Milepost Pl / Thorncliffe Park Dr
+13457237,Overlea Blvd / Thorncliffe Park Dr
+13456854,Overlea Blvd / Thorncliffe Park Dr
+13456558,Pat Moore Dr / Thorncliffe Park Dr / Beth Nealson Dr
+13456228,Brentcliffe Rd / Wicksteed Ave
+13456008,Brentcliffe Rd / Vanderhoof Ave
+13455720,Eglinton Ave E / Brentcliffe Rd
+14236458,Vanderhoof Ave / Thomas Elgie Dr
+13460535,Glebeholme Blvd / Coxwell Ave
+13457066,Parkview Hill Cres / Hackberry St
+13456414,Don Mills Rd / Overlea Blvd / Gateway Blvd
+13455700,Don Mills Rd / Gateway Blvd / West Don River Trl
+13455359,Don Mills Rd / St Dennis Dr
+13456290,Gateway Blvd / Sunny Glenway
+13456157,Gateway Blvd / Sunny Glenway
+13461264,Pape Ave / Selkirk St
+13461234,Pape Ave / Canning Ave
+13460996,Pape Ave / Aldwych Ave
+13461602,Kingsmount Park Rd / Gerrard St E
+13455900,Spanbridge Rd / Grenoble Dr
+13455339,Deauville Lane / Grenoble Dr
+13455059,Deauville Lane / St Dennis Dr
+13455363,Linkwood Lane / Windy Golfway
+13454893,Linkwood Lane / St Dennis Dr
+13455144,Linkwood Lane / Shady Golfway
+13460786,Logan Ave / Mortimer Ave
+13460701,Mortimer Ave / Carlaw Ave
+13460275,Pape Ave / Floyd Ave
+13459931,Pape Ave / Cosburn Ave
+13460855,Pape Ave / Sammon Ave
+13460600,Pape Ave / Mortimer Ave
+13455987,Wicksteed Ave / Leslie St
+13455887,Wicksteed Ave / Beth Nealson Dr
+13460937,Woodbine Ave / Merrill Ave E
+13461421,Woodbine Ave / Gerrard St E
+13461235,Gerrard St E / Golfview Ave
+13457131,St Clair Ave E / Doris Dr
+13460437,Mortimer Ave / Woodycrest Ave
+13459803,Torrens Ave / Broadview Ave
+13459492,Broadview Ave / Fernwood Gdns
+13459366,Beechwood Dr / O'Connor Dr
+13455296,Eglinton Ave E / Leslie St / West Don River Trl
+13457239,Elswick Rd / Parkview Hill Cres
+13457254,Woodbine Heights Blvd / Parkview Hill Cres
+13457986,Woodbine Ave / O'Connor Dr
+13461657,Danforth Ave / Jones Ave
+13459558,Mortimer Ave / Knight St
+13459488,Mortimer Ave / Glebemount Ave
+13457092,St Clair Ave E / O'Connor Dr
+13456486,Cranfield Rd / Curity Ave
+13456996,St Clair Ave E / Westview Blvd
+13456896,St Clair Ave E / Rexleigh Dr
+13456719,O'Connor Dr / Curity Ave
+13459771,Pape Ave / Gamble Ave
+13459590,Pape Ave / Torrens Ave
+13459249,Pape Ave / O'Connor Dr
+13459158,O'Connor Dr / Rivercourt Blvd
+13459808,Todmorden Lane / Cosburn Ave
+13459071,O'Connor Dr / Warland Ave
+13461105,Glebeholme Blvd / Baltic Ave / Donlands Ave
+13459399,Mortimer Ave / Woodmount Ave
+13459236,Woodbine Ave / Lumsden Ave / Mortimer Ave
+13458949,Woodbine Ave / Barker Ave
+13458820,Binswood Ave / Cosburn Ave
+13458721,Cosburn Ave / Glebemount Ave
+13458149,O'Connor Dr / Taylor Dr
+13458087,O'Connor Dr / Woodmount Ave
+13458647,Cosburn Ave / Woodmount Ave
+13458538,Woodbine Ave / Cosburn Ave
+13457248,Denvale Rd / St Clair Ave E
+13458477,Leaside Bdge / Pape Ave / Donlands Ave
+13458643,Wolverton Ave / Donlands Ave
+13458943,O'Connor Dr / Donlands Ave
+13458715,Elmsdale Rd / Donlands Ave
+13460818,Donlands Ave / Somers Ave
+13460561,Sammon Ave / Donlands Ave
+13460336,Mortimer Ave / Dewhurst Blvd N
+13459914,Memorial Park Ave / Donlands Ave
+13460235,Mortimer Ave / Donlands Ave
+13458249,Woodbine Ave / Plains Rd
+13459542,Woodbine Ave / Sammon Ave
+13459151,Cedarvale Ave / Lumsden Ave
+13458996,Oak Park Ave / Lumsden Ave
+13458898,Westlake Ave / Lumsden Ave
+13457793,Davisville Ave / Cleveland St
+13457987,Bayview Ave / Mcrae Dr / Merton St
+13457650,Bayview Ave / Davisville Ave
+13457422,Bayview Ave / Millwood Rd
+13460132,Inwood Ave / Mortimer Ave
+13460029,Greenwood Ave / Mortimer Ave
+13461356,Danforth Ave / Greenwood Ave
+13461716,Greenwood Ave / Mountnoel Ave
+13458460,Cedarvale Ave / Cosburn Ave
+13458424,Gledhill Ave / Cosburn Ave
+13456011,Spanbridge Rd / Linkwood Lane / Vicora Linkway / Pavane Linkway
+13456343,Hollinger Rd / Curity Ave
+13456140,Hollinger Rd / Waterman Ave
+13455906,Hollinger Rd / Dohme Ave
+13456999,Bayview Ave / Manor Rd E / Fleming Cres
+13456739,Bayview Ave / Parkhurst Blvd / Soudan Ave
+13458498,Hamstead Ave / Westlake Ave
+13458348,Westlake Ave / Cosburn Ave
+13457565,O'Connor Dr / Glenwood Cres
+13457010,Elswick Rd / Hackberry St
+13456933,Woodbine Heights Blvd / Hackberry St
+13458054,Rolph Rd / Sutherland Dr
+13457871,Hanna Rd / Sutherland Dr
+13457532,Millwood Rd / Sutherland Dr
+13457319,Millwood Rd / Mcrae Dr
+13456949,Rumsey Rd / Mcrae Dr
+13459903,Mortimer Ave / Linsmore Cres
+13460244,Springdale Blvd / Coxwell Ave
+13459980,Coxwell Ave / Sammon Ave
+13459601,Cosburn Ave / Donlands Ave
+13457222,Laird Dr / Esandar Dr
+13456729,Sutherland Dr / Mcrae Dr
+13456928,Laird Dr / Industrial St
+13456733,Laird Dr / Commercial Rd
+13456348,Eglinton Ave E / Bayview Ave
+13459268,Plains Rd / Donlands Ave
+13459436,Greenwood Ave / Cosburn Ave
+13459300,Cosburn Ave / Linsmore Cres
+13458761,Don Mills Rd / O'Connor Dr
+13456773,Overlea Blvd / William Morgan Dr
+13458205,Sutherland Dr / Bessborough Dr
+13455882,Bayview Ave / Broadway Ave
+13456221,Eglinton Ave E / Bessborough Dr
+13456160,Eglinton Ave E / Hanna Rd
+13455421,Bayview Ave / Kilgour Rd
+13454957,Bayview Ave / Sunnydene Cres
+13458692,O'Connor Dr / Dustan Cres
+13458562,O'Connor Dr / Derwyn Rd
+13461456,Chester Hill Rd / Broadview Ave
+13460964,Pottery Rd / Mortimer Ave / Broadview Ave
+13456085,Eglinton Ave E / Rumsey Rd
+13455990,Eglinton Ave E / Sutherland Dr
+13456424,Laird Dr / Wicksteed Ave / Mcrae Dr
+13459805,Roosevelt Rd / Mortimer Ave
+13459143,Roosevelt Rd / Cosburn Ave
+13459424,Coxwell Ave / Barker Ave
+13459689,Coxwell Ave / Mortimer Ave
+13459010,Coxwell Ave / Cosburn Ave
+13460878,Mortimer Ave / Burley Ave
+13456193,Laird Dr / Vanderhoof Ave
+13455899,Eglinton Ave E / Laird Dr
+13455811,Eglinton Ave E / Don Avon Dr
+100,Union Station 
+101,King Station 
+102,Queen Station 
+103,Dundas Station 
+104,College Station 
+105,Wellesley Station 
+106,Bloor-Yonge Station 
+107,Rosedale Station 
+108,Summerhill Station 
+109,St Clair Station 
+110,Davisville Station 
+111,Eglinton Station 
+112,Lawrence Station 
+113,York Mills Station 
+114,Sheppard-Yonge Station 
+115,North York Centre Station 
+116,Finch Station 
+151,St Andrew Station 
+152,Osgoode Station 
+153,St Patrick Station 
+154,Queen'S Park Station 
+155,Museum Station 
+156,St George Station 
+157,Spadina Station 
+158,Dupont Station 
+159,St Clair West Station 
+160,Eglinton West Station 
+161,Glencairn Station 
+162,Lawrence West Station 
+163,Yorkdale Station 
+164,Wilson Station 
+165,Sheppard West Station 
+200,Kipling Station 
+201,Islington Station 
+202,Royal York Station 
+203,Jane Station 
+204,Old Mill Station 
+205,Runnymede Station 
+206,High Park Station 
+207,Keele Station 
+208,Dundas West Station 
+209,Lansdowne Station 
+210,Dufferin Station 
+211,Ossington Station 
+212,Christie Station 
+213,Bathurst Station 
+214,Spadina Station 
+215,Bay Station 
+216,Sherbourne Station 
+217,Castle Frank Station 
+218,Broadview Station 
+219,Chester Station 
+220,Pape Station 
+221,Donlands Station 
+222,Greenwood Station 
+223,Coxwell Station 
+224,Woodbine Station 
+225,Main Street Station 
+226,Victoria Park Station 
+227,Warden Station 
+228,Kennedy Station 
+301,Lawrence East Station 
+302,Ellesmere Station 
+303,Midland Station 
+304,Scarborough Centre Station 
+305,Mccowan Station 
+401,Bayview Station 
+402,Bessarion Station 
+403,Leslie Station 
+404,Don Mills Station 

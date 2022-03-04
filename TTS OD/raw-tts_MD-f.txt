@@ -1,0 +1,3368 @@
+Tue Jun 22 2021 19:51:18 GMT-0400 (EDT) - Run Time: 1275ms
+
+Cross Tabulation Query Form - Transit - 2016 v1.1
+
+Row: 2006 GTA zone of origin - gta06_orig
+Column: 2006 GTA zone of destination - gta06_dest
+Table: 2006 GTA zone of household - gta06_hhld
+
+
+Filters:
+Regional municipality of household - region_hhld In 1
+and
+Regional municipality of origin - region_orig In 1
+and
+Regional municipality of destination - region_dest In 1
+and
+Gender of person - sex In f
+and
+Start time of trip - start_time In 1100-1200
+
+Tran 2016
+ROW : gta06_orig
+COLUMN : gta06_dest
+
+TABLE    : gta06_hhld (1)
+
+  gta06_orig  gta06_dest      total
+          92          90         15
+         258           1          8
+
+TABLE    : gta06_hhld (14)
+
+  gta06_orig  gta06_dest      total
+          14          25          7
+          14          38          7
+          25          14         14
+         210          14         16
+
+TABLE    : gta06_hhld (15)
+
+  gta06_orig  gta06_dest      total
+          15          49          8
+          15          52         12
+          52          19         12
+          77          90         14
+
+TABLE    : gta06_hhld (16)
+
+  gta06_orig  gta06_dest      total
+          16          16         17
+          16          25          8
+          16          67         21
+          16          78         10
+          16          93          7
+          53          63          7
+          66         205         13
+
+TABLE    : gta06_hhld (17)
+
+  gta06_orig  gta06_dest      total
+          17          17         30
+          17          51         23
+          17          66         18
+          51          17         23
+
+TABLE    : gta06_hhld (19)
+
+  gta06_orig  gta06_dest      total
+          19          90         18
+          50          19         14
+          69          19         15
+
+TABLE    : gta06_hhld (21)
+
+  gta06_orig  gta06_dest      total
+          21          35         14
+          21          50         41
+          21          62         28
+          21          75         17
+          21          93         37
+          21         180          5
+          21         211        119
+          21         214         35
+          21         442         19
+          25           5         28
+          29          21         39
+          68          21         11
+          75          21         30
+
+TABLE    : gta06_hhld (22)
+
+  gta06_orig  gta06_dest      total
+          22          23         16
+          22          52         16
+          22          68         14
+          22         115         18
+          22         165         25
+          22         201         14
+          36         268         25
+          70          43         16
+         147          93         14
+         193          22          9
+
+TABLE    : gta06_hhld (23)
+
+  gta06_orig  gta06_dest      total
+          23          52          5
+          37          23          5
+          52          24         42
+          98          52         42
+
+TABLE    : gta06_hhld (24)
+
+  gta06_orig  gta06_dest      total
+          24          45         23
+
+TABLE    : gta06_hhld (25)
+
+  gta06_orig  gta06_dest      total
+          25          74         22
+          25          91         13
+          25         207         21
+          38          25         18
+          70          55         18
+         224          25          9
+         271         270         12
+
+TABLE    : gta06_hhld (26)
+
+  gta06_orig  gta06_dest      total
+          26          25         12
+          26          37         15
+          26          38         16
+          26          46         27
+          26          56         10
+          26          67         12
+          26         119         16
+          26         250         12
+          43          36          9
+          45          26         30
+          48          26         16
+          52         443         16
+          57          38         16
+          99          26         12
+
+TABLE    : gta06_hhld (34)
+
+  gta06_orig  gta06_dest      total
+          34          43          7
+          54         528         25
+          63          90         18
+
+TABLE    : gta06_hhld (35)
+
+  gta06_orig  gta06_dest      total
+          35          38         13
+          35          78         12
+
+TABLE    : gta06_hhld (37)
+
+  gta06_orig  gta06_dest      total
+          37          67         12
+          37         119         19
+          37         270         21
+          67          37         12
+
+TABLE    : gta06_hhld (38)
+
+  gta06_orig  gta06_dest      total
+          38          45         19
+         210          38         29
+         280          38         17
+
+TABLE    : gta06_hhld (40)
+
+  gta06_orig  gta06_dest      total
+          40          46         12
+          40          56         21
+          40          65         16
+          40          94         21
+          40         180          9
+          40         205         12
+
+TABLE    : gta06_hhld (41)
+
+  gta06_orig  gta06_dest      total
+          41          54         12
+          41          63          9
+          41         274         24
+          90          41         24
+
+TABLE    : gta06_hhld (42)
+
+  gta06_orig  gta06_dest      total
+          25          42         76
+          42          52         24
+          42         490         18
+         441          42         19
+
+TABLE    : gta06_hhld (43)
+
+  gta06_orig  gta06_dest      total
+          51          43         34
+
+TABLE    : gta06_hhld (44)
+
+  gta06_orig  gta06_dest      total
+          44          55         39
+          44         182         39
+         204          42          6
+         204          46         32
+
+TABLE    : gta06_hhld (45)
+
+  gta06_orig  gta06_dest      total
+          45          35         13
+          45          36         27
+          45          54         15
+          45          66         31
+
+TABLE    : gta06_hhld (46)
+
+  gta06_orig  gta06_dest      total
+          21          46         12
+          36          46         14
+          46          54         14
+          46          66          5
+          46          71         12
+          46         238         14
+          54          46         28
+         113          69         18
+         204          46         12
+
+TABLE    : gta06_hhld (47)
+
+  gta06_orig  gta06_dest      total
+          54          71         18
+          72          47         10
+         204          47         14
+
+TABLE    : gta06_hhld (48)
+
+  gta06_orig  gta06_dest      total
+          48          57         14
+         566          48         22
+
+TABLE    : gta06_hhld (50)
+
+  gta06_orig  gta06_dest      total
+          50         217         21
+
+TABLE    : gta06_hhld (51)
+
+  gta06_orig  gta06_dest      total
+          51         443         14
+
+TABLE    : gta06_hhld (53)
+
+  gta06_orig  gta06_dest      total
+          53          36         17
+          53          45         15
+
+TABLE    : gta06_hhld (60)
+
+  gta06_orig  gta06_dest      total
+          39          60         22
+
+TABLE    : gta06_hhld (61)
+
+  gta06_orig  gta06_dest      total
+          31          61         17
+          54          61         17
+          61          54         17
+          61          68         32
+
+TABLE    : gta06_hhld (62)
+
+  gta06_orig  gta06_dest      total
+          49          68         17
+          52          62         12
+          62          52         13
+          62         157         17
+          62         220         15
+
+TABLE    : gta06_hhld (63)
+
+  gta06_orig  gta06_dest      total
+          63          70         15
+
+TABLE    : gta06_hhld (64)
+
+  gta06_orig  gta06_dest      total
+          64          69         14
+          64         187         32
+          64         271         12
+          75          64         11
+
+TABLE    : gta06_hhld (65)
+
+  gta06_orig  gta06_dest      total
+          65          85         10
+          65         290         14
+
+TABLE    : gta06_hhld (66)
+
+  gta06_orig  gta06_dest      total
+          66          69         10
+          66         187         17
+          66         269          9
+         452          69         14
+
+TABLE    : gta06_hhld (67)
+
+  gta06_orig  gta06_dest      total
+          67          21         10
+          67          51         13
+          67         231         19
+         486          67         11
+
+TABLE    : gta06_hhld (68)
+
+  gta06_orig  gta06_dest      total
+          68          17         13
+          68         211         14
+          68         223          8
+
+TABLE    : gta06_hhld (70)
+
+  gta06_orig  gta06_dest      total
+          46          70          4
+          70          34          4
+          70         120          4
+
+TABLE    : gta06_hhld (71)
+
+  gta06_orig  gta06_dest      total
+          71          65         20
+          71          98         31
+          71         180         61
+          71         218         25
+         180          71         61
+         211          71         61
+
+TABLE    : gta06_hhld (72)
+
+  gta06_orig  gta06_dest      total
+          72          43         33
+          72         101          5
+         410          72         13
+
+TABLE    : gta06_hhld (74)
+
+  gta06_orig  gta06_dest      total
+          74          94          7
+          74         283          7
+         101          74         57
+
+TABLE    : gta06_hhld (76)
+
+  gta06_orig  gta06_dest      total
+          76          45         35
+
+TABLE    : gta06_hhld (78)
+
+  gta06_orig  gta06_dest      total
+          21          45         29
+          36          78         12
+          78          49         16
+         278          78         10
+
+TABLE    : gta06_hhld (79)
+
+  gta06_orig  gta06_dest      total
+          69          79         26
+          79          25         26
+          79          47         18
+          79          78         16
+
+TABLE    : gta06_hhld (80)
+
+  gta06_orig  gta06_dest      total
+          80          85         19
+
+TABLE    : gta06_hhld (84)
+
+  gta06_orig  gta06_dest      total
+          52          84         24
+          73          84         18
+          84          51         82
+          84          57          7
+
+TABLE    : gta06_hhld (89)
+
+  gta06_orig  gta06_dest      total
+          71          69          9
+          89          45         28
+          89          69          6
+          89          97         15
+         110         101         33
+
+TABLE    : gta06_hhld (90)
+
+  gta06_orig  gta06_dest      total
+          17         267         17
+          55          90         14
+          90          25         20
+          90          26         17
+          90          46         47
+          90          52          4
+          90          68         31
+          90          70         19
+          90          76          4
+          90         101         58
+          90         179         91
+          90         278         15
+          90         443         15
+
+TABLE    : gta06_hhld (91)
+
+  gta06_orig  gta06_dest      total
+          19          45          7
+          51          91          7
+          91         165          7
+
+TABLE    : gta06_hhld (92)
+
+  gta06_orig  gta06_dest      total
+          92          23          6
+
+TABLE    : gta06_hhld (93)
+
+  gta06_orig  gta06_dest      total
+          93         101          6
+          93         187         49
+          93         415          6
+
+TABLE    : gta06_hhld (94)
+
+  gta06_orig  gta06_dest      total
+          43          94         14
+          94          36         33
+
+TABLE    : gta06_hhld (95)
+
+  gta06_orig  gta06_dest      total
+          95          52         47
+
+TABLE    : gta06_hhld (97)
+
+  gta06_orig  gta06_dest      total
+          97          74          7
+          97          75          5
+         108          97          5
+
+TABLE    : gta06_hhld (98)
+
+  gta06_orig  gta06_dest      total
+          53          98          5
+          65          98        121
+          93          98          7
+          98          65        121
+         327          67         32
+
+TABLE    : gta06_hhld (99)
+
+  gta06_orig  gta06_dest      total
+          21          69          5
+          55          99         48
+          99          46        108
+          99          52          5
+          99          57         90
+          99          69          8
+          99          75         16
+         212         206         28
+         443          99         22
+
+TABLE    : gta06_hhld (100)
+
+  gta06_orig  gta06_dest      total
+          52         100          7
+          92         100          7
+         100         391          7
+
+TABLE    : gta06_hhld (101)
+
+  gta06_orig  gta06_dest      total
+         101         218         30
+         120         101          5
+
+TABLE    : gta06_hhld (102)
+
+  gta06_orig  gta06_dest      total
+          25         102          6
+         102         186          6
+
+TABLE    : gta06_hhld (103)
+
+  gta06_orig  gta06_dest      total
+          49         103         72
+          81         103          6
+         103          49         72
+
+TABLE    : gta06_hhld (104)
+
+  gta06_orig  gta06_dest      total
+          48         171         19
+         104          75         27
+         104          93          5
+         104         186         10
+         186         104         10
+
+TABLE    : gta06_hhld (105)
+
+  gta06_orig  gta06_dest      total
+          68         105        191
+         105          52         57
+         105         105          5
+         204         105          6
+
+TABLE    : gta06_hhld (106)
+
+  gta06_orig  gta06_dest      total
+         105         106          5
+         113         106         30
+         290         106          9
+
+TABLE    : gta06_hhld (107)
+
+  gta06_orig  gta06_dest      total
+          43          36         62
+          75         101        129
+         107          67          7
+
+TABLE    : gta06_hhld (108)
+
+  gta06_orig  gta06_dest      total
+          71         110          5
+
+TABLE    : gta06_hhld (109)
+
+  gta06_orig  gta06_dest      total
+          51         109          6
+          56         109         40
+          69         109         40
+         109         120         37
+         114         109         41
+
+TABLE    : gta06_hhld (110)
+
+  gta06_orig  gta06_dest      total
+          51         110         36
+          65         110         14
+          89          89         65
+          89         110         65
+          90         110         19
+         110          25         12
+         110          51          6
+         110          53         24
+         110          67          7
+         110         110         47
+         110         212         37
+         110         278         23
+         110         287         10
+
+TABLE    : gta06_hhld (113)
+
+  gta06_orig  gta06_dest      total
+          91          99         24
+         113          55          8
+         113          71         29
+         113          73          4
+
+TABLE    : gta06_hhld (114)
+
+  gta06_orig  gta06_dest      total
+          75         101          6
+         113         114         14
+         114          37          6
+         114          45         21
+         114          55          4
+         114          94         17
+
+TABLE    : gta06_hhld (115)
+
+  gta06_orig  gta06_dest      total
+         110         115        116
+         115         242         21
+
+TABLE    : gta06_hhld (116)
+
+  gta06_orig  gta06_dest      total
+         116          57          4
+         116          68         20
+         116          75         26
+         116         125         40
+         125         116         20
+
+TABLE    : gta06_hhld (117)
+
+  gta06_orig  gta06_dest      total
+          43         117         39
+          95          77         13
+         117          46         13
+         117         120         17
+         117         124         39
+         117         131         14
+         122         117         13
+
+TABLE    : gta06_hhld (119)
+
+  gta06_orig  gta06_dest      total
+          37          42         29
+          45         119         24
+          51          75         27
+          66         119         22
+         113         119         16
+         119          25         38
+         119          50         21
+         119          55         49
+         119          70         36
+         119          71         26
+         119         105         26
+         120          52         38
+         124         119         44
+
+TABLE    : gta06_hhld (120)
+
+  gta06_orig  gta06_dest      total
+          57         210         15
+         120          54         14
+         120         391         28
+         122         110         12
+         124         120         58
+         146         120         16
+         291          23          6
+         324         120         16
+
+TABLE    : gta06_hhld (122)
+
+  gta06_orig  gta06_dest      total
+          51         122         14
+          55         122         16
+          72         211         10
+         120         122         16
+         122          43          9
+         122          50          6
+         122          52         14
+         122          57         16
+         122         204         17
+         125         122          8
+
+TABLE    : gta06_hhld (123)
+
+  gta06_orig  gta06_dest      total
+         123          67         18
+         123         218         22
+
+TABLE    : gta06_hhld (124)
+
+  gta06_orig  gta06_dest      total
+         264         124          9
+
+TABLE    : gta06_hhld (125)
+
+  gta06_orig  gta06_dest      total
+          35         125         10
+          36         125          4
+         114         124          5
+         114         125         26
+         120         125         18
+         124         126          5
+         125          15         22
+         125          52         33
+         125          85         12
+         125         125          5
+         287         120         18
+
+TABLE    : gta06_hhld (126)
+
+  gta06_orig  gta06_dest      total
+          45         103          5
+         126         107          5
+
+TABLE    : gta06_hhld (127)
+
+  gta06_orig  gta06_dest      total
+          21         127         12
+
+TABLE    : gta06_hhld (128)
+
+  gta06_orig  gta06_dest      total
+          37         109         95
+         128          45         18
+         187          68         63
+
+TABLE    : gta06_hhld (129)
+
+  gta06_orig  gta06_dest      total
+          17          37         22
+         408         129         39
+
+TABLE    : gta06_hhld (130)
+
+  gta06_orig  gta06_dest      total
+         113         130         20
+         130          21          6
+         130          52         17
+         130         125         11
+         130         146         11
+         130         270         22
+         130         313          6
+
+TABLE    : gta06_hhld (131)
+
+  gta06_orig  gta06_dest      total
+          37         560         50
+          39         131          6
+          93         131         27
+         129         131         14
+         131          70         31
+         131         131         14
+         132         131         12
+         165         131         25
+
+TABLE    : gta06_hhld (132)
+
+  gta06_orig  gta06_dest      total
+         132          37          9
+
+TABLE    : gta06_hhld (133)
+
+  gta06_orig  gta06_dest      total
+          93         133         34
+         133         135         24
+         133         146         22
+         133         364         31
+         152         133         20
+
+TABLE    : gta06_hhld (134)
+
+  gta06_orig  gta06_dest      total
+         134          51          9
+         134          67         19
+         134         142          9
+         134         409         28
+
+TABLE    : gta06_hhld (135)
+
+  gta06_orig  gta06_dest      total
+         135          68          6
+         135         408         10
+
+TABLE    : gta06_hhld (137)
+
+  gta06_orig  gta06_dest      total
+         137          21         30
+         137          69         39
+         137         408         33
+         146         137         23
+         440         139         30
+
+TABLE    : gta06_hhld (138)
+
+  gta06_orig  gta06_dest      total
+         135         138         18
+
+TABLE    : gta06_hhld (139)
+
+  gta06_orig  gta06_dest      total
+          45         139         11
+          54         210         17
+         139          69         23
+         139         150          7
+         139         390         17
+
+TABLE    : gta06_hhld (143)
+
+  gta06_orig  gta06_dest      total
+          17         139         18
+         143          43         23
+         143         165          7
+
+TABLE    : gta06_hhld (144)
+
+  gta06_orig  gta06_dest      total
+          75         144          7
+         144          25         75
+         144         180         39
+
+TABLE    : gta06_hhld (145)
+
+  gta06_orig  gta06_dest      total
+          74         145          9
+         181         145         21
+
+TABLE    : gta06_hhld (147)
+
+  gta06_orig  gta06_dest      total
+         147         113        118
+         147         124         12
+         147         172         65
+         183          69         11
+         183         147         72
+
+TABLE    : gta06_hhld (148)
+
+  gta06_orig  gta06_dest      total
+         148          37          7
+         148          69         49
+         148          96         49
+         148         101         24
+         148         209          7
+         203          36         13
+
+TABLE    : gta06_hhld (149)
+
+  gta06_orig  gta06_dest      total
+         149          53         54
+         149         169         91
+
+TABLE    : gta06_hhld (150)
+
+  gta06_orig  gta06_dest      total
+          69         150         18
+         150         130         44
+         156         150          7
+
+TABLE    : gta06_hhld (151)
+
+  gta06_orig  gta06_dest      total
+          37         151         30
+
+TABLE    : gta06_hhld (152)
+
+  gta06_orig  gta06_dest      total
+         152         152          7
+
+TABLE    : gta06_hhld (153)
+
+  gta06_orig  gta06_dest      total
+         153         142         29
+         166         153          5
+         408         153         15
+
+TABLE    : gta06_hhld (154)
+
+  gta06_orig  gta06_dest      total
+         154          69         17
+         415         154         10
+
+TABLE    : gta06_hhld (158)
+
+  gta06_orig  gta06_dest      total
+          37         158         31
+         156         101         31
+         158         156         31
+         158         277         23
+         448         158         22
+
+TABLE    : gta06_hhld (161)
+
+  gta06_orig  gta06_dest      total
+          21         161         38
+          25         161         38
+         161         204         21
+         191         180         11
+         425         178         21
+
+TABLE    : gta06_hhld (162)
+
+  gta06_orig  gta06_dest      total
+         162          69         20
+
+TABLE    : gta06_hhld (163)
+
+  gta06_orig  gta06_dest      total
+          76         163          5
+         113         211          9
+         156         163         12
+         157         180          7
+         163         101          9
+         163         158          9
+         163         161          5
+         163         211         16
+
+TABLE    : gta06_hhld (164)
+
+  gta06_orig  gta06_dest      total
+         164          65          8
+
+TABLE    : gta06_hhld (165)
+
+  gta06_orig  gta06_dest      total
+         105         165          9
+         165          41          6
+         165          71         12
+
+TABLE    : gta06_hhld (167)
+
+  gta06_orig  gta06_dest      total
+          96          45         64
+         167          54         18
+         167         190          6
+         167         443         18
+         193         167         18
+
+TABLE    : gta06_hhld (169)
+
+  gta06_orig  gta06_dest      total
+          37          71          6
+
+TABLE    : gta06_hhld (170)
+
+  gta06_orig  gta06_dest      total
+          38         170         18
+         170         146         21
+         174         186          9
+         314         170         45
+
+TABLE    : gta06_hhld (171)
+
+  gta06_orig  gta06_dest      total
+         171         143          7
+         181         171          7
+         351         171         71
+
+TABLE    : gta06_hhld (172)
+
+  gta06_orig  gta06_dest      total
+          48         177         18
+         145         172         10
+         165          80         17
+         172          68          8
+
+TABLE    : gta06_hhld (173)
+
+  gta06_orig  gta06_dest      total
+          21          46          9
+          51          67         10
+          57         173         12
+          68         173         10
+         169          81         30
+         172         173         21
+         173          49         10
+         173          52          6
+         173          67         11
+         173          69         31
+         173          71         74
+         173          75         35
+         173          76         22
+         173         101          9
+         173         169         29
+         173         178         19
+         173         179         17
+         173         185         10
+         173         307         10
+         218         173          6
+         391         173         21
+         415         131         13
+
+TABLE    : gta06_hhld (174)
+
+  gta06_orig  gta06_dest      total
+         173          72         19
+         174          25         65
+         174          45         14
+         174         211         22
+
+TABLE    : gta06_hhld (175)
+
+  gta06_orig  gta06_dest      total
+          44         197         38
+         160         175        124
+         175          72          7
+         175         101         27
+         175         391         25
+         175         481         35
+         180         175         18
+         271          50         38
+         279         271         38
+
+TABLE    : gta06_hhld (176)
+
+  gta06_orig  gta06_dest      total
+         157         176         18
+         176          60         12
+         176         202         18
+         176         218         30
+         176         305         77
+
+TABLE    : gta06_hhld (177)
+
+  gta06_orig  gta06_dest      total
+          25         177         16
+          54         177         10
+          73          43         10
+         114         177         27
+         133         177         40
+         174         177         15
+         177          52         11
+         177          57         21
+         177         177         37
+         177         181         13
+         177         201          5
+         177         420         16
+         179         177         74
+         194         177          7
+         420         177         16
+
+TABLE    : gta06_hhld (178)
+
+  gta06_orig  gta06_dest      total
+         178          45         20
+         178         391         19
+         180         178         10
+
+TABLE    : gta06_hhld (180)
+
+  gta06_orig  gta06_dest      total
+         263         180         10
+
+TABLE    : gta06_hhld (181)
+
+  gta06_orig  gta06_dest      total
+          70          43         19
+         156         179         10
+         180         182         33
+         181         195         28
+         192         181         19
+         393         181         28
+
+TABLE    : gta06_hhld (182)
+
+  gta06_orig  gta06_dest      total
+          37         182         11
+         182          50         15
+         182          52         80
+         182         182         99
+         182         481         18
+
+TABLE    : gta06_hhld (183)
+
+  gta06_orig  gta06_dest      total
+         183          40         20
+         183          49          7
+         436         182         12
+
+TABLE    : gta06_hhld (184)
+
+  gta06_orig  gta06_dest      total
+          69         179          9
+         264          69         14
+
+TABLE    : gta06_hhld (185)
+
+  gta06_orig  gta06_dest      total
+          73         185          8
+         185          37         12
+         202         185         20
+         278          45         23
+
+TABLE    : gta06_hhld (186)
+
+  gta06_orig  gta06_dest      total
+         186          52          6
+         186         203         18
+         203         186         19
+
+TABLE    : gta06_hhld (187)
+
+  gta06_orig  gta06_dest      total
+         187          43         12
+         187         279          7
+
+TABLE    : gta06_hhld (188)
+
+  gta06_orig  gta06_dest      total
+         188          50         15
+         188          69         92
+
+TABLE    : gta06_hhld (189)
+
+  gta06_orig  gta06_dest      total
+          70         189         16
+
+TABLE    : gta06_hhld (191)
+
+  gta06_orig  gta06_dest      total
+         191          38         26
+         191          48         13
+         191          64          9
+         191          66         21
+         191         191          9
+         191         202         13
+         191         210         13
+         191         526         13
+         211         191          9
+
+TABLE    : gta06_hhld (192)
+
+  gta06_orig  gta06_dest      total
+          47          52          5
+
+TABLE    : gta06_hhld (193)
+
+  gta06_orig  gta06_dest      total
+          45          72         48
+         193          45         21
+         193          48         30
+         193         442          9
+         211         193          6
+         218         193         20
+
+TABLE    : gta06_hhld (194)
+
+  gta06_orig  gta06_dest      total
+         194         218         18
+
+TABLE    : gta06_hhld (195)
+
+  gta06_orig  gta06_dest      total
+          35         195         28
+         196         195         16
+         467         195          5
+
+TABLE    : gta06_hhld (196)
+
+  gta06_orig  gta06_dest      total
+         196          37         10
+         196          38         22
+         196          40         16
+         196         209         12
+         202         196         15
+         465          15         22
+
+TABLE    : gta06_hhld (197)
+
+  gta06_orig  gta06_dest      total
+         197          55         34
+         215         197         24
+         601         197         15
+
+TABLE    : gta06_hhld (199)
+
+  gta06_orig  gta06_dest      total
+         199          35        102
+         199          68         14
+
+TABLE    : gta06_hhld (200)
+
+  gta06_orig  gta06_dest      total
+          42         200         19
+         279          40         19
+
+TABLE    : gta06_hhld (201)
+
+  gta06_orig  gta06_dest      total
+          37         113         38
+          46         201          6
+          61         210         61
+         186         201          9
+         413         437         30
+
+TABLE    : gta06_hhld (202)
+
+  gta06_orig  gta06_dest      total
+          36          14         24
+          51         202         23
+          52         202         28
+         202          45         20
+         202          55         20
+         202          69         21
+         202         270         34
+         203         202         14
+         279         202         40
+
+TABLE    : gta06_hhld (203)
+
+  gta06_orig  gta06_dest      total
+          72         187         33
+         169         203         19
+         203          43         20
+
+TABLE    : gta06_hhld (204)
+
+  gta06_orig  gta06_dest      total
+          68         204         52
+         204          43         28
+         204          70         36
+         204         124         48
+
+TABLE    : gta06_hhld (205)
+
+  gta06_orig  gta06_dest      total
+          49         205         21
+         113         173         21
+         173         202         16
+         205          42         12
+         205          43         27
+         205          54         21
+         205         124         21
+         205         201         21
+         205         315         20
+
+TABLE    : gta06_hhld (207)
+
+  gta06_orig  gta06_dest      total
+          68         207         11
+         207          52         61
+         207          55         18
+         207          66         13
+
+TABLE    : gta06_hhld (209)
+
+  gta06_orig  gta06_dest      total
+          37         209         24
+          43         209         18
+         200          45         32
+         205          50         21
+         209          37         18
+         209          52         18
+         209          69         27
+         209         119         13
+         209         204         18
+         209         216          4
+         209         443         20
+         443         209         20
+
+TABLE    : gta06_hhld (210)
+
+  gta06_orig  gta06_dest      total
+          43          55         16
+         210          38         77
+         210          45         25
+         210          68         20
+         210         202         48
+         210         218         19
+         210         481         13
+         220         210         48
+         243         220         28
+
+TABLE    : gta06_hhld (211)
+
+  gta06_orig  gta06_dest      total
+          21         211         30
+          40         564         27
+          67          45         15
+          68          50         35
+          75         211         15
+         211          15         14
+         211          37         12
+         211          38         21
+         211          40         15
+         211          45         19
+         211          46         27
+         211          52         40
+         211          67         21
+         211          73         35
+         211         204         10
+         211         218         17
+         391         211         30
+
+TABLE    : gta06_hhld (212)
+
+  gta06_orig  gta06_dest      total
+          46         212          6
+         122          37         13
+         211         212         13
+         212          52         21
+         212          55         11
+         212          69         17
+         212          70         14
+         212          93          9
+         212         211         13
+
+TABLE    : gta06_hhld (213)
+
+  gta06_orig  gta06_dest      total
+         213          66         13
+
+TABLE    : gta06_hhld (214)
+
+  gta06_orig  gta06_dest      total
+          45          36         14
+         455         214         14
+
+TABLE    : gta06_hhld (216)
+
+  gta06_orig  gta06_dest      total
+          52          43          9
+          66          52          9
+         216          45         13
+         216         313         20
+         216         526         12
+         526         216         12
+
+TABLE    : gta06_hhld (217)
+
+  gta06_orig  gta06_dest      total
+          61         210         31
+         217          89         12
+         219         217         13
+
+TABLE    : gta06_hhld (218)
+
+  gta06_orig  gta06_dest      total
+         218         218         19
+
+TABLE    : gta06_hhld (219)
+
+  gta06_orig  gta06_dest      total
+          41          66         17
+         211         219         13
+         219         247         21
+
+TABLE    : gta06_hhld (222)
+
+  gta06_orig  gta06_dest      total
+          76          36          9
+         222          45         14
+         222          49         15
+         222          51         56
+         222          52          5
+         222          75         26
+         222         236         12
+         222         490         50
+
+TABLE    : gta06_hhld (223)
+
+  gta06_orig  gta06_dest      total
+          25          97         58
+         223          52         11
+         223          67         21
+         223         222         38
+         223         223         19
+         223         276         14
+         223         317          9
+         223         323         14
+         223         444         29
+         223         467         17
+
+TABLE    : gta06_hhld (225)
+
+  gta06_orig  gta06_dest      total
+         225         180         19
+
+TABLE    : gta06_hhld (227)
+
+  gta06_orig  gta06_dest      total
+         227          45         16
+
+TABLE    : gta06_hhld (228)
+
+  gta06_orig  gta06_dest      total
+         228          45         15
+         228         421         17
+         443         120         16
+
+TABLE    : gta06_hhld (230)
+
+  gta06_orig  gta06_dest      total
+         230          45         11
+         230         203         23
+         392         391         28
+
+TABLE    : gta06_hhld (232)
+
+  gta06_orig  gta06_dest      total
+         232         467         32
+         278         232         54
+
+TABLE    : gta06_hhld (233)
+
+  gta06_orig  gta06_dest      total
+         233          55         51
+         233         504         10
+         233         528         45
+
+TABLE    : gta06_hhld (234)
+
+  gta06_orig  gta06_dest      total
+         188         234         11
+         234          52         12
+         234         504         28
+         239         239         14
+
+TABLE    : gta06_hhld (237)
+
+  gta06_orig  gta06_dest      total
+         237         481         16
+
+TABLE    : gta06_hhld (238)
+
+  gta06_orig  gta06_dest      total
+         242         238         11
+         505         238         51
+
+TABLE    : gta06_hhld (239)
+
+  gta06_orig  gta06_dest      total
+          38         239         31
+         239         236         24
+         239         481         20
+
+TABLE    : gta06_hhld (242)
+
+  gta06_orig  gta06_dest      total
+          61         224         18
+         242          68          9
+         258         242         10
+
+TABLE    : gta06_hhld (243)
+
+  gta06_orig  gta06_dest      total
+         186         243          9
+         218         243         16
+         243          52         10
+         243         211         12
+         243         443         22
+         243         465         16
+         243         481          9
+
+TABLE    : gta06_hhld (245)
+
+  gta06_orig  gta06_dest      total
+         245          25         17
+         583         245         16
+
+TABLE    : gta06_hhld (247)
+
+  gta06_orig  gta06_dest      total
+         247         504         13
+
+TABLE    : gta06_hhld (248)
+
+  gta06_orig  gta06_dest      total
+          21         248         14
+          37         248         14
+          51         248         51
+         248         258         25
+         528         248         11
+
+TABLE    : gta06_hhld (249)
+
+  gta06_orig  gta06_dest      total
+          21         249         47
+          51          37         20
+          96          48         22
+         249          40         17
+         249          42         20
+         249          66         36
+         249         193         47
+         249         251         22
+         249         252         29
+         249         444         31
+         249         490          7
+         249         503         40
+         249         528         13
+         249         531         22
+         251         249         22
+         252         249         29
+         260         528         10
+         520         490         14
+         564         249         23
+
+TABLE    : gta06_hhld (250)
+
+  gta06_orig  gta06_dest      total
+          46         279         12
+          53         250         40
+          55         250         17
+          59         250          7
+         249         250         20
+         250          40          5
+         250          52          7
+         250         109         14
+         250         200          8
+         250         259         54
+         250         273         28
+         259          68         16
+         285         250         21
+         538         250         47
+
+TABLE    : gta06_hhld (251)
+
+  gta06_orig  gta06_dest      total
+          38         211         10
+         211         251         10
+         264          21         14
+         511         251         39
+
+TABLE    : gta06_hhld (252)
+
+  gta06_orig  gta06_dest      total
+          43         252         74
+          47         252         18
+         252          88         12
+         252         290         23
+         252         538         10
+
+TABLE    : gta06_hhld (253)
+
+  gta06_orig  gta06_dest      total
+          43         211          5
+         123         253          8
+         253          47         17
+         253         278         10
+         253         535         13
+
+TABLE    : gta06_hhld (254)
+
+  gta06_orig  gta06_dest      total
+         254          44         50
+         254         269         22
+         254         391         22
+
+TABLE    : gta06_hhld (255)
+
+  gta06_orig  gta06_dest      total
+          36         255         24
+          56         114          8
+         106          50         18
+         253         255         30
+         254         255         21
+         255          52         19
+
+TABLE    : gta06_hhld (256)
+
+  gta06_orig  gta06_dest      total
+          70          52         14
+         256          79         35
+         256         259         94
+         256         391        117
+         256         544         31
+
+TABLE    : gta06_hhld (257)
+
+  gta06_orig  gta06_dest      total
+         255         257         25
+         257          55         19
+         257          94         11
+         257         621          9
+         269         257          4
+         490         257         25
+         526         257         25
+
+TABLE    : gta06_hhld (258)
+
+  gta06_orig  gta06_dest      total
+          38          67         10
+         203          48         17
+         258          51         11
+         258         250         12
+         258         563         49
+
+TABLE    : gta06_hhld (259)
+
+  gta06_orig  gta06_dest      total
+          47         259         36
+         259          52         13
+         259          85         24
+         259         265         20
+         259         277         12
+         259         282          8
+         259         528         28
+         282         259         15
+
+TABLE    : gta06_hhld (260)
+
+  gta06_orig  gta06_dest      total
+         260         249         14
+
+TABLE    : gta06_hhld (261)
+
+  gta06_orig  gta06_dest      total
+         455         261         20
+
+TABLE    : gta06_hhld (262)
+
+  gta06_orig  gta06_dest      total
+         251         251         22
+         262         250         28
+         262         277          8
+
+TABLE    : gta06_hhld (263)
+
+  gta06_orig  gta06_dest      total
+         180         490         20
+         204         259         20
+         263          70         12
+         263          75          9
+         263         209         20
+
+TABLE    : gta06_hhld (264)
+
+  gta06_orig  gta06_dest      total
+          48          41          4
+         251         264          5
+         264          69         12
+         264         180        102
+         264         258         23
+
+TABLE    : gta06_hhld (265)
+
+  gta06_orig  gta06_dest      total
+         265          45          6
+         265          69         16
+
+TABLE    : gta06_hhld (266)
+
+  gta06_orig  gta06_dest      total
+          51         266          8
+         266          47          8
+         266          96          8
+         266         249         20
+
+TABLE    : gta06_hhld (267)
+
+  gta06_orig  gta06_dest      total
+         267          63          8
+         267         256         67
+
+TABLE    : gta06_hhld (268)
+
+  gta06_orig  gta06_dest      total
+          25          16          6
+          62         270         47
+         278         268          4
+
+TABLE    : gta06_hhld (269)
+
+  gta06_orig  gta06_dest      total
+          38         269          5
+          75          51         60
+         258         269         36
+         269          52         33
+         269          90         21
+
+TABLE    : gta06_hhld (270)
+
+  gta06_orig  gta06_dest      total
+          41         243         32
+          48         270         28
+          71         270         58
+         270          48         28
+
+TABLE    : gta06_hhld (271)
+
+  gta06_orig  gta06_dest      total
+          49         271         38
+          52          69         12
+          52         271          6
+          91         271          4
+         271         515         12
+
+TABLE    : gta06_hhld (272)
+
+  gta06_orig  gta06_dest      total
+          52         272         41
+         272          38         10
+
+TABLE    : gta06_hhld (273)
+
+  gta06_orig  gta06_dest      total
+          68         273         47
+         273          71         23
+         273         218         28
+         273         272         22
+
+TABLE    : gta06_hhld (275)
+
+  gta06_orig  gta06_dest      total
+         222         275         60
+         275         222         60
+
+TABLE    : gta06_hhld (276)
+
+  gta06_orig  gta06_dest      total
+         110         276         69
+
+TABLE    : gta06_hhld (277)
+
+  gta06_orig  gta06_dest      total
+          36         277          8
+         277         391          4
+         277         465         42
+
+TABLE    : gta06_hhld (278)
+
+  gta06_orig  gta06_dest      total
+          16          56          7
+         263         278         19
+         278          25         18
+         278          55         19
+         278          69          4
+
+TABLE    : gta06_hhld (279)
+
+  gta06_orig  gta06_dest      total
+          46         279         28
+         279          68         10
+         279         220         20
+         279         279         21
+
+TABLE    : gta06_hhld (280)
+
+  gta06_orig  gta06_dest      total
+         209          25         10
+         280          52         10
+         280          69         41
+
+TABLE    : gta06_hhld (281)
+
+  gta06_orig  gta06_dest      total
+          25          56         29
+          67         249         29
+         119         281         16
+         281          25         29
+         281          38          6
+         281          46         17
+         281          52         27
+         281          62         33
+
+TABLE    : gta06_hhld (282)
+
+  gta06_orig  gta06_dest      total
+          50         282         19
+          52          46         20
+          90         170         43
+         279          43         19
+         279         282         25
+         282          46         12
+         282          56         17
+         282         214         26
+         282         250         24
+         282         277         41
+         282         279         25
+
+TABLE    : gta06_hhld (284)
+
+  gta06_orig  gta06_dest      total
+         222         481         23
+         284         222         23
+
+TABLE    : gta06_hhld (285)
+
+  gta06_orig  gta06_dest      total
+         285          25         29
+         285          69         34
+         285         289         20
+         285         294         12
+         285         340         12
+
+TABLE    : gta06_hhld (286)
+
+  gta06_orig  gta06_dest      total
+          16          36         14
+          56         286          7
+         113         286         17
+         286          43         24
+         286          54         20
+         286          65         29
+         286          93         17
+         286         124         14
+         286         287         12
+         289          57          9
+
+TABLE    : gta06_hhld (287)
+
+  gta06_orig  gta06_dest      total
+          38         287          6
+          43          64         13
+          47         287          9
+         287         203          8
+
+TABLE    : gta06_hhld (288)
+
+  gta06_orig  gta06_dest      total
+          50         288         29
+          89          78          9
+         113         109         14
+         288          21         13
+         288          36         38
+         292         288         28
+
+TABLE    : gta06_hhld (293)
+
+  gta06_orig  gta06_dest      total
+         293          15          6
+         293          38         20
+
+TABLE    : gta06_hhld (295)
+
+  gta06_orig  gta06_dest      total
+          70          26         10
+         114         295         20
+         115         118         14
+         295          51         19
+         295          66          8
+
+TABLE    : gta06_hhld (297)
+
+  gta06_orig  gta06_dest      total
+         287         297         11
+         297         146         13
+         313          66         16
+
+TABLE    : gta06_hhld (300)
+
+  gta06_orig  gta06_dest      total
+         300          38         48
+
+TABLE    : gta06_hhld (301)
+
+  gta06_orig  gta06_dest      total
+          74          89         31
+         301          68         40
+         301          70         11
+         301         157         14
+         301         323         18
+
+TABLE    : gta06_hhld (302)
+
+  gta06_orig  gta06_dest      total
+         113         302         14
+         272         302         14
+
+TABLE    : gta06_hhld (304)
+
+  gta06_orig  gta06_dest      total
+          73          75          4
+         304         113         13
+         304         309         14
+
+TABLE    : gta06_hhld (305)
+
+  gta06_orig  gta06_dest      total
+          68         305         13
+         305          42         12
+         305          69         19
+         309         305         14
+
+TABLE    : gta06_hhld (306)
+
+  gta06_orig  gta06_dest      total
+         306          52         17
+
+TABLE    : gta06_hhld (307)
+
+  gta06_orig  gta06_dest      total
+         307          65         29
+         307         503         15
+
+TABLE    : gta06_hhld (312)
+
+  gta06_orig  gta06_dest      total
+          91         312         21
+         311         312         16
+         312         211         10
+         312         311         16
+
+TABLE    : gta06_hhld (313)
+
+  gta06_orig  gta06_dest      total
+          49         313         17
+         309         313         14
+         313          45         15
+         313          52         15
+         313          55         17
+         313          67         15
+         313         116         15
+         313         309         23
+         313         364         14
+         313         371         22
+         371         364         11
+         452         313         29
+
+TABLE    : gta06_hhld (315)
+
+  gta06_orig  gta06_dest      total
+          45         315         15
+          70         315         15
+
+TABLE    : gta06_hhld (316)
+
+  gta06_orig  gta06_dest      total
+         316          67         23
+         316          68         13
+
+TABLE    : gta06_hhld (317)
+
+  gta06_orig  gta06_dest      total
+         317          26         10
+         317         105         12
+
+TABLE    : gta06_hhld (318)
+
+  gta06_orig  gta06_dest      total
+          51         318         60
+         122         318         11
+         287         318         20
+
+TABLE    : gta06_hhld (319)
+
+  gta06_orig  gta06_dest      total
+         115         124          9
+         319         373         20
+
+TABLE    : gta06_hhld (320)
+
+  gta06_orig  gta06_dest      total
+         315         320         26
+         320          55         10
+         371         320         21
+
+TABLE    : gta06_hhld (324)
+
+  gta06_orig  gta06_dest      total
+         324         323         24
+
+TABLE    : gta06_hhld (325)
+
+  gta06_orig  gta06_dest      total
+          57         325          9
+          70         325         18
+
+TABLE    : gta06_hhld (327)
+
+  gta06_orig  gta06_dest      total
+         327          77         52
+
+TABLE    : gta06_hhld (328)
+
+  gta06_orig  gta06_dest      total
+         328          69         37
+         328          96          9
+         328         323          6
+
+TABLE    : gta06_hhld (329)
+
+  gta06_orig  gta06_dest      total
+         329          45         13
+         329         323         22
+
+TABLE    : gta06_hhld (331)
+
+  gta06_orig  gta06_dest      total
+         331          49         21
+
+TABLE    : gta06_hhld (332)
+
+  gta06_orig  gta06_dest      total
+         332         122         29
+
+TABLE    : gta06_hhld (333)
+
+  gta06_orig  gta06_dest      total
+         333          73         11
+         333         314         29
+
+TABLE    : gta06_hhld (334)
+
+  gta06_orig  gta06_dest      total
+          21         148          4
+         334         309         22
+
+TABLE    : gta06_hhld (335)
+
+  gta06_orig  gta06_dest      total
+         323         335         23
+
+TABLE    : gta06_hhld (336)
+
+  gta06_orig  gta06_dest      total
+          38         336         46
+         314         336         20
+         336          29         25
+         336          65         20
+         336         113         17
+         336         309         20
+
+TABLE    : gta06_hhld (337)
+
+  gta06_orig  gta06_dest      total
+         337          69         59
+         337         369         15
+
+TABLE    : gta06_hhld (339)
+
+  gta06_orig  gta06_dest      total
+         339          70         24
+
+TABLE    : gta06_hhld (340)
+
+  gta06_orig  gta06_dest      total
+         125         344         22
+         340          51         31
+
+TABLE    : gta06_hhld (341)
+
+  gta06_orig  gta06_dest      total
+         125         341         14
+         180         341         23
+
+TABLE    : gta06_hhld (342)
+
+  gta06_orig  gta06_dest      total
+         133         145         43
+         201          38         14
+         319         342         16
+         342         133         43
+         342         408         12
+
+TABLE    : gta06_hhld (343)
+
+  gta06_orig  gta06_dest      total
+         290         287          7
+         343          69         16
+         364         343          8
+
+TABLE    : gta06_hhld (345)
+
+  gta06_orig  gta06_dest      total
+         345          52         40
+
+TABLE    : gta06_hhld (346)
+
+  gta06_orig  gta06_dest      total
+         331         346         17
+         346         313         10
+
+TABLE    : gta06_hhld (347)
+
+  gta06_orig  gta06_dest      total
+         347         156         15
+
+TABLE    : gta06_hhld (348)
+
+  gta06_orig  gta06_dest      total
+         348         156         15
+
+TABLE    : gta06_hhld (349)
+
+  gta06_orig  gta06_dest      total
+         129         343         11
+         139         349         18
+         343         348         11
+         350         349         27
+
+TABLE    : gta06_hhld (350)
+
+  gta06_orig  gta06_dest      total
+          68         350          8
+
+TABLE    : gta06_hhld (351)
+
+  gta06_orig  gta06_dest      total
+         351          49         21
+
+TABLE    : gta06_hhld (352)
+
+  gta06_orig  gta06_dest      total
+         352         220         10
+
+TABLE    : gta06_hhld (363)
+
+  gta06_orig  gta06_dest      total
+         363          69         21
+
+TABLE    : gta06_hhld (364)
+
+  gta06_orig  gta06_dest      total
+          25         364         36
+
+TABLE    : gta06_hhld (365)
+
+  gta06_orig  gta06_dest      total
+         365         124         34
+         365         354         13
+         372         365         21
+         389         365         10
+
+TABLE    : gta06_hhld (366)
+
+  gta06_orig  gta06_dest      total
+         366         376         19
+
+TABLE    : gta06_hhld (368)
+
+  gta06_orig  gta06_dest      total
+         218         368         35
+         368         366          9
+         368         371         35
+         368         376         14
+
+TABLE    : gta06_hhld (371)
+
+  gta06_orig  gta06_dest      total
+         371         180         28
+         371         369          9
+         395         371          9
+
+TABLE    : gta06_hhld (373)
+
+  gta06_orig  gta06_dest      total
+          52         373         46
+         367         373          8
+         373         371         36
+
+TABLE    : gta06_hhld (374)
+
+  gta06_orig  gta06_dest      total
+          75         374         23
+         374          69         16
+         374         122         11
+         374         372         25
+
+TABLE    : gta06_hhld (375)
+
+  gta06_orig  gta06_dest      total
+         375          25         20
+
+TABLE    : gta06_hhld (377)
+
+  gta06_orig  gta06_dest      total
+         377         368          7
+         382         441         26
+
+TABLE    : gta06_hhld (380)
+
+  gta06_orig  gta06_dest      total
+         376         380         17
+
+TABLE    : gta06_hhld (381)
+
+  gta06_orig  gta06_dest      total
+         381         180         38
+
+TABLE    : gta06_hhld (382)
+
+  gta06_orig  gta06_dest      total
+         361         382         20
+
+TABLE    : gta06_hhld (383)
+
+  gta06_orig  gta06_dest      total
+         383          38         46
+         383          70         27
+         383         347         18
+         383         383         44
+         383         400         13
+
+TABLE    : gta06_hhld (385)
+
+  gta06_orig  gta06_dest      total
+         369         385         15
+         388         385         15
+         401         385          7
+
+TABLE    : gta06_hhld (389)
+
+  gta06_orig  gta06_dest      total
+         400         389         22
+
+TABLE    : gta06_hhld (390)
+
+  gta06_orig  gta06_dest      total
+          67         390         15
+         389         390         10
+         390         126         23
+         390         211          6
+         390         449         10
+         395          51         69
+         400         390         26
+         415         390         21
+         454         131         12
+
+TABLE    : gta06_hhld (391)
+
+  gta06_orig  gta06_dest      total
+         391         180          6
+         391         401          3
+
+TABLE    : gta06_hhld (396)
+
+  gta06_orig  gta06_dest      total
+         396         288         48
+         396         369         32
+         396         566         29
+
+TABLE    : gta06_hhld (397)
+
+  gta06_orig  gta06_dest      total
+         397          37          3
+         397         279          7
+         397         389         15
+         397         417          3
+
+TABLE    : gta06_hhld (398)
+
+  gta06_orig  gta06_dest      total
+          68         398         11
+         398         400         29
+         452         398          3
+
+TABLE    : gta06_hhld (400)
+
+  gta06_orig  gta06_dest      total
+         391         400         29
+         400          25         15
+         400         118         23
+         400         400         50
+
+TABLE    : gta06_hhld (401)
+
+  gta06_orig  gta06_dest      total
+          75         401         31
+         393         401         11
+         401         408         31
+
+TABLE    : gta06_hhld (402)
+
+  gta06_orig  gta06_dest      total
+         406         402         19
+
+TABLE    : gta06_hhld (403)
+
+  gta06_orig  gta06_dest      total
+         403         386         31
+         403         392         60
+         403         401         27
+
+TABLE    : gta06_hhld (404)
+
+  gta06_orig  gta06_dest      total
+         404          15          5
+         404          54          8
+
+TABLE    : gta06_hhld (405)
+
+  gta06_orig  gta06_dest      total
+          52         405          4
+         405          51         27
+         405          52         45
+         405         566         22
+         405         599          4
+
+TABLE    : gta06_hhld (406)
+
+  gta06_orig  gta06_dest      total
+         406         151         33
+
+TABLE    : gta06_hhld (407)
+
+  gta06_orig  gta06_dest      total
+         407          29         85
+
+TABLE    : gta06_hhld (409)
+
+  gta06_orig  gta06_dest      total
+         409         414         46
+         414         409         46
+
+TABLE    : gta06_hhld (410)
+
+  gta06_orig  gta06_dest      total
+          43         410         21
+         410         414          7
+         414         410         15
+
+TABLE    : gta06_hhld (411)
+
+  gta06_orig  gta06_dest      total
+          38         411         11
+         390         392         37
+         411          51         24
+         411          76         37
+         411         131         10
+         411         181          6
+         411         309         41
+         411         390         37
+
+TABLE    : gta06_hhld (412)
+
+  gta06_orig  gta06_dest      total
+         412          69         22
+         412         391         55
+
+TABLE    : gta06_hhld (413)
+
+  gta06_orig  gta06_dest      total
+         170         413         21
+         413         120         18
+
+TABLE    : gta06_hhld (414)
+
+  gta06_orig  gta06_dest      total
+         414         371         26
+
+TABLE    : gta06_hhld (415)
+
+  gta06_orig  gta06_dest      total
+         180         415         51
+
+TABLE    : gta06_hhld (422)
+
+  gta06_orig  gta06_dest      total
+         147          97         41
+
+TABLE    : gta06_hhld (423)
+
+  gta06_orig  gta06_dest      total
+         423          62         63
+
+TABLE    : gta06_hhld (424)
+
+  gta06_orig  gta06_dest      total
+         424         210         30
+         424         227         34
+
+TABLE    : gta06_hhld (425)
+
+  gta06_orig  gta06_dest      total
+         184         425         27
+
+TABLE    : gta06_hhld (427)
+
+  gta06_orig  gta06_dest      total
+         427          71         33
+
+TABLE    : gta06_hhld (428)
+
+  gta06_orig  gta06_dest      total
+         205         428         14
+         428          38         15
+
+TABLE    : gta06_hhld (429)
+
+  gta06_orig  gta06_dest      total
+         429          65          7
+
+TABLE    : gta06_hhld (430)
+
+  gta06_orig  gta06_dest      total
+         236          37         12
+
+TABLE    : gta06_hhld (431)
+
+  gta06_orig  gta06_dest      total
+          25         431         27
+         429         448         13
+         431          21          8
+         431         184         17
+         431         430          8
+         431         431         17
+         431         432         13
+         431         446         10
+
+TABLE    : gta06_hhld (432)
+
+  gta06_orig  gta06_dest      total
+         131         394         20
+         432         157         16
+
+TABLE    : gta06_hhld (433)
+
+  gta06_orig  gta06_dest      total
+         394         433         12
+
+TABLE    : gta06_hhld (434)
+
+  gta06_orig  gta06_dest      total
+         230         228         39
+         434           4         14
+         434          38         63
+         434          68         18
+
+TABLE    : gta06_hhld (435)
+
+  gta06_orig  gta06_dest      total
+          38         464         39
+         440         435         22
+         446         435         59
+
+TABLE    : gta06_hhld (436)
+
+  gta06_orig  gta06_dest      total
+          63         317         13
+         182         436         17
+         429         436         36
+         436          69         33
+         436         101         49
+         436         182         17
+
+TABLE    : gta06_hhld (437)
+
+  gta06_orig  gta06_dest      total
+         182         437         10
+         437          75         17
+
+TABLE    : gta06_hhld (438)
+
+  gta06_orig  gta06_dest      total
+          57         438         17
+         201          43          8
+         438         279         13
+         454         490         31
+
+TABLE    : gta06_hhld (439)
+
+  gta06_orig  gta06_dest      total
+         218         439         23
+         439          68         12
+
+TABLE    : gta06_hhld (440)
+
+  gta06_orig  gta06_dest      total
+         149         440         22
+
+TABLE    : gta06_hhld (441)
+
+  gta06_orig  gta06_dest      total
+          51         441         14
+         441          25         15
+         452         441         17
+
+TABLE    : gta06_hhld (442)
+
+  gta06_orig  gta06_dest      total
+          52          26         25
+          53         443         35
+         442          69         22
+         442         209         20
+         442         436         22
+
+TABLE    : gta06_hhld (443)
+
+  gta06_orig  gta06_dest      total
+          45         443         20
+         443          25         21
+         443          52         25
+         443         187         22
+         443         200         20
+         443         309         15
+         443         391         40
+
+TABLE    : gta06_hhld (444)
+
+  gta06_orig  gta06_dest      total
+         444         228         24
+         444         446         36
+         444         452         19
+         452         444         19
+
+TABLE    : gta06_hhld (446)
+
+  gta06_orig  gta06_dest      total
+         446          47         14
+         446         269         20
+
+TABLE    : gta06_hhld (447)
+
+  gta06_orig  gta06_dest      total
+         447         466         52
+
+TABLE    : gta06_hhld (448)
+
+  gta06_orig  gta06_dest      total
+          51         448         20
+          52         184         26
+         249         258         20
+         448          67         19
+         448         391         16
+         448         446         28
+         448         463         20
+         448         481         19
+         481         476         19
+
+TABLE    : gta06_hhld (449)
+
+  gta06_orig  gta06_dest      total
+         449         465         18
+
+TABLE    : gta06_hhld (450)
+
+  gta06_orig  gta06_dest      total
+         227         450         40
+         442         450          9
+         450          51          4
+         450          52         21
+         450          70         35
+         450          75          4
+         450          76         12
+
+TABLE    : gta06_hhld (451)
+
+  gta06_orig  gta06_dest      total
+         451          69         28
+
+TABLE    : gta06_hhld (452)
+
+  gta06_orig  gta06_dest      total
+         101         335         44
+         211         452          9
+         440         452         29
+         452          69         27
+         452         443         11
+         452         444         16
+
+TABLE    : gta06_hhld (454)
+
+  gta06_orig  gta06_dest      total
+          55          69         24
+          65         452         11
+          69         454         24
+         211         454          6
+         212         454         27
+         442         197          6
+         444          54          8
+         444         454         11
+         454          54         19
+         454         481         19
+         490         454         16
+
+TABLE    : gta06_hhld (455)
+
+  gta06_orig  gta06_dest      total
+         441         264          8
+         455          70         12
+         455         566         66
+
+TABLE    : gta06_hhld (456)
+
+  gta06_orig  gta06_dest      total
+         456         218         20
+
+TABLE    : gta06_hhld (457)
+
+  gta06_orig  gta06_dest      total
+         457         448         12
+
+TABLE    : gta06_hhld (458)
+
+  gta06_orig  gta06_dest      total
+         209         204          8
+
+TABLE    : gta06_hhld (459)
+
+  gta06_orig  gta06_dest      total
+         459          74         10
+
+TABLE    : gta06_hhld (460)
+
+  gta06_orig  gta06_dest      total
+         228         460         14
+         257         270         12
+         431          98          5
+         442         444         20
+         460         228         14
+
+TABLE    : gta06_hhld (461)
+
+  gta06_orig  gta06_dest      total
+          45          45         15
+         461          73         12
+         461         446         16
+         461         505         14
+
+TABLE    : gta06_hhld (462)
+
+  gta06_orig  gta06_dest      total
+          70         463          7
+         462          46          6
+
+TABLE    : gta06_hhld (463)
+
+  gta06_orig  gta06_dest      total
+          65         452          8
+         452         463          8
+         463         218         22
+         463         271         22
+
+TABLE    : gta06_hhld (464)
+
+  gta06_orig  gta06_dest      total
+          70         444         13
+         225         464          8
+         464         157         19
+         464         481         34
+         585         464         13
+
+TABLE    : gta06_hhld (466)
+
+  gta06_orig  gta06_dest      total
+          75         466         31
+         466         456         12
+         466         465          6
+
+TABLE    : gta06_hhld (467)
+
+  gta06_orig  gta06_dest      total
+          69          52         18
+          80         467          9
+         467          71         21
+         467         157         20
+         467         204         14
+         467         484         22
+         467         511         16
+         467         566         70
+         476         467         14
+         481         452         70
+         530         467         17
+
+TABLE    : gta06_hhld (468)
+
+  gta06_orig  gta06_dest      total
+         468         588         23
+
+TABLE    : gta06_hhld (471)
+
+  gta06_orig  gta06_dest      total
+         236         446         25
+         471         476         25
+
+TABLE    : gta06_hhld (472)
+
+  gta06_orig  gta06_dest      total
+         472          85          7
+         472         243         25
+
+TABLE    : gta06_hhld (477)
+
+  gta06_orig  gta06_dest      total
+         477         448         26
+
+TABLE    : gta06_hhld (478)
+
+  gta06_orig  gta06_dest      total
+          51         478         18
+         478          37         10
+         478          52          8
+         478         218         26
+         478         467          8
+         478         476         18
+         478         481          6
+         481         394         55
+
+TABLE    : gta06_hhld (479)
+
+  gta06_orig  gta06_dest      total
+         479          38         33
+
+TABLE    : gta06_hhld (480)
+
+  gta06_orig  gta06_dest      total
+         217         480         22
+         463         217         22
+         480         585         21
+         504         480         21
+         592         588         30
+
+TABLE    : gta06_hhld (481)
+
+  gta06_orig  gta06_dest      total
+         452         481         22
+         481          38         15
+         481         478         19
+         481         484         25
+
+TABLE    : gta06_hhld (482)
+
+  gta06_orig  gta06_dest      total
+         472         482         41
+         482          67         10
+         482         211         12
+         482         482         25
+         578         511         12
+
+TABLE    : gta06_hhld (483)
+
+  gta06_orig  gta06_dest      total
+         481         483         17
+
+TABLE    : gta06_hhld (484)
+
+  gta06_orig  gta06_dest      total
+         465         484         12
+         484          51         17
+
+TABLE    : gta06_hhld (485)
+
+  gta06_orig  gta06_dest      total
+          45          52         17
+         485         481         10
+         485         484         25
+
+TABLE    : gta06_hhld (487)
+
+  gta06_orig  gta06_dest      total
+         259         251         14
+         487         242         55
+
+TABLE    : gta06_hhld (490)
+
+  gta06_orig  gta06_dest      total
+          35         490         28
+         486         530         14
+         490          21         14
+         490         444         18
+         490         452         27
+         490         490         31
+         490         566         54
+         490         580         16
+         504         490         16
+         531         490         16
+
+TABLE    : gta06_hhld (491)
+
+  gta06_orig  gta06_dest      total
+         491         578         28
+
+TABLE    : gta06_hhld (494)
+
+  gta06_orig  gta06_dest      total
+         494         490         34
+         494         491         29
+         494         516         45
+         585         494         13
+         604         585         13
+
+TABLE    : gta06_hhld (495)
+
+  gta06_orig  gta06_dest      total
+         501         495         20
+
+TABLE    : gta06_hhld (496)
+
+  gta06_orig  gta06_dest      total
+         496         490         22
+         496         496         37
+         496         549          9
+
+TABLE    : gta06_hhld (497)
+
+  gta06_orig  gta06_dest      total
+         497         180         10
+         497         561         54
+
+TABLE    : gta06_hhld (498)
+
+  gta06_orig  gta06_dest      total
+         498         490         20
+
+TABLE    : gta06_hhld (499)
+
+  gta06_orig  gta06_dest      total
+         391         499         30
+         499         502         65
+
+TABLE    : gta06_hhld (500)
+
+  gta06_orig  gta06_dest      total
+         500          52         57
+         500         566         23
+
+TABLE    : gta06_hhld (501)
+
+  gta06_orig  gta06_dest      total
+         501         503         35
+
+TABLE    : gta06_hhld (503)
+
+  gta06_orig  gta06_dest      total
+         503          68         18
+
+TABLE    : gta06_hhld (505)
+
+  gta06_orig  gta06_dest      total
+         228         505         23
+         501         505         29
+         505         272         22
+
+TABLE    : gta06_hhld (506)
+
+  gta06_orig  gta06_dest      total
+         506          43         58
+         506         508         24
+         506         528         41
+         506         529         62
+         508         506         24
+
+TABLE    : gta06_hhld (507)
+
+  gta06_orig  gta06_dest      total
+         507         239         14
+         507         278         31
+
+TABLE    : gta06_hhld (509)
+
+  gta06_orig  gta06_dest      total
+         509         426         16
+
+TABLE    : gta06_hhld (510)
+
+  gta06_orig  gta06_dest      total
+         510         391         45
+         561         510         12
+
+TABLE    : gta06_hhld (512)
+
+  gta06_orig  gta06_dest      total
+         566         523         48
+
+TABLE    : gta06_hhld (513)
+
+  gta06_orig  gta06_dest      total
+         513         516          9
+
+TABLE    : gta06_hhld (514)
+
+  gta06_orig  gta06_dest      total
+          46         276         26
+         514         490         15
+         514         513          9
+         514         549         44
+         554          63          5
+
+TABLE    : gta06_hhld (515)
+
+  gta06_orig  gta06_dest      total
+         230         491         67
+         490         562         94
+         515          21        127
+         515         349          6
+         515         491          6
+         515         513          8
+         515         516          6
+         515         560          6
+         515         566         30
+         516         515          6
+         532         264         38
+         552         516          5
+         557         515          6
+
+TABLE    : gta06_hhld (516)
+
+  gta06_orig  gta06_dest      total
+         516         535         44
+         516         566         17
+         535         251         44
+
+TABLE    : gta06_hhld (518)
+
+  gta06_orig  gta06_dest      total
+          67         196         51
+         518          55         33
+         518         520          9
+         518         524         13
+         518         536         27
+         518         552          8
+
+TABLE    : gta06_hhld (520)
+
+  gta06_orig  gta06_dest      total
+          84          38         14
+         490         520         23
+         512         520         25
+         520          45         13
+         520         218         20
+         520         512         45
+         520         522         43
+         522         515         43
+         532         520         61
+
+TABLE    : gta06_hhld (521)
+
+  gta06_orig  gta06_dest      total
+         521         515         35
+         585         481          9
+         595         526         16
+
+TABLE    : gta06_hhld (522)
+
+  gta06_orig  gta06_dest      total
+         487         522         15
+         522         180         15
+         522         487         15
+         522         620         17
+
+TABLE    : gta06_hhld (523)
+
+  gta06_orig  gta06_dest      total
+         523         218         23
+         523         490         23
+         552         523         32
+
+TABLE    : gta06_hhld (524)
+
+  gta06_orig  gta06_dest      total
+          78         524          5
+         253         524         64
+         524          68         38
+
+TABLE    : gta06_hhld (528)
+
+  gta06_orig  gta06_dest      total
+          52         528         28
+         527         528          8
+         528          50         24
+
+TABLE    : gta06_hhld (530)
+
+  gta06_orig  gta06_dest      total
+         526         530         33
+
+TABLE    : gta06_hhld (531)
+
+  gta06_orig  gta06_dest      total
+         528         531         18
+         531          52          7
+         531         279         73
+         531         522         45
+         531         566          6
+
+TABLE    : gta06_hhld (532)
+
+  gta06_orig  gta06_dest      total
+         532          57         13
+         532          69         13
+         532         529          5
+         532         532         13
+         532         536         32
+
+TABLE    : gta06_hhld (533)
+
+  gta06_orig  gta06_dest      total
+         533          69         16
+         533         316         13
+
+TABLE    : gta06_hhld (534)
+
+  gta06_orig  gta06_dest      total
+         534         618         18
+
+TABLE    : gta06_hhld (535)
+
+  gta06_orig  gta06_dest      total
+          52         535         44
+         490         535         27
+         535          52         10
+         535          69         37
+         535         249         12
+         535         490         16
+
+TABLE    : gta06_hhld (536)
+
+  gta06_orig  gta06_dest      total
+          49         536         15
+         263         209         17
+         524         536         22
+         536         490         24
+
+TABLE    : gta06_hhld (537)
+
+  gta06_orig  gta06_dest      total
+          22         537         17
+          47         537         12
+         530          55         15
+         537          26          9
+         537          40         12
+         537          52         11
+         537         349         36
+         544         537         16
+
+TABLE    : gta06_hhld (538)
+
+  gta06_orig  gta06_dest      total
+          39         452         18
+          70         538         44
+          75         264         54
+         452          39         18
+         473         538         50
+         538          46         19
+         538          51         12
+         538          75         54
+         538         250        107
+         538         259         19
+         538         491         41
+         538         539         22
+         539         538         22
+         561         538         31
+
+TABLE    : gta06_hhld (539)
+
+  gta06_orig  gta06_dest      total
+          43         539         47
+         313          43         47
+         539         239         10
+         539         258         79
+
+TABLE    : gta06_hhld (540)
+
+  gta06_orig  gta06_dest      total
+         254         540          6
+         270          52          9
+         540          67         15
+         540         442         30
+
+TABLE    : gta06_hhld (541)
+
+  gta06_orig  gta06_dest      total
+         535         541         14
+         541         539         10
+
+TABLE    : gta06_hhld (542)
+
+  gta06_orig  gta06_dest      total
+         542          55          9
+         542         253         10
+         542         542         21
+
+TABLE    : gta06_hhld (543)
+
+  gta06_orig  gta06_dest      total
+         543         490         32
+
+TABLE    : gta06_hhld (544)
+
+  gta06_orig  gta06_dest      total
+         544         454         17
+         544         538         37
+
+TABLE    : gta06_hhld (545)
+
+  gta06_orig  gta06_dest      total
+         259         545          9
+         518         545          4
+         545         391         14
+         545         538         19
+
+TABLE    : gta06_hhld (546)
+
+  gta06_orig  gta06_dest      total
+         546          25         25
+         546         254         19
+
+TABLE    : gta06_hhld (548)
+
+  gta06_orig  gta06_dest      total
+         548          55         12
+
+TABLE    : gta06_hhld (549)
+
+  gta06_orig  gta06_dest      total
+         549         219         15
+         549         516         15
+         549         566         11
+
+TABLE    : gta06_hhld (550)
+
+  gta06_orig  gta06_dest      total
+         550         476         20
+
+TABLE    : gta06_hhld (552)
+
+  gta06_orig  gta06_dest      total
+         552          38         18
+         552         258         17
+         552         515         37
+
+TABLE    : gta06_hhld (553)
+
+  gta06_orig  gta06_dest      total
+         553          38         27
+
+TABLE    : gta06_hhld (554)
+
+  gta06_orig  gta06_dest      total
+         554          37         12
+
+TABLE    : gta06_hhld (555)
+
+  gta06_orig  gta06_dest      total
+          54          71         11
+         555          57          8
+
+TABLE    : gta06_hhld (559)
+
+  gta06_orig  gta06_dest      total
+         360         559         27
+         546         559         19
+         559         620         35
+         620         559         35
+
+TABLE    : gta06_hhld (560)
+
+  gta06_orig  gta06_dest      total
+         560         272         34
+         560         598         11
+
+TABLE    : gta06_hhld (562)
+
+  gta06_orig  gta06_dest      total
+          52         562         85
+         210         562         48
+         282          66         30
+         516         562         15
+         562         391         27
+         562         532         50
+         562         552         15
+         562         566         36
+         562         577          7
+
+TABLE    : gta06_hhld (563)
+
+  gta06_orig  gta06_dest      total
+         563         278         14
+
+TABLE    : gta06_hhld (567)
+
+  gta06_orig  gta06_dest      total
+         566         567         11
+         567          63         35
+         567         566         11
+
+TABLE    : gta06_hhld (568)
+
+  gta06_orig  gta06_dest      total
+         560         568         24
+
+TABLE    : gta06_hhld (570)
+
+  gta06_orig  gta06_dest      total
+         570          66         11
+         570         290         22
+
+TABLE    : gta06_hhld (571)
+
+  gta06_orig  gta06_dest      total
+         559         571         10
+         571         576          9
+
+TABLE    : gta06_hhld (572)
+
+  gta06_orig  gta06_dest      total
+         572          54         51
+         572         528         42
+         572         532         68
+
+TABLE    : gta06_hhld (573)
+
+  gta06_orig  gta06_dest      total
+         567         601         21
+
+TABLE    : gta06_hhld (575)
+
+  gta06_orig  gta06_dest      total
+         492         490         12
+         575         561          9
+
+TABLE    : gta06_hhld (577)
+
+  gta06_orig  gta06_dest      total
+         236         577         21
+
+TABLE    : gta06_hhld (578)
+
+  gta06_orig  gta06_dest      total
+         578         490         22
+
+TABLE    : gta06_hhld (579)
+
+  gta06_orig  gta06_dest      total
+         476         579         32
+         490         532         18
+         491         609         32
+         579          73         14
+         579         566          7
+
+TABLE    : gta06_hhld (580)
+
+  gta06_orig  gta06_dest      total
+         580          57          8
+
+TABLE    : gta06_hhld (581)
+
+  gta06_orig  gta06_dest      total
+         467         233         13
+         479         235         13
+         479         467         13
+
+TABLE    : gta06_hhld (582)
+
+  gta06_orig  gta06_dest      total
+         582         473         25
+         582         595         11
+         601         582         21
+
+TABLE    : gta06_hhld (585)
+
+  gta06_orig  gta06_dest      total
+         585         180         34
+
+TABLE    : gta06_hhld (586)
+
+  gta06_orig  gta06_dest      total
+         580         586         17
+         586         467          9
+         586         487         17
+         586         503         23
+
+TABLE    : gta06_hhld (587)
+
+  gta06_orig  gta06_dest      total
+         242         483         11
+         587         578         16
+         588         587         13
+
+TABLE    : gta06_hhld (588)
+
+  gta06_orig  gta06_dest      total
+         588         526          8
+         588         566         43
+         588         585         24
+         588         601         25
+         598         588         25
+
+TABLE    : gta06_hhld (590)
+
+  gta06_orig  gta06_dest      total
+         328          67         16
+         590         181         13
+         590         194         11
+         590         587          7
+         590         593          7
+         593         590          7
+
+TABLE    : gta06_hhld (591)
+
+  gta06_orig  gta06_dest      total
+         591          77         13
+         591         251         17
+         591         490         17
+         598         591         14
+
+TABLE    : gta06_hhld (592)
+
+  gta06_orig  gta06_dest      total
+         587         592         14
+         592         481         39
+
+TABLE    : gta06_hhld (594)
+
+  gta06_orig  gta06_dest      total
+          97          46         17
+         594         196         24
+         594         604         16
+
+TABLE    : gta06_hhld (595)
+
+  gta06_orig  gta06_dest      total
+          52         595         31
+          68         595         15
+         201         490         18
+         454         595         39
+         583         603         10
+         595          25          7
+         595          38         23
+         595         490         19
+         595         595         18
+         596         595         18
+
+TABLE    : gta06_hhld (596)
+
+  gta06_orig  gta06_dest      total
+          38         490         29
+          67          52         17
+
+TABLE    : gta06_hhld (597)
+
+  gta06_orig  gta06_dest      total
+         597          51          9
+         597         595          9
+
+TABLE    : gta06_hhld (600)
+
+  gta06_orig  gta06_dest      total
+         599         600         78
+         600          69         10
+         600         490          5
+         600         566         27
+
+TABLE    : gta06_hhld (601)
+
+  gta06_orig  gta06_dest      total
+         601          38         15
+         601          52         16
+         601         490         40
+         601         501         24
+         601         566         80
+
+TABLE    : gta06_hhld (606)
+
+  gta06_orig  gta06_dest      total
+         479         597          9
+         481         606         10
+         505         606         10
+         606          65          9
+         606         116         26
+         606         490          4
+
+TABLE    : gta06_hhld (608)
+
+  gta06_orig  gta06_dest      total
+          38         608         17
+         608         452         11
+
+TABLE    : gta06_hhld (611)
+
+  gta06_orig  gta06_dest      total
+         611         601         28
+
+TABLE    : gta06_hhld (617)
+
+  gta06_orig  gta06_dest      total
+         617         545         33
+
+TABLE    : gta06_hhld (619)
+
+  gta06_orig  gta06_dest      total
+         598         619         18
+         619         391         28
+         619         585         18
+         619         592         42
+
+TABLE    : gta06_hhld (620)
+
+  gta06_orig  gta06_dest      total
+          38         620         34
+         620         210         27
+         620         218         52
+         620         561          7
+         620         612         39
+
+TABLE    : gta06_hhld (621)
+
+  gta06_orig  gta06_dest      total
+         481         621         27
+         613         621         10
+
+TABLE    : gta06_hhld (622)
+
+  gta06_orig  gta06_dest      total
+         493         614         70
+         613         622         12
+
+TABLE    : gta06_hhld (624)
+
+  gta06_orig  gta06_dest      total
+         577         624         26
+         613         624          9
+         624          46         31
+         624         542         26
+
+TABLE    : gta06_hhld (625)
+
+  gta06_orig  gta06_dest      total
+         625          45          9
